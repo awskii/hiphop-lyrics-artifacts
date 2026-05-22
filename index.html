@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Русский хип-хоп: ML-анализ текстов</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --panel: #13131c;
+    --border: #1f1f2e;
+    --text: #e8e8f0;
+    --muted: #8888a0;
+    --accent: #ff4d6d;
+    --accent2: #7b61ff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .hero {
+    padding: 80px 20px 60px;
+    text-align: center;
+    background: radial-gradient(ellipse at top, rgba(123,97,255,0.15), transparent 60%);
+    border-bottom: 1px solid var(--border);
+  }
+  .hero h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #fff, #a8a8c0);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 16px;
+  }
+  .hero .stats-line {
+    font-size: 1.1rem;
+    color: var(--muted);
+    margin-bottom: 24px;
+  }
+  .hero .stats-line b { color: var(--accent); font-weight: 600; }
+  .hero .sub { font-size: 0.95rem; color: var(--muted); max-width: 640px; margin: 0 auto; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+  section { margin-bottom: 80px; }
+  section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 8px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  section h2::before {
+    content: "#";
+    color: var(--accent2);
+    margin-right: 10px;
+    font-weight: 400;
+  }
+  section .desc { color: var(--muted); margin-bottom: 28px; }
+  .grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+  .card:hover { border-color: var(--accent2); transform: translateY(-2px); }
+  .card h3 { font-size: 1.1rem; margin-bottom: 8px; }
+  .card p { color: var(--muted); font-size: 0.9rem; margin-bottom: 16px; }
+  .card .big-number { font-size: 2.5rem; font-weight: 800; color: var(--accent); }
+  .card .big-label { color: var(--muted); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  .btn {
+    display: inline-block;
+    background: var(--accent2);
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: opacity 0.15s;
+  }
+  .btn:hover { opacity: 0.85; }
+  .btn.secondary { background: var(--border); }
+  .viz-img {
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: #fff;
+  }
+  .viz-wide { grid-column: 1 / -1; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+  }
+  th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 500; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  td:first-child { font-weight: 600; }
+  tr:hover td { background: rgba(123,97,255,0.05); }
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 32px 20px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  footer a { color: var(--accent2); text-decoration: none; }
+  .tag {
+    display: inline-block;
+    background: rgba(123,97,255,0.15);
+    color: var(--accent2);
+    padding: 2px 10px;
+    border-radius: 99px;
+    font-size: 0.75rem;
+    margin-right: 6px;
+    margin-bottom: 4px;
+  }
+  @media (max-width: 600px) {
+    .hero { padding: 48px 16px 40px; }
+    .container { padding: 24px 16px; }
+    section { margin-bottom: 48px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <h1>Русский хип-хоп</h1>
+  <p class="stats-line">
+    <b>1 837</b> треков · <b>596</b> артистов · <b>1979–2025</b>
+  </p>
+  <p class="sub">
+    ML-анализ корпуса русскоязычного хип-хопа: NLP-нормализация, тематическое моделирование (LDA),
+    TF-IDF cosine similarity, графы коллабораций и стилистического сходства.
+    Мат сохранён verbatim — как в оригинальных текстах.
+  </p>
+</header>
+
+<div class="container">
+
+<section>
+  <h2>Обзор корпуса</h2>
+  <p class="desc">Агрегированные показатели по всему корпусу.</p>
+  <div class="grid" id="overview-grid">
+    <div class="card"><div class="big-number">561k</div><div class="big-label">Токенов</div></div>
+    <div class="card"><div class="big-number">305</div><div class="big-label">Ср. длина трека</div></div>
+    <div class="card"><div class="big-number">285</div><div class="big-label">Медианная длина</div></div>
+    <div class="card"><div class="big-number">45</div><div class="big-label">Лет (1979–2025)</div></div>
+  </div>
+  <div class="grid" style="margin-top: 24px;">
+    <div class="viz-wide">
+      <div class="card">
+        <h3>Распределение длин треков</h3>
+        <p>Гистограмма количества токенов на трек</p>
+        <img class="viz-img" src="static/stats/length_dist.png" alt="Song length distribution">
+      </div>
+    </div>
+    <div class="viz-wide">
+      <div class="card">
+        <h3>Объём треков по годам</h3>
+        <p>Количество песен в корпусе, сгруппированное по году</p>
+        <img class="viz-img" src="static/stats/year_volume.png" alt="Year volume">
+      </div>
+    </div>
+    <div class="card">
+      <h3>Mat density — Top 30</h3>
+      <p>Плотность обсценной лексики у самых продуктивных артистов</p>
+      <img class="viz-img" src="static/stats/mat_density_top30.png" alt="Mat density">
+    </div>
+    <div class="card">
+      <h3>TTR vs число треков</h3>
+      <p>Type-Token Ratio: лексическое разнообразие против объёма дискографии</p>
+      <img class="viz-img" src="static/stats/ttr_vs_songcount.png" alt="TTR vs songcount">
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Wordcloud</h2>
+  <p class="desc">TF-IDF взвешенное облако по всему корпусу. Мат — verbatim.</p>
+  <div class="grid">
+    <div class="viz-wide">
+      <div class="card">
+        <img class="viz-img" src="static/wordcloud/global.png" alt="Global wordcloud">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Стилистическое сходство</h2>
+  <p class="desc">Косинусное сходство TF-IDF векторов между артистами.</p>
+  <div class="grid">
+    <div class="viz-wide">
+      <div class="card">
+        <h3>Top-50 артистов: тепловая карта сходства</h3>
+        <p>Чем ярче — тем ближе стили</p>
+        <img class="viz-img" src="static/similarity/heatmap_top50.png" alt="Similarity heatmap">
+      </div>
+    </div>
+    <div class="viz-wide">
+      <div class="card">
+        <h3>Интерактивный граф сходства</h3>
+        <p>Pyvis-визуализация: узлы — артисты, рёбра — cosine similarity выше порога</p>
+        <a class="btn" href="static/graph/similarity.html" target="_blank">Открыть граф →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Коллаборации</h2>
+  <p class="desc">Граф совместных треков, извлечённых из заголовков (regex: feat., ft., &).</p>
+  <div class="grid">
+    <div class="viz-wide">
+      <div class="card">
+        <a class="btn" href="static/graph/collab.html" target="_blank">Открыть граф коллабораций →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Темы (LDA)</h2>
+  <p class="desc">Тематическая модель (gensim LDA). Топ-термины и coherence по каждой теме.</p>
+  <div class="grid">
+    <div class="viz-wide">
+      <div class="card">
+        <h3>Топ-термины по темам</h3>
+        <div id="topics-container"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Исходные артефакты</h2>
+  <p class="desc">CSV с агрегированными результатами. Полная матрица сходства (~57 MB) и GEXF-графы опущены — доступны по запросу.</p>
+  <div class="grid">
+    <div class="card">
+      <h3>Список CSV</h3>
+      <ul style="list-style: none; padding: 0; font-size: 0.9rem;">
+        <li>📄 <a href="static/stats/artists.csv" style="color: var(--accent2);">artists.csv</a> — пер-артистовая агрегация</li>
+        <li>📄 <a href="static/stats/by_year.csv" style="color: var(--accent2);">by_year.csv</a> — по годам</li>
+        <li>📄 <a href="static/similarity/nearest_neighbors.csv" style="color: var(--accent2);">nearest_neighbors.csv</a> — top-K соседей</li>
+        <li>📄 <a href="static/wordcloud/global_top_terms.csv" style="color: var(--accent2);">global_top_terms.csv</a></li>
+        <li>📄 <a href="static/topics/topics_top_terms.csv" style="color: var(--accent2);">topics_top_terms.csv</a></li>
+        <li>📄 <a href="static/topics/coherence_summary.csv" style="color: var(--accent2);">coherence_summary.csv</a></li>
+        <li>📄 <a href="REPORT.md" style="color: var(--accent2);">REPORT.md</a> — сводка</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Методология</h3>
+      <p style="font-size: 0.88rem;">
+        <span class="tag">pymorphy3</span>
+        <span class="tag">Natasha</span>
+        <span class="tag">scikit-learn</span>
+        <span class="tag">gensim LDA</span>
+        <span class="tag">networkx</span>
+        <span class="tag">pyvis</span>
+        <span class="tag">Louvain</span>
+      </p>
+      <p>Нормализация → лемматизация → TF-IDF → cosine → kNN graph → community detection</p>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<footer>
+  <p>Сбор: <a href="https://github.com/awskii/hiphop-lyrics-artifacts">awskii/hiphop-lyrics-artifacts</a> · Корпус: ~1.8k треков, ~600 артистов · Построено с помощью <a href="https://github.com/awskii/wai">hh_lyrics pipeline</a></p>
+</footer>
+
+<script>
+// Загрузим topics CSV и отрисуем таблицей
+fetch('static/topics/topics_top_terms.csv')
+  .then(r => r.text())
+  .then(text => {
+    const lines = text.trim().split('\n');
+    const header = lines[0].split(',');
+    const rows = lines.slice(1).slice(0, 12);
+    let html = '<table><thead><tr>';
+    header.forEach(h => html += `<th>${h}</th>`);
+    html += '</tr></thead><tbody>';
+    rows.forEach(row => {
+      html += '<tr>';
+      // CSV может содержать кавычки внутри; простая обработка
+      const cols = row.split(',').map(c => c.replace(/^"|"$/g, ''));
+      cols.forEach(c => html += `<td>${c}</td>`);
+      html += '</tr>';
+    });
+    html += '</tbody></table>';
+    document.getElementById('topics-container').innerHTML = html;
+  })
+  .catch(() => {
+    document.getElementById('topics-container').innerHTML = '<p style="color:var(--muted)">Не удалось загрузить файл тем.</p>';
+  });
+</script>
+
+</body>
+</html>
