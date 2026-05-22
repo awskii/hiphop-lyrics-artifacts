@@ -211,6 +211,8 @@
         <h3>Интерактивный граф сходства</h3>
         <p>Pyvis-визуализация: узлы — артисты, рёбра — cosine similarity выше порога</p>
         <a class="btn" href="static/graph/similarity.html" target="_blank">Открыть граф →</a>
+        <a class="btn secondary" href="static/graph/similarity_full.gexf" download style="margin-left: 8px;">Скачать .gexf</a>
+        <a class="btn secondary" href="static/graph/similarity_communities.csv" download style="margin-left: 8px;">Communities CSV</a>
       </div>
     </div>
   </div>
@@ -220,10 +222,19 @@
   <h2>Коллаборации</h2>
   <p class="desc">Граф совместных треков, извлечённых из заголовков (regex: feat., ft., &).</p>
   <div class="grid">
-    <div class="viz-wide">
-      <div class="card">
-        <a class="btn" href="static/graph/collab.html" target="_blank">Открыть граф коллабораций →</a>
-      </div>
+    <div class="card">
+      <h3>Интерактивный граф</h3>
+      <p><a class="btn" href="static/graph/collab.html" target="_blank">Открыть →</a></p>
+    </div>
+    <div class="card">
+      <h3>Gephi (GEXF)</h3>
+      <p>Полный граф для импорта в Gephi. Узлы + рёбра + weight.</p>
+      <a class="btn secondary" href="static/graph/collab_full.gexf" download>Скачать .gexf</a>
+    </div>
+    <div class="card">
+      <h3>Коммьюнити</h3>
+      <p>Louvain-детекция сообществ + degree centrality</p>
+      <a class="btn secondary" href="static/graph/collab_communities.csv" download>Скачать CSV</a>
     </div>
   </div>
 </section>

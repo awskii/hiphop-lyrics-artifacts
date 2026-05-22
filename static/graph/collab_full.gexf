@@ -1,0 +1,5136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-22">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="corpus_artist" type="boolean" />
+      <attribute id="1" title="song_count" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Oxxxymiron" label="Oxxxymiron">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="Скриптонит" label="Скриптонит">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="Скриптон" label="Скриптон">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Баста" label="Баста">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="Баста, Смоки Мо" label="Баста, Смоки Мо">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Баста и Смоки Мо" label="Баста и Смоки Мо">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="JILLZAY - ТВОY НОМЕР (Origin) Six O!" label="JILLZAY - ТВОY НОМЕР (Origin) Six O!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lustral" label="Lustral">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Regina Spektor" label="Regina Spektor">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="K'Maro" label="K'Maro">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Face" label="Face">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Гуф" label="Гуф">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="Noize MC" label="Noize MC">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Noize MC 2012 новый альбом" label="Noize MC 2012 новый альбом">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Noize MC  Трое В Лодке Не Считая Собаки" label="Noize MC  Трое В Лодке Не Считая Собаки">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Noize MC [://muz-.ru]" label="Noize MC [://muz-.ru]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Нойз МС" label="Нойз МС">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Нойз MC" label="Нойз MC">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Тимати" label="Тимати">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="Big Baby Tape" label="Big Baby Tape">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="IC3PEAK" label="IC3PEAK">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="sted.d" label="sted.d">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Summer of Haze" label="Summer of Haze">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Петя OST" label="Петя OST">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Юлия Самошкина" label="Юлия Самошкина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Барды" label="Барды">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Хатико" label="Хатико">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Барды." label="Барды.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Очередной MC" label="Очередной MC">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Очередной MC (Сега, Anacondaz)" label="Очередной MC (Сега, Anacondaz)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="KRiceT" label="KRiceT">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Саша Бест" label="Саша Бест">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Наталья Барсукова" label="Наталья Барсукова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Хаски" label="Хаски">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="Кровосток" label="Кровосток">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="Sandy Fish &amp; Cj Alco" label="Sandy Fish &amp; Cj Alco">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="48 kbps" label="48 kbps">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="анна ривелотэ" label="анна ривелотэ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Павел Пиковский" label="Павел Пиковский">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пабло Прекрати" label="Пабло Прекрати">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Horus" label="Horus">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Louis Pasteur" label="Louis Pasteur">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="RipBeat" label="RipBeat">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Брутто (Каспийский Груз)" label="Брутто (Каспийский Груз)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ATL" label="ATL">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="RSA 2010" label="RSA 2010">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dino MC47" label="Dino MC47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="Dino MC 47" label="Dino MC 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Centr" label="Centr">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
+      <node id="PANDAworld" label="PANDAworld">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="i61" label="i61">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="IKBN - IRAQ" label="IKBN - IRAQ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PHARAOH" label="PHARAOH">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="DOPECLVB" label="DOPECLVB">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Boulevard Depo" label="Boulevard Depo">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="Yanix" label="Yanix">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="Неизвестен" label="Неизвестен">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Потратил тыщу баксов, они вернутся" label="Потратил тыщу баксов, они вернутся">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Big Russian Boss" label="Big Russian Boss">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="No Limit" label="No Limit">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Хайд" label="Хайд">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Loqiemean" label="Loqiemean">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Хайд &quot;Нерв&quot;" label="Хайд &quot;Нерв&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Markul" label="Markul">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="MC NO LIMIT" label="MC NO LIMIT">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Маркул" label="Маркул">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Miyagi" label="Miyagi">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="Vadim Tikot" label="Vadim Tikot">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="не услышанный лирик" label="не услышанный лирик">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="R e d e m a x ™" label="R e d e m a x ™">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Andy Panda" label="Andy Panda">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Полина Гагарина" label="Полина Гагарина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="&quot;Алые паруса&quot;" label="&quot;Алые паруса&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вечера Насильной Поэзии" label="Вечера Насильной Поэзии">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Левон" label="Левон">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="2rbina 2rista" label="2rbina 2rista">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сатана Печёт Блины" label="Сатана Печёт Блины">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Алые паруса" label="Алые паруса">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Тандем" label="Тандем">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Песни орлятского круга" label="Песни орлятского круга">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гагарина Полина" label="Гагарина Полина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="I.B." label="I.B.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Александр Шуров и Николай Рыкунин" label="Александр Шуров и Николай Рыкунин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Charlie Mole" label="Charlie Mole">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="сатана печет блины" label="сатана печет блины">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Валерия Лесовская" label="Валерия Лесовская">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="➨ Levon" label="➨ Levon">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сводный хор &quot;АП&quot;)" label="Сводный хор &quot;АП&quot;)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Алые паруса (минус)" label="Алые паруса (минус)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Алые Паруса." label="Алые Паруса.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гречка" label="Гречка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="абстрактный бомж" label="абстрактный бомж">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="zgheilmyfrr x mironoffdmitry" label="zgheilmyfrr x mironoffdmitry">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Loc Dog" label="Loc Dog">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Монеточка" label="Монеточка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="порнофильм приличный для мужа" label="порнофильм приличный для мужа">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="снятся в порнофильме" label="снятся в порнофильме">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="вудман" label="вудман">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="секс on line веб камера" label="секс on line веб камера">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="длиные порно ролики" label="длиные порно ролики">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Moonlight H.S" label="Moonlight H.S">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Порнофильмы" label="Порнофильмы">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="порнофильм полиция маями" label="порнофильм полиция маями">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="американские сайты с порнофильмами" label="американские сайты с порнофильмами">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="порнофильм - екатерина - императрица" label="порнофильм - екатерина - императрица">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Каста" label="Каста">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="29" />
+        </attvalues>
+      </node>
+      <node id="Slim" label="Slim">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="Johnyboy" label="Johnyboy">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="Lil'Stop" label="Lil'Stop">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="H1GH &quot;Клетка&quot;" label="H1GH &quot;Клетка&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rate1.2" label="Rate1.2">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="[METEORA]" label="[METEORA]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Для доты именно для Васи Бояркина" label="Для доты именно для Васи Бояркина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Long Star" label="Long Star">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Vomut &amp; Wolfigo" label="Vomut &amp; Wolfigo">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="L'One" label="L'One">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="gone.Fludd" label="gone.Fludd">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Truwer" label="Truwer">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="Lil Morty" label="Lil Morty">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Нигатив" label="Нигатив">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="Гарри Топор" label="Гарри Топор">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lebron(п.у.А-ki)" label="Lebron(п.у.А-ki)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Дино (Триада)" label="Дино (Триада)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Рем Дигга" label="Рем Дигга">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="Bahh Tee &quot;Небо не предел&quot;" label="Bahh Tee &quot;Небо не предел&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Лион" label="Лион">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Guf" label="Guf">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Луперкаль и Вадяра Блюз" label="Луперкаль и Вадяра Блюз">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Песочные люди (Колесо - Оба Зрения 2011)" label="Песочные люди (Колесо - Оба Зрения 2011)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="the Chemodan" label="the Chemodan">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Словетский" label="Словетский">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Dj Nik One" label="Dj Nik One">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Loc-Dog" label="Loc-Dog">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="РАСКОЛЬНИКОВ" label="РАСКОЛЬНИКОВ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Грозный" label="Грозный">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Бей, но выслушай" label="Бей, но выслушай">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mezza Morta" label="Mezza Morta">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Смоки Мо" label="Смоки Мо">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="31" />
+        </attvalues>
+      </node>
+      <node id="Мот" label="Мот">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="29" />
+        </attvalues>
+      </node>
+      <node id="Сява" label="Сява">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="Afisha.ru" label="Afisha.ru">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ноггано" label="Ноггано">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Diamond Miners Gang" label="Diamond Miners Gang">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="100 music" label="100 music">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="T-Fest" label="T-Fest">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Хабиб Шарипов" label="Хабиб Шарипов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Donnie Brasco" label="Donnie Brasco">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="nightcore (Musical.ly)" label="nightcore (Musical.ly)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ЛСП" label="ЛСП">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="Максим Демах" label="Максим Демах">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Greenaleх - Пати для Богатеньких\Нет Денег" label="Greenaleх - Пати для Богатеньких\Нет Денег">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="это девка словно пуля" label="это девка словно пуля">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Yanix [Block Star]" label="Yanix [Block Star]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Porchy" label="Porchy">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ЧиСтО боМ боММ" label="ЧиСтО боМ боММ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Неизвестный исполнитель" label="Неизвестный исполнитель">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Feduk" label="Feduk">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="Элджей (Я|Так) похож на птицу." label="Элджей (Я|Так) похож на птицу.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Элджей" label="Элджей">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="(AlljЭлджей)" label="(AlljЭлджей)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ND Production" label="ND Production">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Музыкальная жизнь™" label="Музыкальная жизнь™">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="†.чЁ за трЕк.†" label="†.чЁ за трЕк.†">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ChipaChip x Женя Дэп" label="ChipaChip x Женя Дэп">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mary Gu" label="Mary Gu">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Instasamka" label="Instasamka">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Хома" label="Хома">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="КОЈЕКУДА 2014-11-09 Radio Beograd 1" label="КОЈЕКУДА 2014-11-09 Radio Beograd 1">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Наречена_Михайло Хома (Дзідзьо)(акорди)" label="Наречена_Михайло Хома (Дзідзьо)(акорди)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Бьянка" label="Бьянка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="T.A. Yanix" label="T.A. Yanix">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="HOMIE – Безумно можно быть первым" label="HOMIE – Безумно можно быть первым">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="на грузинском" label="на грузинском">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="#SWAGGAЖОПС" label="#SWAGGAЖОПС">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Кемикэл Депазитз" label="Кемикэл Депазитз">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bandit-Aul B.CH.S" label="Bandit-Aul B.CH.S">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="VCrash" label="VCrash">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ляляля" label="Ляляля">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пацантрэ" label="Пацантрэ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Хоми" label="Хоми">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Триагрутрика" label="Триагрутрика">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="Витя Ак &amp; Tip 2В12" label="Витя Ак &amp; Tip 2В12">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Авеню (Москва)" label="Авеню (Москва)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="43ai" label="43ai">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Thomas Mraz" label="Thomas Mraz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="Big Black Boots" label="Big Black Boots">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="EK-Playaz" label="EK-Playaz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="Клоунеско &amp; EK Playaz" label="Клоунеско &amp; EK Playaz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Клоунеско" label="Клоунеско">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ek Playaz" label="Ek Playaz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mrs. DvaTree" label="Mrs. DvaTree">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Клоунеско,Ek.playaz,Worna Brazass" label="Клоунеско,Ek.playaz,Worna Brazass">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jerry aka Нелегальный" label="Jerry aka Нелегальный">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Neiz" label="Neiz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Stas Neiz" label="Stas Neiz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="DJ Хобот" label="DJ Хобот">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ака47 ek playaz" label="ака47 ek playaz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="EK Playaz и Клоунеско" label="EK Playaz и Клоунеско">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="EK Playaz п.у. Клоунеско" label="EK Playaz п.у. Клоунеско">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Децл" label="Децл">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="MC Молодой &amp; DZA &amp; CanabiZ" label="MC Молодой &amp; DZA &amp; CanabiZ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ОСП - С.Белоголовцев,Л.Каганов" label="ОСП - С.Белоголовцев,Л.Каганов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Странник Стк" label="Странник Стк">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Йорш" label="Йорш">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ginex - DoN-A, Beny Krik, Som -Мостовой Двор" label="Ginex - DoN-A, Beny Krik, Som -Мостовой Двор">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Krec" label="Krec">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="Check" label="Check">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витек" label="Витек">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="˜”*°•.☆ааааааааа!!!" label="˜”*°•.☆ааааааааа!!!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chernikovskaya Hata" label="Chernikovskaya Hata">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="черниковская хата" label="черниковская хата">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MEOW!" label="MEOW!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Моя Дерзкая Правда" label="Моя Дерзкая Правда">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="про Красную Шапочку" label="про Красную Шапочку">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Детские песни" label="Детские песни">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Красная шапочка" label="Красная шапочка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="DJ Little Red Riding Hood" label="DJ Little Red Riding Hood">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Солдат Семёнов" label="Солдат Семёнов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="из к/ф" label="из к/ф">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ас Вентура" label="Ас Вентура">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="к/ф Красная Шапочка" label="к/ф Красная Шапочка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Песня Красной Шапочки (рок-версия)" label="Песня Красной Шапочки (рок-версия)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Марго Сирин" label="Марго Сирин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Игорь Растеряев" label="Игорь Растеряев">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Песни из детских фильмов" label="Песни из детских фильмов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Красная шапка" label="Красная шапка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id=":))" label=":))">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Буерак" label="Буерак">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Птаха" label="Птаха">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="Скрябін, (1995 Птахи)" label="Скрябін, (1995 Птахи)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ассаи" label="Ассаи">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Любовь и нежность" label="Любовь и нежность">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Крек" label="Крек">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ღ Крек" label="ღ Крек">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Триада" label="Триада">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="Vol'naya Dusha" label="Vol'naya Dusha">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Давид Тухманов" label="Давид Тухманов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Апина" label="Апина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Дюна" label="Дюна">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="♪♫ Перевалов Геннадий" label="♪♫ Перевалов Геннадий">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="5'nizza - Белые рубашки" label="5'nizza - Белые рубашки">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Алёна Апина" label="Алёна Апина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="5'nizza" label="5'nizza">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Андрей Макаревич" label="Андрей Макаревич">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Раиса Неменова" label="Раиса Неменова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Нюрнберг" label="Нюрнберг">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Алена Апина" label="Алена Апина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Зимавсегда" label="Зимавсегда">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="К.Никольский" label="К.Никольский">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Владимир Трошин" label="Владимир Трошин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сергей Бабкин (5'nizza)" label="Сергей Бабкин (5'nizza)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Узелок" label="Узелок">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Грибы" label="Грибы">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="Гриби" label="Гриби">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ми типа гриби" label="Ми типа гриби">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Балахнин Геннадий" label="Балахнин Геннадий">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Pimp Schwab" label="Pimp Schwab">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Хор" label="Хор">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="слушай экзорцист" label="слушай экзорцист">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Майя Кристалинская" label="Майя Кристалинская">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Алла Пугачева" label="Алла Пугачева">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Кристаллинская Майя" label="Кристаллинская Майя">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Людмила Зыкина dnb mix" label="Людмила Зыкина dnb mix">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мультфильмы детские" label="Мультфильмы детские">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ольга Арефьева" label="Ольга Арефьева">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Google Тёлка" label="Google Тёлка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ирина Туманова" label="Ирина Туманова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="NHK World" label="NHK World">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="OST Кисло" label="OST Кисло">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bahh Tee" label="Bahh Tee">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Дмитрий Авилов" label="Дмитрий Авилов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Lasha MC" label="Lasha MC">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ЗАПАС" label="ЗАПАС">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Соня Мармеладова (Гнойный)" label="Соня Мармеладова (Гнойный)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Билли Бро" label="Билли Бро">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="KILLJOY | RHYME TIME inc." label="KILLJOY | RHYME TIME inc.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="FCKN BEST" label="FCKN BEST">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гнойный (a.k.a Соня Мармеладова)" label="Гнойный (a.k.a Соня Мармеладова)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)" label="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="youhate" label="youhate">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Flowdan vs Logan Sama" label="Flowdan vs Logan Sama">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Redo" label="Redo">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Grime" label="Grime">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Eminem" label="Eminem">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Radiohead" label="Radiohead">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bassnectar" label="Bassnectar">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ronan Keating" label="Ronan Keating">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MuDvAyNe" label="MuDvAyNe">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="George Thorogood And The Destroyers" label="George Thorogood And The Destroyers">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bones" label="Bones">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="СТЕПАНЕНКО Pump" label="СТЕПАНЕНКО Pump">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dead Hearted" label="Dead Hearted">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LIL PUMP" label="LIL PUMP">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ТГК" label="ТГК">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="Jamal TGK" label="Jamal TGK">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Патриотические. Русские народные военные песни." label="Патриотические. Русские народные военные песни.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Русский" label="Русский">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="Русская Императорская армія" label="Русская Императорская армія">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Русские Знаки" label="Русские Знаки">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Русские народные песни - Хор Валаамского Монастыря" label="Русские народные песни - Хор Валаамского Монастыря">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Русские романсы" label="Русские романсы">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ГИМН РУССКОГО РАДИО" label="ГИМН РУССКОГО РАДИО">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Каспийский Груз" label="Каспийский Груз">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Песни Фанатов ЦСКА" label="Песни Фанатов ЦСКА">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Фанаты ЦСКА" label="Фанаты ЦСКА">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="История России. ХХ век" label="История России. ХХ век">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="я дура миша" label="я дура миша">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Оратория 2005 (demo)" label="Оратория 2005 (demo)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мирко Саблич" label="Мирко Саблич">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Миша Fint" label="Миша Fint">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Каратель" label="Каратель">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="Каратели Сиона" label="Каратели Сиона">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ЦеРН и ЦСНА - (Не) Герои" label="ЦеРН и ЦСНА - (Не) Герои">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Армейские песни под гитару" label="Армейские песни под гитару">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Цыганский Барон Олександр Набок" label="Цыганский Барон Олександр Набок">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витос" label="Витос">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Ресторатор" label="Ресторатор">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Can4eZ(SV)" label="Can4eZ(SV)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пика" label="Пика">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rigos" label="Rigos">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витоса" label="Витоса">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="RC [SKL]" label="RC [SKL]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Коньяк" label="Коньяк">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="SKVerniy_hhiu_r 2_(vs. Vitos MC)" label="SKVerniy_hhiu_r 2_(vs. Vitos MC)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вообще" label="Вообще">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="Rotoff" label="Rotoff">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Billy's Band" label="Billy's Band">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="БьЯНК@" label="БьЯНК@">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пилот" label="Пилот">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Волин Виталий" label="Волин Виталий">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="группа Весна" label="группа Весна">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ивангай" label="Ивангай">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="тбили" label="тбили">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пикачушь" label="Пикачушь">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="◘ Легенды Про" label="◘ Легенды Про">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Кравц" label="Кравц">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Светлана Разина" label="Светлана Разина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="SUPERIOR.CAT.PROTEUS" label="SUPERIOR.CAT.PROTEUS">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="207. Soulkast" label="207. Soulkast">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Песочные Люди" label="Песочные Люди">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Onyx" label="Onyx">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="Soulkast" label="Soulkast">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Аля Кудряшева" label="Аля Кудряшева">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Loc- Dog" label="Loc- Dog">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Полюса" label="Полюса">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="ПОЛЮСА [26/08 клуб Грибоедов]" label="ПОЛЮСА [26/08 клуб Грибоедов]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="[Loc-Dog" label="[Loc-Dog">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Армия брат" label="Армия брат">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Наташа, Илья, Лёша" label="Наташа, Илья, Лёша">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Любэ" label="Любэ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Армейская" label="Армейская">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ФИЗТЕХпесня" label="ФИЗТЕХпесня">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Хай Хэт" label="Хай Хэт">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Игорь Белый (на стихи Али Кудряшёвой)" label="Игорь Белый (на стихи Али Кудряшёвой)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Аля Кудряшова" label="Аля Кудряшова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Л.П.П.Л" label="Л.П.П.Л">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Игорь Белый" label="Игорь Белый">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Виктор Малолетний" label="Виктор Малолетний">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Эдуард Эдуаши (Успешная Группа)" label="Эдуард Эдуаши (Успешная Группа)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="D1sH" label="D1sH">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Артиллеия" label="Артиллеия">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="РВиА" label="РВиА">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Батарея" label="Батарея">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Вадим Сажин" label="Вадим Сажин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Светлана Копылова" label="Светлана Копылова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Святитель Иоанн Златоуст" label="Святитель Иоанн Златоуст">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мытарь" label="Мытарь">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Голубые молнии" label="Голубые молнии">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ваня Воробей" label="Ваня Воробей">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Lx24" label="Lx24">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Андрей Климнюк" label="Андрей Климнюк">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Крестная Семья" label="Крестная Семья">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="StilRyder" label="StilRyder">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Голубые Береты" label="Голубые Береты">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ШИРЯЕВ ОЛЕГ" label="ШИРЯЕВ ОЛЕГ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гимн ВДВ" label="Гимн ВДВ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Маевский Сергей" label="Маевский Сергей">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Воробей" label="Воробей">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ЗОЖ" label="ЗОЖ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Владимир Высоцкий" label="Владимир Высоцкий">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Братья Карамазовы" label="Братья Карамазовы">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Браток" label="Браток">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Джиз" label="Джиз">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="Barry Gibb" label="Barry Gibb">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Madwayz LOC" label="Madwayz LOC">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="SD AND SCHOKK" label="SD AND SCHOKK">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="OSLIKt" label="OSLIKt">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Стрелки &amp; MC Пряников" label="Стрелки &amp; MC Пряников">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="✵ ​Бек✵" label="✵ ​Бек✵">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HULIGAN" label="HULIGAN">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="МЖ" label="МЖ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Лизоркин" label="Лизоркин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Иллет - Сопряжение сфер" label="Иллет - Сопряжение сфер">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ясвена" label="Ясвена">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="4SGM" label="4SGM">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сидоджи Дубоshit и Грязный Рамирес" label="Сидоджи Дубоshit и Грязный Рамирес">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Белый Аликорн" label="Белый Аликорн">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kid" label="Kid">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сэт, Крек, Эйсик" label="Сэт, Крек, Эйсик">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Свобода воли" label="Свобода воли">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мастер &amp; Margenta" label="Мастер &amp; Margenta">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="10. Сплин" label="10. Сплин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="VOICE OF SATURN" label="VOICE OF SATURN">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сплин" label="Сплин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dav / 4SGM" label="Dav / 4SGM">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Враги" label="Враги">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мастер (По ту сторону сна) - 2006" label="Мастер (По ту сторону сна) - 2006">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="БАРТО" label="БАРТО">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сфера" label="Сфера">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Корж" label="Корж">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="Макс" label="Макс">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Super Rags" label="Super Rags">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вэ" label="Вэ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Абубакирова Гульфарида" label="Абубакирова Гульфарида">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ИСН" label="ИСН">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="КрэФ" label="КрэФ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Лилия Биктимирова и Фадис Ганиев" label="Лилия Биктимирова и Фадис Ганиев">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Алина Булатова" label="Алина Булатова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Эмир Камалиев" label="Эмир Камалиев">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Айгуль Бариева" label="Айгуль Бариева">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Зиннур и Ильназ Сафиуллинар" label="Зиннур и Ильназ Сафиуллинар">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гөлфәридә Әбүбәкерова" label="Гөлфәридә Әбүбәкерова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Зи" label="Зи">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мишари Рашид Аль-Афаси" label="Мишари Рашид Аль-Афаси">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Фархетдинова Зайнап" label="Фархетдинова Зайнап">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Айсылу Мухамадиева" label="Айсылу Мухамадиева">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гаяр Нуриманов" label="Гаяр Нуриманов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="От Винта" label="От Винта">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ot Vinta!" label="Ot Vinta!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ot vinta" label="Ot vinta">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="9 ВАЛ" label="9 ВАЛ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="От Вінта" label="От Вінта">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="М8Л8Tx / Нежеголь" label="М8Л8Tx / Нежеголь">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сокира Перуна" label="Сокира Перуна">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Нежеголь" label="Нежеголь">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Молотх" label="Молотх">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Русич" label="Русич">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Don't Smoke" label="Don't Smoke">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гекто" label="Гекто">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="ιllιlι.ιl" label="ιllιlι.ιl">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Чечерина" label="Чечерина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="T9" label="T9">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Сергей Хижняк" label="Сергей Хижняк">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Агния Барто" label="Агния Барто">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Михаил Михайлов (Афган, запись 1987 - 88 г.г.)" label="Михаил Михайлов (Афган, запись 1987 - 88 г.г.)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="●" label="●">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вадим Мулерман" label="Вадим Мулерман">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Семёнова Мария" label="Семёнова Мария">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Квартет физфака пу Сергея Никитина" label="Квартет физфака пу Сергея Никитина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Стас Михайлов" label="Стас Михайлов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Песни нашего века" label="Песни нашего века">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Звери" label="Звери">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Мельница--Сонный рыцарь-" label="Мельница--Сонный рыцарь-">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ляпис Трубецкой" label="Ляпис Трубецкой">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Чичерина" label="Чичерина">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Хром" label="Хром">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Чарли Z" label="Чарли Z">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Король и Шут" label="Король и Шут">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="Паук" label="Паук">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="Агата Кристи" label="Агата Кристи">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="А. Грейчайник (ДМЦ)" label="А. Грейчайник (ДМЦ)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Агата Кристи - Чудеса (1998)" label="Агата Кристи - Чудеса (1998)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пальчики" label="Пальчики">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="✔Слот" label="✔Слот">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Лавров Василий" label="Лавров Василий">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Уматурман" label="Уматурман">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Slot" label="Slot">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="трол фейс" label="трол фейс">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="TROLLFACE" label="TROLLFACE">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Animal ДжаZ" label="Animal ДжаZ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Андрей Грейчайник (ДМЦ)" label="Андрей Грейчайник (ДМЦ)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="«Полкино»" label="«Полкино»">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Василий Лавров" label="Василий Лавров">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Балабама" label="Балабама">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Коля RotoFF" label="Коля RotoFF">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="НОМ" label="НОМ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="Habib Hakimov" label="Habib Hakimov">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dareen" label="Dareen">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Женщины деревни Кеба (Лешуконский" label="Женщины деревни Кеба (Лешуконский">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="СИЛЕН Radio Beograd 2 - 2016-12-30" label="СИЛЕН Radio Beograd 2 - 2016-12-30">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="О. Васильчак та С.Роговський" label="О. Васильчак та С.Роговський">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="storm in life ♛" label="storm in life ♛">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Антонина Матвиенко" label="Антонина Матвиенко">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="♡ Акула ♡" label="♡ Акула ♡">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Восточный округ" label="Восточный округ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
+      <node id="Юрий Хованский" label="Юрий Хованский">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="▂▃▅▆▇the Chemodan" label="▂▃▅▆▇the Chemodan">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="TRIAGRUTRIKA" label="TRIAGRUTRIKA">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Rewake" label="Rewake">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Аля Кумар" label="Аля Кумар">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Лёша Маэстро" label="Лёша Маэстро">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Триагрутрика (ТГК) - Т.Г.К.липсис" label="Триагрутрика (ТГК) - Т.Г.К.липсис">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ТРИАГРУТРИКА (Т.Г.К.липсис)" label="ТРИАГРУТРИКА (Т.Г.К.липсис)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="5 Шлюх" label="5 Шлюх">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вульгарный Тонн" label="Вульгарный Тонн">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="Вульгарный ТоН" label="Вульгарный ТоН">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Саша rAp [Вульгарний ТоНН]" label="Саша rAp [Вульгарний ТоНН]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chemodan" label="Chemodan">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="Скептик" label="Скептик">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Восточный Округ (УРМК)" label="Восточный Округ (УРМК)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Elect" label="Elect">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LIN,MALIK" label="LIN,MALIK">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="KOt StYlE" label="KOt StYlE">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Чемодан" label="Чемодан">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ОУ74" label="ОУ74">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" label="12 ТРИАГРУТРИКА (Т.Г.К.липсис)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Муровей (Сложные)" label="Муровей (Сложные)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Триагутрика" label="Триагутрика">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Блондин" label="Блондин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вадяра Блюз (Bulletgrims)" label="Вадяра Блюз (Bulletgrims)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MC-Нэмэр" label="MC-Нэмэр">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Две Причины" label="Две Причины">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" label="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="The Chemodan &amp; Эфди Вадим" label="The Chemodan &amp; Эфди Вадим">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GOA" label="GOA">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" label="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cтрана OZ" label="Cтрана OZ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Тараканы" label="Тараканы">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Четыре таракана" label="Четыре таракана">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Круть" label="Круть">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Леонид Сергеев" label="Леонид Сергеев">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Белки на акации" label="Белки на акации">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Злой дух" label="Злой дух">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Шишков Сергей" label="Шишков Сергей">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Вокальный Квартет &quot;Аккорд&quot;" label="Вокальный Квартет &quot;Аккорд&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Песьня." label="Песьня.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Анатолий Александрович" label="Анатолий Александрович">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Детская" label="Детская">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Louis Armstrong" label="Louis Armstrong">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Злой Дух ( няшка ^^ )" label="Злой Дух ( няшка ^^ )">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="♨♨♨Детская песня♨♨♨" label="♨♨♨Детская песня♨♨♨">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="детская песенка" label="детская песенка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Тараканы!" label="Тараканы!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Оксана Дроздова" label="Оксана Дроздова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Оксана Дроздова." label="Оксана Дроздова.">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Оксана Почепа" label="Оксана Почепа">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="D-Bosh" label="D-Bosh">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Бабич Анжела" label="Бабич Анжела">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Марьяж &quot;Декорации&quot;" label="Марьяж &quot;Декорации&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гр. &quot;Они&quot;" label="Гр. &quot;Они&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Большая разница" label="Большая разница">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Армейские Песни" label="Армейские Песни">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Tony Gun" label="Tony Gun">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Курские соловьи" label="Курские соловьи">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Типа РВ!" label="Типа РВ!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Из к/ф &quot;Снежная любовь, или сон в зимнюю ночь&quot;" label="Из к/ф &quot;Снежная любовь, или сон в зимнюю ночь&quot;">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ВИА Пламя" label="ВИА Пламя">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Дворовые песни" label="Дворовые песни">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Окси" label="Окси">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Баста / Гуф" label="Баста / Гуф">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="Toto Cutugno" label="Toto Cutugno">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jencarlos" label="Jencarlos">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Basta" label="Basta">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="NATALIA OREIRO" label="NATALIA OREIRO">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Rido" label="Rido">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Доктор Айболит" label="Доктор Айболит">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Регги" label="Регги">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="реги" label="реги">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="♫. ιllιlιιl Сява" label="♫. ιllιlιιl Сява">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Лигалайз" label="Лигалайз">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="ЮГ" label="ЮГ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bad Balance" label="Bad Balance">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Каста - Влади - Что Нам Делать в Греции?" label="Каста - Влади - Что Нам Делать в Греции?">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Домино" label="Домино">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Domino" label="Domino">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="polusplus.com" label="polusplus.com">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Валдай" label="Валдай">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Animal Jazz" label="Animal Jazz">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alex Dark Stalker98" label="Alex Dark Stalker98">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Анимал джаз" label="Анимал джаз">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Chpoks" label="Chpoks">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="dom1No" label="dom1No">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="dom!No" label="dom!No">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ST" label="ST">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="не ну это пиздец песня" label="не ну это пиздец песня">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Shot" label="Shot">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Глеб Романов" label="Глеб Романов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nasty Nay" label="Nasty Nay">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Nebo7" label="Nebo7">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="1 klass" label="1 klass">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alex Fish [Время Иллюзий]" label="Alex Fish [Время Иллюзий]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Domino-Прыгай в такт" label="Domino-Прыгай в такт">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Гайтана" label="Гайтана">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Эльбрус Джанмирзоев" label="Эльбрус Джанмирзоев">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="Daily" label="Daily">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Дуня" label="Дуня">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Чекист (Clipse Instr" label="Чекист (Clipse Instr">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Strong Symphony" label="Strong Symphony">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Скриптонит (без Смоки Мо" label="Скриптонит (без Смоки Мо">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Скриптони" label="Скриптони">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Скриптонит [Новый Рэп" label="Скриптонит [Новый Рэп">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Скриптонит Bass.Prod StMishkO" label="Скриптонит Bass.Prod StMishkO">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ulukmanapo — До конца" label="Ulukmanapo — До конца">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="DOROFEEVA — Не забирай меня с пати" label="DOROFEEVA — Не забирай меня с пати">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Скриптонит — na Circus" label="Скриптонит — na Circus">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="AK-47 - ДОРОГА" label="AK-47 - ДОРОГА">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="НОВЫЙ АЛЬБОМ 2011 ГОДА АЛЬБОМ ПРОСТО БОМБА" label="НОВЫЙ АЛЬБОМ 2011 ГОДА АЛЬБОМ ПРОСТО БОМБА">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://maxiload.ru/file/3712325f2bf" label="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://maxiload.ru/file/3712325f2bf">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://files.berdyev.ru/pkqbha0u7kl3.html" label="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://files.berdyev.ru/pkqbha0u7kl3.html">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Tati" label="Tati">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Полина Гагарина — Голос" label="Полина Гагарина — Голос">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Моя Мишель — Хлопья летят наверх" label="Моя Мишель — Хлопья летят наверх">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Slim — Есть вопросы" label="Slim — Есть вопросы">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Птаха — Хлоп-хлоп" label="Птаха — Хлоп-хлоп">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Slim — Свадьба" label="Slim — Свадьба">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ба — Дома" label="Ба — Дома">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Tandem Foundation — Сверху видно всё" label="Tandem Foundation — Сверху видно всё">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="МиГ29 — Провода" label="МиГ29 — Провода">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Принцип — Заходит луна" label="Принцип — Заходит луна">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Баста — Не все потеряно" label="Баста — Не все потеряно">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ОУ74 — О лени" label="ОУ74 — О лени">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ТГК — ПНП" label="ТГК — ПНП">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Александр «Чача» Иванов — Устрой дестрой" label="Александр «Чача» Иванов — Устрой дестрой">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Наум Блик" label="Наум Блик">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SLIMUS" label="SLIMUS">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="кАчевники" label="кАчевники">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SunSay" label="SunSay">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ST1M — Дарвин" label="ST1M — Дарвин">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Natan - Моя девочка бомба (DJ CaspeR Electro House remix" label="Natan - Моя девочка бомба (DJ CaspeR Electro House remix">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Доминик Джокер" label="Доминик Джокер">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="BUSHIDO ZHO — City Boy Life" label="BUSHIDO ZHO — City Boy Life">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Aarne — HOODAK MP3" label="Aarne — HOODAK MP3">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="kizaru — Bandana" label="kizaru — Bandana">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Toxi$" label="Toxi$">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Chief Keef — 4 ur girl" label="Chief Keef — 4 ur girl">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="kizaru — Mama Makusa" label="kizaru — Mama Makusa">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="kizaru — Big Tymers" label="kizaru — Big Tymers">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Big Baby Tape — Legit Check" label="Big Baby Tape — Legit Check">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Worm" label="Worm">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Krys-Mc" label="Krys-Mc">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Hiro" label="Hiro">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Booguy" label="Booguy">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Hashtag (BassBoosted" label="Hashtag (BassBoosted">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Пика &amp; ATL" label="Пика &amp; ATL">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="HASHTAG" label="HASHTAG">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ATL — LAGG OUT" label="ATL — LAGG OUT">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ка тет — Выключатель" label="Ка тет — Выключатель">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Звонкий [Альбомы Русского Рэпа" label="Звонкий [Альбомы Русского Рэпа">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Рома Жиган" label="Рома Жиган">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Нади — Ночь" label="Нади — Ночь">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="boulevard depo пять минут назад (prod. saluki" label="boulevard depo пять минут назад (prod. saluki">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="bryte" label="bryte">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Boulevard Depo x Pharaoh x Basic Boy (Prod.by White Punk" label="Boulevard Depo x Pharaoh x Basic Boy (Prod.by White Punk">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="JEEMBO" label="JEEMBO">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Killah Tveth" label="Killah Tveth">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Basic Boy &amp; GLEBASTA SPAL" label="Basic Boy &amp; GLEBASTA SPAL">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Basic Boy" label="Basic Boy">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Glebasta Spal" label="Glebasta Spal">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="iSIXONE" label="iSIXONE">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="TVETH" label="TVETH">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Cold$iemens — No War" label="Cold$iemens — No War">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="I61 — Rare Moscow Snow" label="I61 — Rare Moscow Snow">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Boulevard Depo — Gloucoma" label="Boulevard Depo — Gloucoma">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yanix &amp; Young P&amp;H" label="Yanix &amp; Young P&amp;H">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yanix — No Rats This Time" label="Yanix — No Rats This Time">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SODA LUV — Badass" label="SODA LUV — Badass">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Scally Milano" label="Scally Milano">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="163ONMYNECK" label="163ONMYNECK">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="FEARMUCH — ШОПЛИФТЕР" label="FEARMUCH — ШОПЛИФТЕР">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Slippah &amp; Ne Spi &amp; Markul &amp; NDS Flava" label="Slippah &amp; Ne Spi &amp; Markul &amp; NDS Flava">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Oxxxymiron (Оксимирон) - FATA MORGANA (2017" label="Oxxxymiron (Оксимирон) - FATA MORGANA (2017">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ХОЛОДНО" label="ХОЛОДНО">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль Опутала меня" label="Эндшпиль Опутала меня">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="9 Грамм – Рапапам" label="9 Грамм – Рапапам">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль" label="Эндшпиль">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль Опутала меня, опутала. Ты будто мой сорт" label="Эндшпиль Опутала меня, опутала. Ты будто мой сорт">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль, МанТана - Моя банда" label="Эндшпиль, МанТана - Моя банда">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль - Половина моя" label="Эндшпиль - Половина моя">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — 8 mile" label="Эндшпиль — 8 mile">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Wisdom" label="Эндшпиль — Wisdom">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Skill" label="Эндшпиль — Skill">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Adapter" label="Эндшпиль — Adapter">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Наоборот" label="Эндшпиль — Наоборот">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Groove" label="Эндшпиль — Groove">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Море" label="Эндшпиль — Море">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Эндшпиль — Малиновый рассвет" label="Эндшпиль — Малиновый рассвет">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Andy Panda — Буревестник" label="Andy Panda — Буревестник">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Andy Panda, Mav-d — Marmalade" label="Andy Panda, Mav-d — Marmalade">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Andy Panda-Темнота" label="Andy Panda-Темнота">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Andy Panda, TumaniYO — Оттепель" label="Andy Panda, TumaniYO — Оттепель">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dorian Gray) Unofficial score 2009 (Vk.Com/OstHD" label="Dorian Gray) Unofficial score 2009 (Vk.Com/OstHD">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Log dog" label="Log dog">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Mainsteam One" label="Mainsteam One">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Czar" label="Czar">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="K.R.A" label="K.R.A">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Shokk" label="Shokk">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="1 Klas" label="1 Klas">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="АК 47" label="АК 47">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="T1One" label="T1One">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Зануда" label="Зануда">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ginex" label="Ginex">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Уля (Wow Band" label="Уля (Wow Band">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Bahh" label="Bahh">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="DJ Хобот - грязная альбомная версия (Каста)=======" label="DJ Хобот - грязная альбомная версия (Каста)=======">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ginex &amp;amp" label="Ginex &amp;amp">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Rigos &amp; Slim" label="Rigos &amp; Slim">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Efreet Prod. ) | 2011" label="Efreet Prod. ) | 2011">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SiFo-Делай громче звук" label="SiFo-Делай громче звук">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Johnyboy [prod.Introvert" label="Johnyboy [prod.Introvert">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Chillin beatz" label="Chillin beatz">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="techno" label="techno">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="BroUpGrade" label="BroUpGrade">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Юрик Четверг &amp; Truwer" label="Юрик Четверг &amp; Truwer">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Дино produced by Сэт и Нигатив" label="Дино produced by Сэт и Нигатив">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Нигатив (Триада" label="Нигатив (Триада">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Stevie Insane [Новый Рэп" label="Stevie Insane [Новый Рэп">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Нигатив Триада" label="Нигатив Триада">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Нигатив ( Триада" label="Нигатив ( Триада">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="СЛОВЕТСКИЙ (Минус" label="СЛОВЕТСКИЙ (Минус">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Para" label="Para">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо - Capella(За Полк) Remix" label="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо - Capella(За Полк) Remix">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Крип-а-Крип" label="Крип-а-Крип">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Смешарики — Обормот" label="Смешарики — Обормот">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Молодой Деньги" label="Молодой Деньги">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Скриптонит-Ламбада" label="Скриптонит-Ламбада">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Go Loco" label="Go Loco">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Oxxxymiron - Мне скучно жить" label="Oxxxymiron - Мне скучно жить">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nicki Minaj" label="Nicki Minaj">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Олеги ЛСП" label="Олеги ЛСП">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ЛСП &amp; oxxxymiron" label="ЛСП &amp; oxxxymiron">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Oxxxymiron cover" label="Oxxxymiron cover">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="PHARAOH - это девочка просто пуля" label="PHARAOH - это девочка просто пуля">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Степан Карма — Magic City" label="Степан Карма — Magic City">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Feduk - РОЗОВОЕ ВИНО (МИНУС) - КАРАОКЕ, ТЕКСТ ПЕСНИ, LYRICS" label="Feduk - РОЗОВОЕ ВИНО (МИНУС) - КАРАОКЕ, ТЕКСТ ПЕСНИ, LYRICS">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Temmy Remix" label="Temmy Remix">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Scally Milano — Мечты" label="Scally Milano — Мечты">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="FRIENDLY THUG 52 NGG — BOY$" label="FRIENDLY THUG 52 NGG — BOY$">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Кравц — Дисконнект" label="Кравц — Дисконнект">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Триагрутрика (ТГК) &amp;amp; Айк Дым" label="Триагрутрика (ТГК) &amp;amp; Айк Дым">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Витя АК" label="Витя АК">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="VibeTGK" label="VibeTGK">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jahmal TGK — Александр" label="Jahmal TGK — Александр">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jahmal TGK" label="Jahmal TGK">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="VibeTGK — Фром Москоу" label="VibeTGK — Фром Москоу">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Thomas Mraz (prod. 4EU3" label="Thomas Mraz (prod. 4EU3">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Thomas Mraz (Prod. by Falling Coyotes" label="Thomas Mraz (Prod. by Falling Coyotes">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Thomas Mraz &amp; FVCKFISH" label="Thomas Mraz &amp; FVCKFISH">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="TEA" label="TEA">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="EK. Playaz" label="EK. Playaz">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Марк" label="Марк">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="WB" label="WB">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Negr" label="Negr">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="MC Молодой Для загрузки воспользуйтесь ссылкой - ://musontakte.ru/Децл.html" label="MC Молодой Для загрузки воспользуйтесь ссылкой - ://musontakte.ru/Децл.html">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Децл aka Le Truk" label="Децл aka Le Truk">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Bigg (V-Style" label="Bigg (V-Style">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Lil'Kong" label="Lil'Kong">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="D.Masta - Быть свободным (Sergey Spensser 'Цао Instrumental' Mash Up" label="D.Masta - Быть свободным (Sergey Spensser 'Цао Instrumental' Mash Up">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="KRec (music by Marat. Kirchen records" label="KRec (music by Marat. Kirchen records">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Смоки Мо и Fuze (Krec" label="Смоки Мо и Fuze (Krec">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Slim - Что успеем (rmx NaF НеБезДари" label="Slim - Что успеем (rmx NaF НеБезДари">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="RusKey" label="RusKey">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Легенды Про" label="Легенды Про">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Абандон - На измене (2010" label="Абандон - На измене (2010">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Guf &amp;amp; Птаха" label="Guf &amp;amp; Птаха">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ассаи-Антон" label="Ассаи-Антон">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Дино" label="Дино">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Double time" label="Double time">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nick Niker" label="Nick Niker">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Новый День" label="Новый День">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="The Mortal Instruments: City of Bones) Official 2013 (Vk.Com/OstHD" label="The Mortal Instruments: City of Bones) Official 2013 (Vk.Com/OstHD">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Вибе ТГК" label="Вибе ТГК">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="163ONMYNECK — Винрар" label="163ONMYNECK — Винрар">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Navai — Привет, ну как ты там вообще" label="Navai — Привет, ну как ты там вообще">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="PHARAOH [prod. by stereoRYZE" label="PHARAOH [prod. by stereoRYZE">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Onyx &amp; Brahi" label="Onyx &amp; Brahi">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ONYX &amp; Бтр" label="ONYX &amp; Бтр">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо" label="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Fredro Starr (Onyx" label="Fredro Starr (Onyx">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="SCHOKK - Intro / Fler - Ghetto Beat" label="SCHOKK - Intro / Fler - Ghetto Beat">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="FOTH" label="FOTH">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="маз корж — Я помню" label="маз корж — Я помню">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yami — Феноменально" label="Yami — Феноменально">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Сергей Любавин — Бетономешалка" label="Сергей Любавин — Бетономешалка">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="АК47" label="АК47">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Лёша Маэстро (WB" label="Лёша Маэстро (WB">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Ямыч (Восточный Округ" label="Ямыч (Восточный Округ">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Восточный Округ [Новый Рэп" label="Восточный Округ [Новый Рэп">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="АК-47" label="АК-47">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Восточный Округ [BassBoosted by Tim" label="Восточный Округ [BassBoosted by Tim">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Димы" label="Димы">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Дима" label="Дима">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Brick Bazuka" label="Brick Bazuka">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="12 ОКТЯБРЯ THE CHEMODAN CLAN В ВОРОНЕЖЕ" label="12 ОКТЯБРЯ THE CHEMODAN CLAN В ВОРОНЕЖЕ">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sony Money" label="Sony Money">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="FRIENDLY THUG 52 NGG — До завтрака" label="FRIENDLY THUG 52 NGG — До завтрака">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Taj Mahal (ОУ74" label="Taj Mahal (ОУ74">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Taj Mahal (ОУ74) [Prod. By Daerh feat. Рапк PIRI Ripa 5 Плюх Nel Ittas Арт [Караты] Максп Птаха Ноггано ST 25/17 Хаак Смоки Мо" label="Taj Mahal (ОУ74) [Prod. By Daerh feat. Рапк PIRI Ripa 5 Плюх Nel Ittas Арт [Караты] Максп Птаха Ноггано ST 25/17 Хаак Смоки Мо">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Plastik и Manky Monk (ОУ74) [Новый Рэп" label="Plastik и Manky Monk (ОУ74) [Новый Рэп">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Brick Bazuka [Новый Рэп" label="Brick Bazuka [Новый Рэп">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="ОУ74 — Ремесло" label="ОУ74 — Ремесло">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sir-J" label="Sir-J">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yori" label="Yori">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Джип" label="Джип">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Money Mike" label="Money Mike">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Стахей" label="Стахей">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Лигалайз (1998" label="Лигалайз (1998">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Karas, Лигалайз — Будущие мамы 2.0" label="Karas, Лигалайз — Будущие мамы 2.0">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kurbat" label="Kurbat">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Пабло — Домино" label="Пабло — Домино">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Alexandros Tsopozidis-Бродяга 2014 минус" label="Alexandros Tsopozidis-Бродяга 2014 минус">
+        <attvalues>
+          <attvalue for="0" value="false" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Oxxxymiron" target="Дуня" id="0" weight="1" />
+      <edge source="Oxxxymiron" target="Чекист (Clipse Instr" id="1" weight="1" />
+      <edge source="Oxxxymiron" target="Markul" id="2" weight="1" />
+      <edge source="Скриптонит" target="Strong Symphony" id="3" weight="1" />
+      <edge source="Скриптонит" target="Баста и Смоки Мо" id="4" weight="2" />
+      <edge source="Скриптонит" target="Ulukmanapo — До конца" id="5" weight="1" />
+      <edge source="Скриптонит" target="DOROFEEVA — Не забирай меня с пати" id="6" weight="1" />
+      <edge source="Скриптонит" target="Скриптонит — na Circus" id="7" weight="1" />
+      <edge source="Скриптонит" target="ATL" id="8" weight="1" />
+      <edge source="Скриптонит" target="BroUpGrade" id="9" weight="1" />
+      <edge source="Скриптонит" target="Truwer" id="10" weight="1" />
+      <edge source="Скриптонит" target="Юрик Четверг &amp; Truwer" id="11" weight="1" />
+      <edge source="Скриптонит" target="Donnie Brasco" id="12" weight="1" />
+      <edge source="Баста" target="Скриптонит (без Смоки Мо" id="13" weight="1" />
+      <edge source="Баста" target="Скриптонит [Новый Рэп" id="14" weight="1" />
+      <edge source="Баста" target="AK-47 - ДОРОГА" id="15" weight="2" />
+      <edge source="Баста" target="НОВЫЙ АЛЬБОМ 2011 ГОДА АЛЬБОМ ПРОСТО БОМБА" id="16" weight="2" />
+      <edge source="Баста" target="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://maxiload.ru/file/3712325f2bf" id="17" weight="1" />
+      <edge source="Баста" target="Рем Дигга" id="18" weight="1" />
+      <edge source="Баста" target="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://files.berdyev.ru/pkqbha0u7kl3.html" id="19" weight="1" />
+      <edge source="Баста" target="Смоки Мо" id="20" weight="2" />
+      <edge source="Баста" target="Tati" id="21" weight="1" />
+      <edge source="Баста" target="Полина Гагарина — Голос" id="22" weight="1" />
+      <edge source="Баста" target="Моя Мишель — Хлопья летят наверх" id="23" weight="1" />
+      <edge source="Баста" target="Каста" id="24" weight="3" />
+      <edge source="Баста" target="Словетский" id="25" weight="1" />
+      <edge source="Баста" target="Feduk" id="26" weight="1" />
+      <edge source="Баста, Смоки Мо" target="Скриптони" id="27" weight="1" />
+      <edge source="Баста, Смоки Мо" target="Скриптонит [Новый Рэп" id="28" weight="1" />
+      <edge source="Баста, Смоки Мо" target="Скриптонит Bass.Prod StMishkO" id="29" weight="1" />
+      <edge source="Гуф" target="AK-47 - ДОРОГА" id="30" weight="1" />
+      <edge source="Гуф" target="НОВЫЙ АЛЬБОМ 2011 ГОДА АЛЬБОМ ПРОСТО БОМБА" id="31" weight="1" />
+      <edge source="Гуф" target="СЛУШАЕМ СКАЧАТЬ МОЖНО ТУТ ://maxiload.ru/file/3712325f2bf" id="32" weight="1" />
+      <edge source="Гуф" target="Slim — Есть вопросы" id="33" weight="1" />
+      <edge source="Гуф" target="Птаха — Хлоп-хлоп" id="34" weight="1" />
+      <edge source="Гуф" target="Slim — Свадьба" id="35" weight="1" />
+      <edge source="Гуф" target="Ба — Дома" id="36" weight="1" />
+      <edge source="Гуф" target="Tandem Foundation — Сверху видно всё" id="37" weight="1" />
+      <edge source="Гуф" target="МиГ29 — Провода" id="38" weight="1" />
+      <edge source="Гуф" target="Принцип — Заходит луна" id="39" weight="1" />
+      <edge source="Гуф" target="Баста — Не все потеряно" id="40" weight="1" />
+      <edge source="Гуф" target="ОУ74 — О лени" id="41" weight="1" />
+      <edge source="Гуф" target="ТГК — ПНП" id="42" weight="1" />
+      <edge source="Гуф" target="ОУ74" id="43" weight="1" />
+      <edge source="Noize MC" target="Нойз MC" id="44" weight="1" />
+      <edge source="Noize MC" target="Монеточка" id="45" weight="1" />
+      <edge source="Нойз MC" target="Александр «Чача» Иванов — Устрой дестрой" id="46" weight="1" />
+      <edge source="Нойз MC" target="Krec" id="47" weight="1" />
+      <edge source="Нойз MC" target="Наум Блик" id="48" weight="1" />
+      <edge source="Нойз MC" target="SLIMUS" id="49" weight="1" />
+      <edge source="Нойз MC" target="кАчевники" id="50" weight="1" />
+      <edge source="Нойз MC" target="SunSay" id="51" weight="1" />
+      <edge source="Нойз MC" target="Каста" id="52" weight="1" />
+      <edge source="Нойз MC" target="ST1M — Дарвин" id="53" weight="1" />
+      <edge source="Тимати" target="Natan - Моя девочка бомба (DJ CaspeR Electro House remix" id="54" weight="1" />
+      <edge source="Тимати" target="Доминик Джокер" id="55" weight="1" />
+      <edge source="Тимати" target="Каста" id="56" weight="3" />
+      <edge source="Big Baby Tape" target="BUSHIDO ZHO — City Boy Life" id="57" weight="1" />
+      <edge source="Big Baby Tape" target="Aarne — HOODAK MP3" id="58" weight="1" />
+      <edge source="Big Baby Tape" target="kizaru — Bandana" id="59" weight="1" />
+      <edge source="Big Baby Tape" target="Toxi$" id="60" weight="1" />
+      <edge source="Big Baby Tape" target="Chief Keef — 4 ur girl" id="61" weight="1" />
+      <edge source="Big Baby Tape" target="kizaru — Mama Makusa" id="62" weight="1" />
+      <edge source="Big Baby Tape" target="kizaru — Big Tymers" id="63" weight="1" />
+      <edge source="Big Baby Tape" target="Big Baby Tape — Legit Check" id="64" weight="1" />
+      <edge source="IC3PEAK" target="Worm" id="65" weight="1" />
+      <edge source="KRiceT" target="Krys-Mc" id="66" weight="1" />
+      <edge source="Пабло Прекрати" target="ATL" id="67" weight="1" />
+      <edge source="Horus" target="ATL" id="68" weight="1" />
+      <edge source="Louis Pasteur" target="Yanix" id="69" weight="2" />
+      <edge source="Louis Pasteur" target="Hiro" id="70" weight="2" />
+      <edge source="Louis Pasteur" target="Booguy" id="71" weight="2" />
+      <edge source="Louis Pasteur" target="ATL" id="72" weight="2" />
+      <edge source="Louis Pasteur" target="Hashtag (BassBoosted" id="73" weight="1" />
+      <edge source="Louis Pasteur" target="HASHTAG" id="74" weight="1" />
+      <edge source="RipBeat" target="ATL" id="75" weight="1" />
+      <edge source="Брутто (Каспийский Груз)" target="Пика &amp; ATL" id="76" weight="1" />
+      <edge source="ATL" target="ATL — LAGG OUT" id="77" weight="1" />
+      <edge source="ATL" target="Ка тет — Выключатель" id="78" weight="1" />
+      <edge source="Dino MC47" target="Звонкий [Альбомы Русского Рэпа" id="79" weight="1" />
+      <edge source="Dino MC47" target="Рома Жиган" id="80" weight="1" />
+      <edge source="Dino MC47" target="Нади — Ночь" id="81" weight="1" />
+      <edge source="PANDAworld" target="boulevard depo пять минут назад (prod. saluki" id="82" weight="1" />
+      <edge source="PANDAworld" target="bryte" id="83" weight="1" />
+      <edge source="i61" target="Boulevard Depo x Pharaoh x Basic Boy (Prod.by White Punk" id="84" weight="1" />
+      <edge source="i61" target="JEEMBO" id="85" weight="1" />
+      <edge source="i61" target="Boulevard Depo" id="86" weight="3" />
+      <edge source="i61" target="Killah Tveth" id="87" weight="1" />
+      <edge source="i61" target="Basic Boy &amp; GLEBASTA SPAL" id="88" weight="1" />
+      <edge source="i61" target="PHARAOH" id="89" weight="1" />
+      <edge source="i61" target="Basic Boy" id="90" weight="1" />
+      <edge source="i61" target="DOPECLVB" id="91" weight="1" />
+      <edge source="i61" target="Thomas Mraz (Prod. by Falling Coyotes" id="92" weight="1" />
+      <edge source="i61" target="Thomas Mraz" id="93" weight="1" />
+      <edge source="PHARAOH" target="Boulevard Depo" id="94" weight="1" />
+      <edge source="PHARAOH" target="SUPERIOR.CAT.PROTEUS" id="95" weight="1" />
+      <edge source="PHARAOH" target="Thomas Mraz" id="96" weight="1" />
+      <edge source="DOPECLVB" target="Boulevard Depo" id="97" weight="1" />
+      <edge source="DOPECLVB" target="JEEMBO" id="98" weight="1" />
+      <edge source="DOPECLVB" target="Killah Tveth" id="99" weight="1" />
+      <edge source="DOPECLVB" target="Glebasta Spal" id="100" weight="1" />
+      <edge source="DOPECLVB" target="Basic Boy" id="101" weight="1" />
+      <edge source="DOPECLVB" target="Thomas Mraz &amp; FVCKFISH" id="102" weight="1" />
+      <edge source="Boulevard Depo" target="iSIXONE" id="103" weight="1" />
+      <edge source="Boulevard Depo" target="bryte" id="104" weight="1" />
+      <edge source="Boulevard Depo" target="TVETH" id="105" weight="1" />
+      <edge source="Boulevard Depo" target="Cold$iemens — No War" id="106" weight="1" />
+      <edge source="Boulevard Depo" target="I61 — Rare Moscow Snow" id="107" weight="1" />
+      <edge source="Boulevard Depo" target="Boulevard Depo — Gloucoma" id="108" weight="1" />
+      <edge source="Yanix" target="Big Russian Boss" id="109" weight="1" />
+      <edge source="Yanix" target="Yanix — No Rats This Time" id="110" weight="1" />
+      <edge source="Yanix" target="SODA LUV — Badass" id="111" weight="1" />
+      <edge source="Yanix" target="Scally Milano" id="112" weight="1" />
+      <edge source="Yanix" target="163ONMYNECK" id="113" weight="1" />
+      <edge source="Yanix" target="FEARMUCH — ШОПЛИФТЕР" id="114" weight="1" />
+      <edge source="Yanix" target="Децл aka Le Truk" id="115" weight="1" />
+      <edge source="Yanix" target="Bigg (V-Style" id="116" weight="1" />
+      <edge source="Big Russian Boss" target="Yanix &amp; Young P&amp;H" id="117" weight="1" />
+      <edge source="Big Russian Boss" target="ЛСП" id="118" weight="1" />
+      <edge source="No Limit" target="Markul" id="119" weight="1" />
+      <edge source="Хайд" target="Markul" id="120" weight="1" />
+      <edge source="Loqiemean" target="Slippah &amp; Ne Spi &amp; Markul &amp; NDS Flava" id="121" weight="1" />
+      <edge source="Хайд &quot;Нерв&quot;" target="Markul" id="122" weight="1" />
+      <edge source="Markul" target="MC NO LIMIT" id="123" weight="1" />
+      <edge source="Markul" target="Oxxxymiron (Оксимирон) - FATA MORGANA (2017" id="124" weight="1" />
+      <edge source="Markul" target="Маркул" id="125" weight="1" />
+      <edge source="Markul" target="ХОЛОДНО" id="126" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль Опутала меня" id="127" weight="1" />
+      <edge source="Miyagi" target="9 Грамм – Рапапам" id="128" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль" id="129" weight="4" />
+      <edge source="Miyagi" target="Эндшпиль Опутала меня, опутала. Ты будто мой сорт" id="130" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль - Половина моя" id="131" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — 8 mile" id="132" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Wisdom" id="133" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Skill" id="134" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Adapter" id="135" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Наоборот" id="136" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Groove" id="137" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Море" id="138" weight="1" />
+      <edge source="Miyagi" target="Эндшпиль — Малиновый рассвет" id="139" weight="1" />
+      <edge source="R e d e m a x ™" target="Эндшпиль, МанТана - Моя банда" id="140" weight="1" />
+      <edge source="Andy Panda" target="Andy Panda — Буревестник" id="141" weight="1" />
+      <edge source="Andy Panda" target="Andy Panda, Mav-d — Marmalade" id="142" weight="1" />
+      <edge source="Andy Panda" target="Andy Panda-Темнота" id="143" weight="1" />
+      <edge source="Andy Panda" target="Andy Panda, TumaniYO — Оттепель" id="144" weight="1" />
+      <edge source="Сатана Печёт Блины" target="Монеточка" id="145" weight="1" />
+      <edge source="Тандем" target="Птаха" id="146" weight="1" />
+      <edge source="Charlie Mole" target="Dorian Gray) Unofficial score 2009 (Vk.Com/OstHD" id="147" weight="1" />
+      <edge source="Каста" target="Guf" id="148" weight="3" />
+      <edge source="Каста" target="Log dog" id="149" weight="3" />
+      <edge source="Каста" target="Ноггано" id="150" weight="3" />
+      <edge source="Каста" target="Mainsteam One" id="151" weight="3" />
+      <edge source="Каста" target="Czar" id="152" weight="3" />
+      <edge source="Каста" target="K.R.A" id="153" weight="3" />
+      <edge source="Каста" target="Shokk" id="154" weight="3" />
+      <edge source="Каста" target="1 Klas" id="155" weight="3" />
+      <edge source="Каста" target="АК 47" id="156" weight="3" />
+      <edge source="Каста" target="T1One" id="157" weight="3" />
+      <edge source="Каста" target="Shot" id="158" weight="3" />
+      <edge source="Каста" target="Зануда" id="159" weight="3" />
+      <edge source="Каста" target="Slim" id="160" weight="3" />
+      <edge source="Каста" target="Bahh Tee" id="161" weight="2" />
+      <edge source="Каста" target="Ginex" id="162" weight="1" />
+      <edge source="Каста" target="Уля (Wow Band" id="163" weight="1" />
+      <edge source="Каста" target="Bahh" id="164" weight="1" />
+      <edge source="Каста" target="DJ Хобот - грязная альбомная версия (Каста)=======" id="165" weight="1" />
+      <edge source="Каста" target="Ginex &amp;amp" id="166" weight="1" />
+      <edge source="Slim" target="Rigos &amp; Slim" id="167" weight="1" />
+      <edge source="Slim" target="Loc-Dog" id="168" weight="1" />
+      <edge source="Slim" target="Восточный округ" id="169" weight="1" />
+      <edge source="Johnyboy" target="H1GH &quot;Клетка&quot;" id="170" weight="1" />
+      <edge source="Johnyboy" target="Johnyboy [prod.Introvert" id="171" weight="1" />
+      <edge source="Johnyboy" target="Chillin beatz" id="172" weight="1" />
+      <edge source="H1GH &quot;Клетка&quot;" target="Efreet Prod. ) | 2011" id="173" weight="1" />
+      <edge source="Rate1.2" target="SiFo-Делай громче звук" id="174" weight="1" />
+      <edge source="gone.Fludd" target="techno" id="175" weight="1" />
+      <edge source="Нигатив" target="Дино produced by Сэт и Нигатив" id="176" weight="1" />
+      <edge source="Нигатив" target="Дино (Триада)" id="177" weight="1" />
+      <edge source="Нигатив" target="Лион" id="178" weight="1" />
+      <edge source="Нигатив" target="Guf" id="179" weight="1" />
+      <edge source="Нигатив" target="Луперкаль и Вадяра Блюз" id="180" weight="1" />
+      <edge source="Гарри Топор" target="Нигатив (Триада" id="181" weight="1" />
+      <edge source="Гарри Топор" target="Stevie Insane [Новый Рэп" id="182" weight="1" />
+      <edge source="Рем Дигга" target="Нигатив Триада" id="183" weight="1" />
+      <edge source="Рем Дигга" target="the Chemodan" id="184" weight="1" />
+      <edge source="Bahh Tee &quot;Небо не предел&quot;" target="Нигатив ( Триада" id="185" weight="1" />
+      <edge source="Guf" target="Нигатив (Триада" id="186" weight="1" />
+      <edge source="the Chemodan" target="Скептик" id="187" weight="1" />
+      <edge source="the Chemodan" target="Chemodan" id="188" weight="2" />
+      <edge source="the Chemodan" target="Восточный округ" id="189" weight="1" />
+      <edge source="the Chemodan" target="Taj Mahal (ОУ74" id="190" weight="1" />
+      <edge source="Словетский" target="Dj Nik One" id="191" weight="1" />
+      <edge source="Словетский" target="Loc-Dog" id="192" weight="1" />
+      <edge source="Словетский" target="Грозный" id="193" weight="1" />
+      <edge source="Словетский" target="Para" id="194" weight="1" />
+      <edge source="РАСКОЛЬНИКОВ" target="СЛОВЕТСКИЙ (Минус" id="195" weight="1" />
+      <edge source="Смоки Мо" target="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо - Capella(За Полк) Remix" id="196" weight="1" />
+      <edge source="Смоки Мо" target="Крип-а-Крип" id="197" weight="1" />
+      <edge source="Мот" target="Смешарики — Обормот" id="198" weight="1" />
+      <edge source="Сява" target="Ноггано" id="199" weight="1" />
+      <edge source="Diamond Miners Gang" target="T-Fest" id="200" weight="1" />
+      <edge source="Diamond Miners Gang" target="Молодой Деньги" id="201" weight="1" />
+      <edge source="100 music" target="Скриптонит-Ламбада" id="202" weight="1" />
+      <edge source="T-Fest" target="Go Loco" id="203" weight="1" />
+      <edge source="ЛСП" target="Oxxxymiron - Мне скучно жить" id="204" weight="1" />
+      <edge source="ЛСП" target="Степан Карма — Magic City" id="205" weight="1" />
+      <edge source="Максим Демах" target="Oxxxymiron cover" id="206" weight="1" />
+      <edge source="Greenaleх - Пати для Богатеньких\Нет Денег" target="Nicki Minaj" id="207" weight="1" />
+      <edge source="Yanix [Block Star]" target="Олеги ЛСП" id="208" weight="1" />
+      <edge source="Porchy" target="ЛСП &amp; oxxxymiron" id="209" weight="1" />
+      <edge source="ЧиСтО боМ боММ" target="PHARAOH - это девочка просто пуля" id="210" weight="1" />
+      <edge source="Неизвестный исполнитель" target="PHARAOH - это девочка просто пуля" id="211" weight="1" />
+      <edge source="Feduk" target="Feduk - РОЗОВОЕ ВИНО (МИНУС) - КАРАОКЕ, ТЕКСТ ПЕСНИ, LYRICS" id="212" weight="1" />
+      <edge source="Feduk" target="Элджей (Я|Так) похож на птицу." id="213" weight="1" />
+      <edge source="Feduk" target="Элджей" id="214" weight="2" />
+      <edge source="Feduk" target="(AlljЭлджей)" id="215" weight="1" />
+      <edge source="Feduk" target="ND Production" id="216" weight="1" />
+      <edge source="Feduk" target="Scally Milano — Мечты" id="217" weight="1" />
+      <edge source="Feduk" target="FRIENDLY THUG 52 NGG — BOY$" id="218" weight="1" />
+      <edge source="Feduk" target="Моя Мишель — Хлопья летят наверх" id="219" weight="1" />
+      <edge source="Элджей" target="Feduk - РОЗОВОЕ ВИНО (МИНУС) - КАРАОКЕ, ТЕКСТ ПЕСНИ, LYRICS" id="220" weight="1" />
+      <edge source="Элджей" target="Кравц — Дисконнект" id="221" weight="1" />
+      <edge source="†.чЁ за трЕк.†" target="Temmy Remix" id="222" weight="1" />
+      <edge source="Триагрутрика" target="Триагрутрика (ТГК) &amp;amp; Айк Дым" id="223" weight="1" />
+      <edge source="Триагрутрика" target="Витя АК" id="224" weight="2" />
+      <edge source="Триагрутрика" target="VibeTGK" id="225" weight="1" />
+      <edge source="Триагрутрика" target="Jahmal TGK — Александр" id="226" weight="1" />
+      <edge source="Триагрутрика" target="Jahmal TGK" id="227" weight="1" />
+      <edge source="Триагрутрика" target="VibeTGK — Фром Москоу" id="228" weight="1" />
+      <edge source="Триагрутрика" target="АК-47" id="229" weight="1" />
+      <edge source="Триагрутрика" target="Восточный округ" id="230" weight="1" />
+      <edge source="Триагрутрика" target="Лёша Маэстро (WB" id="231" weight="1" />
+      <edge source="Триагрутрика" target="Taj Mahal (ОУ74" id="232" weight="1" />
+      <edge source="43ai" target="Thomas Mraz (prod. 4EU3" id="233" weight="1" />
+      <edge source="Thomas Mraz" target="TEA" id="234" weight="1" />
+      <edge source="Thomas Mraz" target="Boulevard Depo — Gloucoma" id="235" weight="1" />
+      <edge source="Клоунеско" target="EK. Playaz" id="236" weight="1" />
+      <edge source="Клоунеско" target="Марк" id="237" weight="1" />
+      <edge source="Клоунеско" target="WB" id="238" weight="1" />
+      <edge source="Клоунеско" target="Negr" id="239" weight="1" />
+      <edge source="Децл" target="MC Молодой Для загрузки воспользуйтесь ссылкой - ://musontakte.ru/Децл.html" id="240" weight="1" />
+      <edge source="Децл" target="Lil'Kong" id="241" weight="1" />
+      <edge source="Децл" target="D.Masta - Быть свободным (Sergey Spensser 'Цао Instrumental' Mash Up" id="242" weight="1" />
+      <edge source="Krec" target="Любовь и нежность" id="243" weight="1" />
+      <edge source="Krec" target="Ассаи" id="244" weight="1" />
+      <edge source="Check" target="KRec (music by Marat. Kirchen records" id="245" weight="1" />
+      <edge source="Витек" target="Смоки Мо и Fuze (Krec" id="246" weight="1" />
+      <edge source="Птаха" target="Slim - Что успеем (rmx NaF НеБезДари" id="247" weight="1" />
+      <edge source="Птаха" target="RusKey" id="248" weight="2" />
+      <edge source="Птаха" target="Легенды Про" id="249" weight="2" />
+      <edge source="Птаха" target="Абандон - На измене (2010" id="250" weight="1" />
+      <edge source="Птаха" target="Guf &amp;amp; Птаха" id="251" weight="1" />
+      <edge source="Ассаи" target="Крек" id="252" weight="1" />
+      <edge source="Триада" target="Дино" id="253" weight="3" />
+      <edge source="Vol'naya Dusha" target="Ассаи-Антон" id="254" weight="1" />
+      <edge source="KILLJOY | RHYME TIME inc." target="Double time" id="255" weight="1" />
+      <edge source="FCKN BEST" target="Nick Niker" id="256" weight="1" />
+      <edge source="Grime" target="Новый День" id="257" weight="1" />
+      <edge source="Bassnectar" target="The Mortal Instruments: City of Bones) Official 2013 (Vk.Com/OstHD" id="258" weight="1" />
+      <edge source="ТГК" target="Триагрутрика (ТГК) &amp;amp; Айк Дым" id="259" weight="1" />
+      <edge source="ТГК" target="Вибе ТГК" id="260" weight="1" />
+      <edge source="ТГК" target="ТГК — ПНП" id="261" weight="1" />
+      <edge source="ТГК" target="163ONMYNECK — Винрар" id="262" weight="1" />
+      <edge source="ТГК" target="Taj Mahal (ОУ74) [Prod. By Daerh feat. Рапк PIRI Ripa 5 Плюх Nel Ittas Арт [Караты] Максп Птаха Ноггано ST 25/17 Хаак Смоки Мо" id="263" weight="1" />
+      <edge source="ТГК" target="Taj Mahal (ОУ74" id="264" weight="1" />
+      <edge source="Вообще" target="Navai — Привет, ну как ты там вообще" id="265" weight="1" />
+      <edge source="SUPERIOR.CAT.PROTEUS" target="PHARAOH [prod. by stereoRYZE" id="266" weight="1" />
+      <edge source="207. Soulkast" target="Onyx &amp; Brahi" id="267" weight="1" />
+      <edge source="Песочные Люди" target="ONYX &amp; Бтр" id="268" weight="1" />
+      <edge source="Песочные Люди" target="Fredro Starr (Onyx" id="269" weight="2" />
+      <edge source="Onyx" target="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо - Capella(За Полк) Remix" id="270" weight="1" />
+      <edge source="Onyx" target="Fredro Starr (ONYX) vs Кто Сказал ft. Смоки Мо" id="271" weight="1" />
+      <edge source="Soulkast" target="Onyx &amp; Brahi" id="272" weight="1" />
+      <edge source="SD AND SCHOKK" target="SCHOKK - Intro / Fler - Ghetto Beat" id="273" weight="1" />
+      <edge source="Корж" target="FOTH" id="274" weight="1" />
+      <edge source="Корж" target="маз корж — Я помню" id="275" weight="1" />
+      <edge source="НОМ" target="Yami — Феноменально" id="276" weight="1" />
+      <edge source="НОМ" target="Сергей Любавин — Бетономешалка" id="277" weight="1" />
+      <edge source="Восточный округ" target="TRIAGRUTRIKA" id="278" weight="1" />
+      <edge source="Восточный округ" target="ТРИАГРУТРИКА (Т.Г.К.липсис)" id="279" weight="1" />
+      <edge source="Восточный округ" target="Brick Bazuka" id="280" weight="1" />
+      <edge source="Восточный округ" target="Chemodan" id="281" weight="1" />
+      <edge source="TRIAGRUTRIKA" target="АК47" id="282" weight="1" />
+      <edge source="TRIAGRUTRIKA" target="Лёша Маэстро (WB" id="283" weight="1" />
+      <edge source="TRIAGRUTRIKA" target="Taj Mahal (ОУ74" id="284" weight="1" />
+      <edge source="Аля Кумар" target="Ямыч (Восточный Округ" id="285" weight="1" />
+      <edge source="Лёша Маэстро" target="Восточный Округ [Новый Рэп" id="286" weight="1" />
+      <edge source="Триагрутрика (ТГК) - Т.Г.К.липсис" target="АК47" id="287" weight="1" />
+      <edge source="Триагрутрика (ТГК) - Т.Г.К.липсис" target="Восточный Округ [BassBoosted by Tim" id="288" weight="1" />
+      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="АК47" id="289" weight="1" />
+      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="Лёша Маэстро (WB" id="290" weight="1" />
+      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="Taj Mahal (ОУ74" id="291" weight="1" />
+      <edge source="Вульгарный Тонн" target="Димы" id="292" weight="1" />
+      <edge source="Вульгарный Тонн" target="Дима" id="293" weight="1" />
+      <edge source="Chemodan" target="Sony Money" id="294" weight="1" />
+      <edge source="Chemodan" target="FRIENDLY THUG 52 NGG — До завтрака" id="295" weight="1" />
+      <edge source="LIN,MALIK" target="12 ОКТЯБРЯ THE CHEMODAN CLAN В ВОРОНЕЖЕ" id="296" weight="1" />
+      <edge source="ОУ74" target="Муровей (Сложные)" id="297" weight="1" />
+      <edge source="ОУ74" target="The Chemodan &amp; Эфди Вадим" id="298" weight="1" />
+      <edge source="ОУ74" target="Cтрана OZ" id="299" weight="1" />
+      <edge source="ОУ74" target="ОУ74 — О лени" id="300" weight="1" />
+      <edge source="ОУ74" target="ОУ74 — Ремесло" id="301" weight="1" />
+      <edge source="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" target="Taj Mahal (ОУ74" id="302" weight="1" />
+      <edge source="Триагутрика" target="Taj Mahal (ОУ74" id="303" weight="1" />
+      <edge source="Блондин" target="Plastik и Manky Monk (ОУ74) [Новый Рэп" id="304" weight="1" />
+      <edge source="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" target="Taj Mahal (ОУ74" id="305" weight="1" />
+      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" target="Taj Mahal (ОУ74" id="306" weight="1" />
+      <edge source="Cтрана OZ" target="Brick Bazuka [Новый Рэп" id="307" weight="1" />
+      <edge source="Лигалайз" target="ЮГ" id="308" weight="1" />
+      <edge source="Лигалайз" target="Bad Balance" id="309" weight="1" />
+      <edge source="Лигалайз" target="Karas, Лигалайз — Будущие мамы 2.0" id="310" weight="1" />
+      <edge source="ЮГ" target="Sir-J" id="311" weight="1" />
+      <edge source="ЮГ" target="Yori" id="312" weight="1" />
+      <edge source="ЮГ" target="Джип" id="313" weight="1" />
+      <edge source="ЮГ" target="Money Mike" id="314" weight="1" />
+      <edge source="ЮГ" target="Стахей" id="315" weight="1" />
+      <edge source="Bad Balance" target="Лигалайз (1998" id="316" weight="1" />
+      <edge source="Домино" target="Пабло — Домино" id="317" weight="1" />
+      <edge source="не ну это пиздец песня" target="Kurbat" id="318" weight="1" />
+      <edge source="Эльбрус Джанмирзоев" target="Alexandros Tsopozidis-Бродяга 2014 минус" id="319" weight="1" />
+    </edges>
+  </graph>
+</gexf>
