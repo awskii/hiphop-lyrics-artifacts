@@ -135,7 +135,7 @@
 <header class="hero">
   <h1>Русский хип-хоп</h1>
   <p class="stats-line">
-    <b>1 837</b> треков · <b>596</b> артистов · <b>1979–2025</b>
+    <b>1 837</b> треков · <b>596</b> артистов · <b>561k</b> токенов
   </p>
   <p class="sub">
     ML-анализ корпуса русскоязычного хип-хопа: NLP-нормализация, тематическое моделирование (LDA),
@@ -153,7 +153,7 @@
     <div class="card"><div class="big-number">561k</div><div class="big-label">Токенов</div></div>
     <div class="card"><div class="big-number">305</div><div class="big-label">Ср. длина трека</div></div>
     <div class="card"><div class="big-number">285</div><div class="big-label">Медианная длина</div></div>
-    <div class="card"><div class="big-number">45</div><div class="big-label">Лет (1979–2025)</div></div>
+
   </div>
   <div class="grid" style="margin-top: 24px;">
     <div class="viz-wide">
@@ -163,22 +163,29 @@
         <img class="viz-img" src="static/stats/length_dist.png" alt="Song length distribution">
       </div>
     </div>
+
+  </div>
+</section>
+
+<section>
+  <h2>Стилистическое сходство</h2>
+  <p class="desc">Косинусное сходство TF-IDF векторов между артистами. Основная визуализация проекта.</p>
+  <div class="grid">
     <div class="viz-wide">
       <div class="card">
-        <h3>Объём треков по годам</h3>
-        <p>Количество песен в корпусе, сгруппированное по году</p>
-        <img class="viz-img" src="static/stats/year_volume.png" alt="Year volume">
+        <h3>🔥 Карта стилей: 596 артистов</h3>
+        <p>Интерактивный граф. Тяни узлы, зуми, ищи кластеры. Узлы — артисты, рёбра — cosine similarity выше порога.</p>
+        <a class="btn" href="static/graph/similarity.html" target="_blank">Открыть граф →</a>
+        <a class="btn secondary" href="static/graph/similarity_full.gexf" download style="margin-left: 8px;">Скачать .gexf</a>
+        <a class="btn secondary" href="static/graph/similarity_communities.csv" download style="margin-left: 8px;">Communities CSV</a>
       </div>
     </div>
-    <div class="card">
-      <h3>Mat density — Top 30</h3>
-      <p>Плотность обсценной лексики у самых продуктивных артистов</p>
-      <img class="viz-img" src="static/stats/mat_density_top30.png" alt="Mat density">
-    </div>
-    <div class="card">
-      <h3>TTR vs число треков</h3>
-      <p>Type-Token Ratio: лексическое разнообразие против объёма дискографии</p>
-      <img class="viz-img" src="static/stats/ttr_vs_songcount.png" alt="TTR vs songcount">
+    <div class="viz-wide">
+      <div class="card">
+        <h3>Top-50 артистов: тепловая карта</h3>
+        <p>Чем ярче — тем ближе стили</p>
+        <img class="viz-img" src="static/similarity/heatmap_top50.png" alt="Similarity heatmap">
+      </div>
     </div>
   </div>
 </section>
@@ -196,31 +203,8 @@
 </section>
 
 <section>
-  <h2>Стилистическое сходство</h2>
-  <p class="desc">Косинусное сходство TF-IDF векторов между артистами.</p>
-  <div class="grid">
-    <div class="viz-wide">
-      <div class="card">
-        <h3>Top-50 артистов: тепловая карта сходства</h3>
-        <p>Чем ярче — тем ближе стили</p>
-        <img class="viz-img" src="static/similarity/heatmap_top50.png" alt="Similarity heatmap">
-      </div>
-    </div>
-    <div class="viz-wide">
-      <div class="card">
-        <h3>Интерактивный граф сходства</h3>
-        <p>Pyvis-визуализация: узлы — артисты, рёбра — cosine similarity выше порога</p>
-        <a class="btn" href="static/graph/similarity.html" target="_blank">Открыть граф →</a>
-        <a class="btn secondary" href="static/graph/similarity_full.gexf" download style="margin-left: 8px;">Скачать .gexf</a>
-        <a class="btn secondary" href="static/graph/similarity_communities.csv" download style="margin-left: 8px;">Communities CSV</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section>
   <h2>Коллаборации</h2>
-  <p class="desc">Граф совместных треков, извлечённых из заголовков (regex: feat., ft., &).</p>
+  <p class="desc">⚠️ <b>Экспериментально:</b> граф извлечён regex-ом из заголовков (feat., ft., &, x). Содержит артефакты парсинга — мусорные имена из длинных названий треков.</p>
   <div class="grid">
     <div class="card">
       <h3>Интерактивный граф</h3>
@@ -260,7 +244,6 @@
       <h3>Список CSV</h3>
       <ul style="list-style: none; padding: 0; font-size: 0.9rem;">
         <li>📄 <a href="static/stats/artists.csv" style="color: var(--accent2);">artists.csv</a> — пер-артистовая агрегация</li>
-        <li>📄 <a href="static/stats/by_year.csv" style="color: var(--accent2);">by_year.csv</a> — по годам</li>
         <li>📄 <a href="static/similarity/nearest_neighbors.csv" style="color: var(--accent2);">nearest_neighbors.csv</a> — top-K соседей</li>
         <li>📄 <a href="static/wordcloud/global_top_terms.csv" style="color: var(--accent2);">global_top_terms.csv</a></li>
         <li>📄 <a href="static/topics/topics_top_terms.csv" style="color: var(--accent2);">topics_top_terms.csv</a></li>
