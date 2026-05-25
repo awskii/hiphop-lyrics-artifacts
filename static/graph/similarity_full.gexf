@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-05-22">
+  <meta lastmodifieddate="2026-05-25">
     <creator>NetworkX 3.4.2</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -9,10 +9,34 @@
       <attribute id="1" title="song_count" type="long" />
     </attributes>
     <nodes>
+      <node id="Многоточие" label="Многоточие">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="135" />
+        </attvalues>
+      </node>
+      <node id="АК-47" label="АК-47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="57" />
+        </attvalues>
+      </node>
+      <node id="Баста" label="Баста">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="50" />
+        </attvalues>
+      </node>
       <node id="Смоки Мо" label="Смоки Мо">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="31" />
+        </attvalues>
+      </node>
+      <node id="Гуф" label="Гуф">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="30" />
         </attvalues>
       </node>
       <node id="Каста" label="Каста">
@@ -27,25 +51,13 @@
           <attvalue for="1" value="29" />
         </attvalues>
       </node>
-      <node id="Баста" label="Баста">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="28" />
-        </attvalues>
-      </node>
-      <node id="Гуф" label="Гуф">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="28" />
-        </attvalues>
-      </node>
       <node id="Oxxxymiron" label="Oxxxymiron">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="24" />
         </attvalues>
       </node>
-      <node id="Король и Шут" label="Король и Шут">
+      <node id="Король" label="Король">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="24" />
@@ -81,6 +93,18 @@
           <attvalue for="1" value="23" />
         </attvalues>
       </node>
+      <node id="Noize MC" label="Noize MC">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="the Chemodan" label="the Chemodan">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
       <node id="Вульгарный Тонн" label="Вульгарный Тонн">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -99,13 +123,19 @@
           <attvalue for="1" value="21" />
         </attvalues>
       </node>
+      <node id="Эльбрус Джанмирзоев" label="Эльбрус Джанмирзоев">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
       <node id="Truwer" label="Truwer">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="20" />
         </attvalues>
       </node>
-      <node id="Эльбрус Джанмирзоев" label="Эльбрус Джанмирзоев">
+      <node id="Скриптонит" label="Скриптонит">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="20" />
@@ -118,12 +148,6 @@
         </attvalues>
       </node>
       <node id="НОМ" label="НОМ">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="19" />
-        </attvalues>
-      </node>
-      <node id="Скриптонит" label="Скриптонит">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="19" />
@@ -171,10 +195,10 @@
           <attvalue for="1" value="18" />
         </attvalues>
       </node>
-      <node id="Chemodan" label="Chemodan">
+      <node id="Элджей" label="Элджей">
         <attvalues>
           <attvalue for="0" value="true" />
-          <attvalue for="1" value="17" />
+          <attvalue for="1" value="18" />
         </attvalues>
       </node>
       <node id="Miyagi" label="Miyagi">
@@ -184,12 +208,6 @@
         </attvalues>
       </node>
       <node id="Восточный округ" label="Восточный округ">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="17" />
-        </attvalues>
-      </node>
-      <node id="Элджей" label="Элджей">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="17" />
@@ -225,6 +243,12 @@
           <attvalue for="1" value="15" />
         </attvalues>
       </node>
+      <node id="Yanix" label="Yanix">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
       <node id="Грибы" label="Грибы">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -237,10 +261,10 @@
           <attvalue for="1" value="15" />
         </attvalues>
       </node>
-      <node id="Yanix" label="Yanix">
+      <node id="Триагрутрика" label="Триагрутрика">
         <attvalues>
           <attvalue for="0" value="true" />
-          <attvalue for="1" value="14" />
+          <attvalue for="1" value="15" />
         </attvalues>
       </node>
       <node id="ЛСП" label="ЛСП">
@@ -255,12 +279,6 @@
           <attvalue for="1" value="14" />
         </attvalues>
       </node>
-      <node id="Триагрутрика" label="Триагрутрика">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="14" />
-        </attvalues>
-      </node>
       <node id="Lil Morty" label="Lil Morty">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -268,6 +286,12 @@
         </attvalues>
       </node>
       <node id="gone.Fludd" label="gone.Fludd">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="Ак-47" label="Ак-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="13" />
@@ -304,6 +328,12 @@
         </attvalues>
       </node>
       <node id="IC3PEAK" label="IC3PEAK">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="Витя АК-47" label="Витя АК-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="11" />
@@ -411,12 +441,6 @@
           <attvalue for="1" value="10" />
         </attvalues>
       </node>
-      <node id="Нойз MC" label="Нойз MC">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="10" />
-        </attvalues>
-      </node>
       <node id="Окси" label="Окси">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -465,19 +489,7 @@
           <attvalue for="1" value="9" />
         </attvalues>
       </node>
-      <node id="Basta" label="Basta">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
       <node id="Onyx" label="Onyx">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="7" />
-        </attvalues>
-      </node>
-      <node id="Баста / Гуф" label="Баста / Гуф">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="7" />
@@ -489,19 +501,37 @@
           <attvalue for="1" value="5" />
         </attvalues>
       </node>
-      <node id="Noize MC" label="Noize MC">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="5" />
-        </attvalues>
-      </node>
       <node id="i61" label="i61">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="5" />
         </attvalues>
       </node>
+      <node id="Алые паруса" label="Алые паруса">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Восточный Округ" label="Восточный Округ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
       <node id="Любэ" label="Любэ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Руставели (Многоточие)" label="Руставели (Многоточие)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="ак-47" label="ак-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="5" />
@@ -519,7 +549,7 @@
           <attvalue for="1" value="4" />
         </attvalues>
       </node>
-      <node id="Восточный Округ" label="Восточный Округ">
+      <node id="Виктория Дайнеко и Корни" label="Виктория Дайнеко и Корни">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="4" />
@@ -561,7 +591,19 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="Noize mc" label="Noize mc">
+      <node id="АК 47" label="АК 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ак" label="Ак">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ак 47" label="Ак 47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="3" />
@@ -573,25 +615,25 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="Алые паруса" label="Алые паруса">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="3" />
-        </attvalues>
-      </node>
       <node id="Барды" label="Барды">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="Баста, Смоки Мо" label="Баста, Смоки Мо">
+      <node id="Ваня Воробей" label="Ваня Воробей">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
-      <node id="Ваня Воробей" label="Ваня Воробей">
+      <node id="Вика Дайнеко и Корни" label="Вика Дайнеко и Корни">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Клоунеско" label="Клоунеско">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="3" />
@@ -627,6 +669,18 @@
           <attvalue for="1" value="3" />
         </attvalues>
       </node>
+      <node id="ТРИАГРУТРИКА" label="ТРИАГРУТРИКА">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="многоточие" label="многоточие">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
       <node id="Bad Balance" label="Bad Balance">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -639,7 +693,7 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="Guf" label="Guf">
+      <node id="JILLZAY - ТВОY НОМЕР" label="JILLZAY - ТВОY НОМЕР">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
@@ -693,13 +747,19 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
+      <node id="[АК-47]" label="[АК-47]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
       <node id="dom!No" label="dom!No">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="the Chemodan" label="the Chemodan">
+      <node id="Ака-47" label="Ака-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
@@ -718,12 +778,6 @@
         </attvalues>
       </node>
       <node id="Армия брат" label="Армия брат">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="2" />
-        </attvalues>
-      </node>
-      <node id="Баста и Смоки Мо" label="Баста и Смоки Мо">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
@@ -807,6 +861,12 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
+      <node id="Игорь Белый" label="Игорь Белый">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
       <node id="Игорь Растеряев" label="Игорь Растеряев">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -825,6 +885,12 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
+      <node id="МНОГОТОЧИЕ BAND" label="МНОГОТОЧИЕ BAND">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
       <node id="Майя Кристалинская" label="Майя Кристалинская">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -837,7 +903,19 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
+      <node id="Мастер" label="Мастер">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
       <node id="От Вінта" label="От Вінта">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Очередной MC" label="Очередной MC">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
@@ -861,7 +939,19 @@
           <attvalue for="1" value="2" />
         </attvalues>
       </node>
-      <node id="ТРИАГРУТРИКА (Т.Г.К.липсис)" label="ТРИАГРУТРИКА (Т.Г.К.липсис)">
+      <node id="Соня Мармеладова" label="Соня Мармеладова">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Третий Путь (Многоточие и M. Squad)" label="Третий Путь (Многоточие и M. Squad)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Третий Путь (Многоточие и M.Squad)" label="Третий Путь (Многоточие и M.Squad)">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
@@ -874,6 +964,12 @@
         </attvalues>
       </node>
       <node id="к/ф Красная Шапочка" label="к/ф Красная Шапочка">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="┴═╦╕АК-47" label="┴═╦╕АК-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="2" />
@@ -897,6 +993,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id=". ιllιlιιl Сява" label=". ιllιlιιl Сява">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="1 klass" label="1 klass">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -915,13 +1017,25 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" label="12 ТРИАГРУТРИКА (Т.Г.К.липсис)">
+      <node id="12 ТРИАГРУТРИКА" label="12 ТРИАГРУТРИКА">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="13 Фронт" label="13 Фронт">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="207. Soulkast" label="207. Soulkast">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="2H Company" label="2H Company">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -969,6 +1083,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="8 Вадим Мулерман" label="8 Вадим Мулерман">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="9 ВАЛ" label="9 ВАЛ">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -993,7 +1113,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Alex Fish [Время Иллюзий]" label="Alex Fish [Время Иллюзий]">
+      <node id="Alex Fish" label="Alex Fish">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1053,7 +1173,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Can4eZ(SV)" label="Can4eZ(SV)">
+      <node id="Brick Bazuka – Это реп" label="Brick Bazuka – Это реп">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Can4eZ" label="Can4eZ">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1077,7 +1203,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="ChipaChip x Женя Дэп" label="ChipaChip x Женя Дэп">
+      <node id="ChipaChip" label="ChipaChip">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1096,6 +1222,12 @@
         </attvalues>
       </node>
       <node id="D-Bosh" label="D-Bosh">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="D.I.P. PROJECT" label="D.I.P. PROJECT">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1131,13 +1263,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Dav / 4SGM" label="Dav / 4SGM">
+      <node id="Dav" label="Dav">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="Dead Hearted" label="Dead Hearted">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Defro" label="Defro">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1185,7 +1323,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="EK Playaz и Клоунеско" label="EK Playaz и Клоунеско">
+      <node id="Dotsfam (ex Многоточие)" label="Dotsfam (ex Многоточие)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="EK Playaz" label="EK Playaz">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1215,7 +1359,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Flowdan vs Logan Sama" label="Flowdan vs Logan Sama">
+      <node id="Flowdan" label="Flowdan">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="G-Nise и Алексей Кабанов" label="G-Nise и Алексей Кабанов">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1233,7 +1383,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Ginex - DoN-A, Beny Krik, Som -Мостовой Двор" label="Ginex - DoN-A, Beny Krik, Som -Мостовой Двор">
+      <node id="Ginex - DoN-A" label="Ginex - DoN-A">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1299,7 +1449,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="JILLZAY - ТВОY НОМЕР (Origin) Six O!" label="JILLZAY - ТВОY НОМЕР (Origin) Six O!">
+      <node id="Integra" label="Integra">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1341,6 +1491,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="KReeD" label="KReeD">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="KRiceT" label="KRiceT">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -1359,7 +1515,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="LIN,MALIK" label="LIN,MALIK">
+      <node id="LIN" label="LIN">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1377,7 +1533,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Lebron(п.у.А-ki)" label="Lebron(п.у.А-ki)">
+      <node id="Lebron" label="Lebron">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1443,7 +1599,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="MC Молодой &amp; DZA &amp; CanabiZ" label="MC Молодой &amp; DZA &amp; CanabiZ">
+      <node id="MC Молодой" label="MC Молодой">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1456,6 +1612,12 @@
         </attvalues>
       </node>
       <node id="MEOW!" label="MEOW!">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MSI, GTi, ST, Многоточие, FC Dinamo" label="MSI, GTi, ST, Многоточие, FC Dinamo">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1521,24 +1683,6 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Noize MC  Трое В Лодке Не Считая Собаки" label="Noize MC  Трое В Лодке Не Считая Собаки">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Noize MC 2012 новый альбом" label="Noize MC 2012 новый альбом">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Noize MC [://muz-.ru]" label="Noize MC [://muz-.ru]">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
       <node id="OSLIKt" label="OSLIKt">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -1581,13 +1725,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="R e d e m a x ™" label="R e d e m a x ™">
+      <node id="R e d e m a" label="R e d e m a">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="RC [SKL]" label="RC [SKL]">
+      <node id="RC" label="RC">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1599,7 +1743,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="RSA 2010" label="RSA 2010">
+      <node id="RSA" label="RSA">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1659,13 +1803,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="RusKey" label="RusKey">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="SD AND SCHOKK" label="SD AND SCHOKK">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="SKVerniy_hhiu_r 2_(vs. Vitos MC)" label="SKVerniy_hhiu_r 2_(vs. Vitos MC)">
+      <node id="SKVerniy_hhiu_r 2_" label="SKVerniy_hhiu_r 2_">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1677,7 +1827,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Sandy Fish &amp; Cj Alco" label="Sandy Fish &amp; Cj Alco">
+      <node id="Sandy Fish" label="Sandy Fish">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1731,18 +1881,6 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="The Chemodan" label="The Chemodan">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="The Chemodan &amp; Эфди Вадим" label="The Chemodan &amp; Эфди Вадим">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
       <node id="Tony Gun" label="Tony Gun">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -1779,13 +1917,25 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Vomut &amp; Wolfigo" label="Vomut &amp; Wolfigo">
+      <node id="Vomut" label="Vomut">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Yanix [Block Star]" label="Yanix [Block Star]">
+      <node id="White Hot Ice feat. Многоточие" label="White Hot Ice feat. Многоточие">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="White hot ice feat Многоточие" label="White hot ice feat Многоточие">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="[I love [Music ❤ ]" label="[I love [Music ❤ ]">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1809,7 +1959,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="nightcore (Musical.ly)" label="nightcore (Musical.ly)">
+      <node id="nightcore" label="nightcore">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1839,7 +1989,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="zgheilmyfrr x mironoffdmitry" label="zgheilmyfrr x mironoffdmitry">
+      <node id="zgheilmyfrr" label="zgheilmyfrr">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1863,7 +2013,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="А. Грейчайник (ДМЦ)" label="А. Грейчайник (ДМЦ)">
+      <node id="А. Грейчайник" label="А. Грейчайник">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="АК- 47" label="АК- 47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1875,7 +2031,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Авеню (Москва)" label="Авеню (Москва)">
+      <node id="Авеню" label="Авеню">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1887,7 +2043,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Агата Кристи - Чудеса (1998)" label="Агата Кристи - Чудеса (1998)">
+      <node id="Агата Кристи - Чудеса" label="Агата Кристи - Чудеса">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1911,7 +2067,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Александр Шуров и Николай Рыкунин" label="Александр Шуров и Николай Рыкунин">
+      <node id="Ака 47" label="Ака 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Александр Шуров" label="Александр Шуров">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Алексей Гоман" label="Алексей Гоман">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -1935,12 +2103,6 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Алые паруса (минус)" label="Алые паруса (минус)">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
       <node id="Аля Кудряшова" label="Аля Кудряшова">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -1959,7 +2121,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Андрей Грейчайник (ДМЦ)" label="Андрей Грейчайник (ДМЦ)">
+      <node id="Андрей Грейчайник" label="Андрей Грейчайник">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2025,6 +2187,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Ассорти" label="Ассорти">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="БАРТО" label="БАРТО">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -2055,7 +2223,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Бей, но выслушай" label="Бей, но выслушай">
+      <node id="Бей" label="Бей">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2097,7 +2265,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Брутто (Каспийский Груз)" label="Брутто (Каспийский Груз)">
+      <node id="Брутто" label="Брутто">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2127,7 +2295,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Вадяра Блюз (Bulletgrims)" label="Вадяра Блюз (Bulletgrims)">
+      <node id="Вадяра Блюз" label="Вадяра Блюз">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2169,7 +2337,31 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Витя Ак &amp; Tip 2В12" label="Витя Ак &amp; Tip 2В12">
+      <node id="Витя" label="Витя">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витя АК 47" label="Витя АК 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витя Ак" label="Витя Ак">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витя Ак 47" label="Витя Ак 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Витя Ака 47" label="Витя Ака 47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2200,12 +2392,6 @@
         </attvalues>
       </node>
       <node id="Воробей" label="Воробей">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Восточный Округ (УРМК)" label="Восточный Округ (УРМК)">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2271,7 +2457,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Гнойный (a.k.a Соня Мармеладова)" label="Гнойный (a.k.a Соня Мармеладова)">
+      <node id="Гнойный" label="Гнойный">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2325,7 +2511,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Дино (Триада)" label="Дино (Триада)">
+      <node id="Дино" label="Дино">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2349,6 +2535,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Ева Польна" label="Ева Польна">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="Женщины деревни Кеба (Лешуконский" label="Женщины деревни Кеба (Лешуконский">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -2367,19 +2559,25 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Зарина, Многоточие и Корни" label="Зарина, Многоточие и Корни">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="Зи" label="Зи">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Зиннур и Ильназ Сафиуллинар" label="Зиннур и Ильназ Сафиуллинар">
+      <node id="Зиннур" label="Зиннур">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Злой Дух ( няшка ^^ )" label="Злой Дух ( няшка ^^ )">
+      <node id="Злой Дух" label="Злой Дух">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2397,19 +2595,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Игорь Белый" label="Игорь Белый">
+      <node id="Иезекииль 25:17 Feat. Многоточие" label="Иезекииль 25:17 Feat. Многоточие">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Игорь Белый (на стихи Али Кудряшёвой)" label="Игорь Белый (на стихи Али Кудряшёвой)">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Из к/ф &quot;Снежная любовь, или сон в зимнюю ночь&quot;" label="Из к/ф &quot;Снежная любовь, или сон в зимнюю ночь&quot;">
+      <node id="Из к/ф &quot;Снежная любовь" label="Из к/ф &quot;Снежная любовь">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2433,7 +2625,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="КОЈЕКУДА 2014-11-09 Radio Beograd 1" label="КОЈЕКУДА 2014-11-09 Radio Beograd 1">
+      <node id="КОЈЕКУДА" label="КОЈЕКУДА">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2469,19 +2661,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Клоунеско" label="Клоунеско">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Клоунеско &amp; EK Playaz" label="Клоунеско &amp; EK Playaz">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Клоунеско,Ek.playaz,Worna Brazass" label="Клоунеско,Ek.playaz,Worna Brazass">
+      <node id="Кендра" label="Кендра">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2517,6 +2697,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Красное Дерево" label="Красное Дерево">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="Крек" label="Крек">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -2542,6 +2728,12 @@
         </attvalues>
       </node>
       <node id="КрэФ" label="КрэФ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Купэ" label="Купэ">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2577,7 +2769,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Лилия Биктимирова и Фадис Ганиев" label="Лилия Биктимирова и Фадис Ганиев">
+      <node id="Лилия Биктимирова" label="Лилия Биктимирова">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2589,13 +2781,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Луперкаль и Вадяра Блюз" label="Луперкаль и Вадяра Блюз">
+      <node id="Луперкаль" label="Луперкаль">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Любовь и нежность" label="Любовь и нежность">
+      <node id="Любовь" label="Любовь">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2625,13 +2817,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="М8Л8Tx / Нежеголь" label="М8Л8Tx / Нежеголь">
+      <node id="М8Л8Tx" label="М8Л8Tx">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="МЖ" label="МЖ">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="МНОГОТОЧИЕ" label="МНОГОТОЧИЕ">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2649,7 +2847,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Максим Ак-47" label="Максим Ак-47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="Марго Сирин" label="Марго Сирин">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Мария Чайковская" label="Мария Чайковская">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2662,18 +2872,6 @@
         </attvalues>
       </node>
       <node id="Марьяж &quot;Декорации&quot;" label="Марьяж &quot;Декорации&quot;">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Мастер &amp; Margenta" label="Мастер &amp; Margenta">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Мастер (По ту сторону сна) - 2006" label="Мастер (По ту сторону сна) - 2006">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2697,7 +2895,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Михаил Михайлов (Афган, запись 1987 - 88 г.г.)" label="Михаил Михайлов (Афган, запись 1987 - 88 г.г.)">
+      <node id="Михаил Михайлов" label="Михаил Михайлов">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2710,6 +2908,48 @@
         </attvalues>
       </node>
       <node id="Мишари Рашид Аль-Афаси" label="Мишари Рашид Аль-Афаси">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие (DotsFam)" label="Многоточие (DotsFam)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие (White Hot Ice)" label="Многоточие (White Hot Ice)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие (Третий Путь)" label="Многоточие (Третий Путь)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие Band" label="Многоточие Band">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие [Третий Путь]" label="Многоточие [Третий Путь]">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие( третий путь)" label="Многоточие( третий путь)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Многоточие." label="Многоточие.">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2739,7 +2979,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Муровей (Сложные)" label="Муровей (Сложные)">
+      <node id="Муровей" label="Муровей">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2751,7 +2991,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Наречена_Михайло Хома (Дзідзьо)(акорди)" label="Наречена_Михайло Хома (Дзідзьо)(акорди)">
+      <node id="Мэф (Ю.Г.) и L. Beeatch (Многоточие)" label="Мэф (Ю.Г.) и L. Beeatch (Многоточие)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Надо по делам" label="Надо по делам">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Наречена_Михайло Хома" label="Наречена_Михайло Хома">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2763,7 +3015,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Наташа, Илья, Лёша" label="Наташа, Илья, Лёша">
+      <node id="Наташа" label="Наташа">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Не Предел feat. Многоточие" label="Не Предел feat. Многоточие">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Нее, это не Многоточие. Это DSB" label="Нее, это не Многоточие. Это DSB">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2775,13 +3039,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Ноггано" label="Ноггано">
+      <node id="Неизвестный" label="Неизвестный">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Нойз МС" label="Нойз МС">
+      <node id="НоГГано feat Витя ак-47" label="НоГГано feat Витя ак-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2799,7 +3063,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="ОСП - С.Белоголовцев,Л.Каганов" label="ОСП - С.Белоголовцев,Л.Каганов">
+      <node id="ОСП - С.Белоголовцев" label="ОСП - С.Белоголовцев">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2823,7 +3087,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Оратория 2005 (demo)" label="Оратория 2005 (demo)">
+      <node id="Оратория" label="Оратория">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2835,19 +3099,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Очередной MC" label="Очередной MC">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Очередной MC (Сега, Anacondaz)" label="Очередной MC (Сега, Anacondaz)">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="ПОЛЮСА [26/08 клуб Грибоедов]" label="ПОЛЮСА [26/08 клуб Грибоедов]">
+      <node id="ПОЛЮСА" label="ПОЛЮСА">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2883,6 +3135,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="Перевалов Геннадий" label="Перевалов Геннадий">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="Песни Фанатов ЦСКА" label="Песни Фанатов ЦСКА">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -2907,13 +3165,13 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Песня Красной Шапочки (рок-версия)" label="Песня Красной Шапочки (рок-версия)">
+      <node id="Песня Красной Шапочки" label="Песня Красной Шапочки">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Песочные люди (Колесо - Оба Зрения 2011)" label="Песочные люди (Колесо - Оба Зрения 2011)">
+      <node id="Песочные люди" label="Песочные люди">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -2955,7 +3213,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Потратил тыщу баксов, они вернутся" label="Потратил тыщу баксов, они вернутся">
+      <node id="Потратил тыщу баксов" label="Потратил тыщу баксов">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Праздничный хор" label="Праздничный хор">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Пума" label="Пума">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3009,7 +3279,25 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="СИЛЕН Radio Beograd 2 - 2016-12-30" label="СИЛЕН Radio Beograd 2 - 2016-12-30">
+      <node id="Руставели  (DotsFam / Многоточие)" label="Руставели  (DotsFam / Многоточие)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Руставели ( Многоточие )" label="Руставели ( Многоточие )">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Руставели(Многоточие/Dotsfam)" label="Руставели(Многоточие/Dotsfam)">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="СИЛЕН Radio Beograd 2 -" label="СИЛЕН Radio Beograd 2 -">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3021,7 +3309,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Саша rAp [Вульгарний ТоНН]" label="Саша rAp [Вульгарний ТоНН]">
+      <node id="Саша rAp" label="Саша rAp">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3069,7 +3357,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Сергей Бабкин (5'nizza)" label="Сергей Бабкин (5'nizza)">
+      <node id="Сергей Бабкин" label="Сергей Бабкин">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3081,7 +3369,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Сидоджи Дубоshit и Грязный Рамирес" label="Сидоджи Дубоshit и Грязный Рамирес">
+      <node id="Сидоджи Дубоshit" label="Сидоджи Дубоshit">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3093,31 +3381,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Скриптон" label="Скриптон">
+      <node id="Скрябін" label="Скрябін">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Скрябін, (1995 Птахи)" label="Скрябін, (1995 Птахи)">
+      <node id="Слот" label="Слот">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="Солдат Семёнов" label="Солдат Семёнов">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)" label="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Соня Мармеладова (Гнойный)" label="Соня Мармеладова (Гнойный)">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3141,31 +3417,31 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Стрелки &amp; MC Пряников" label="Стрелки &amp; MC Пряников">
+      <node id="Стрелки" label="Стрелки">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Сэт, Крек, Эйсик" label="Сэт, Крек, Эйсик">
+      <node id="Сэт" label="Сэт">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" label="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" label="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]">
+      <node id="ТРИАГРУТРИКА ]" label="ТРИАГРУТРИКА ]">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="Тандем" label="Тандем">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Таня Моль" label="Таня Моль">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3178,12 +3454,6 @@
         </attvalues>
       </node>
       <node id="Типа РВ!" label="Типа РВ!">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Триагрутрика (ТГК) - Т.Г.К.липсис" label="Триагрутрика (ТГК) - Т.Г.К.липсис">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3261,19 +3531,19 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="ЦеРН и ЦСНА - (Не) Герои" label="ЦеРН и ЦСНА - (Не) Герои">
+      <node id="Хор Минского Свято-Елисаветинского монастыря. )" label="Хор Минского Свято-Елисаветинского монастыря. )">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ЦеРН" label="ЦеРН">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
       <node id="Цыганский Барон Олександр Набок" label="Цыганский Барон Олександр Набок">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Чемодан" label="Чемодан">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3309,13 +3579,7 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="Эдуард Эдуаши (Успешная Группа)" label="Эдуард Эдуаши (Успешная Группа)">
-        <attvalues>
-          <attvalue for="0" value="true" />
-          <attvalue for="1" value="1" />
-        </attvalues>
-      </node>
-      <node id="Элджей (Я|Так) похож на птицу." label="Элджей (Я|Так) похож на птицу.">
+      <node id="Эдуард Эдуаши" label="Эдуард Эдуаши">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3352,6 +3616,18 @@
         </attvalues>
       </node>
       <node id="абстрактный бомж" label="абстрактный бомж">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ак 47" label="ак 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ака 47" label="ака 47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3525,7 +3801,37 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="•АК-47" label="•АК-47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="┴═╦╕ АК 47" label="┴═╦╕ АК 47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="┴═╦╕Витя АК-47" label="┴═╦╕Витя АК-47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="▂▃▅▆▇the Chemodan" label="▂▃▅▆▇the Chemodan">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="█ Ак-47" label="█ Ак-47">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="►АК-47" label="►АК-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3543,6 +3849,12 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
+      <node id="★ Ак-47 ★" label="★ Ак-47 ★">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
       <node id="♡ Акула ♡" label="♡ Акула ♡">
         <attvalues>
           <attvalue for="0" value="true" />
@@ -3555,25 +3867,25 @@
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="♪♫ Перевалов Геннадий" label="♪♫ Перевалов Геннадий">
+      <node id="♫ Многоточие" label="♫ Многоточие">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="♫. ιllιlιιl Сява" label="♫. ιllιlιιl Сява">
+      <node id="✵ Бек✵" label="✵ Бек✵">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="✔Слот" label="✔Слот">
+      <node id="✿Не Предел feat. Многоточие" label="✿Не Предел feat. Многоточие">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
         </attvalues>
       </node>
-      <node id="✵ ​Бек✵" label="✵ ​Бек✵">
+      <node id="❡АК-47" label="❡АК-47">
         <attvalues>
           <attvalue for="0" value="true" />
           <attvalue for="1" value="1" />
@@ -3587,604 +3899,630 @@
       </node>
     </nodes>
     <edges>
-      <edge source="Смоки Мо" target="Баста, Смоки Мо" id="0" weight="0.4821646684297986" />
-      <edge source="Смоки Мо" target="Баста и Смоки Мо" id="1" weight="0.4131323914414599" />
-      <edge source="Смоки Мо" target="Баста" id="2" weight="0.3849384980703395" />
-      <edge source="Смоки Мо" target="Onyx" id="3" weight="0.3565075701032818" />
-      <edge source="Смоки Мо" target="Krec" id="4" weight="0.2883209967958911" />
-      <edge source="Смоки Мо" target="Oxxxymiron" id="5" weight="0.27090453249093804" />
-      <edge source="Смоки Мо" target="Король и Шут" id="6" weight="0.2119164474113556" />
-      <edge source="Смоки Мо" target="Johnyboy" id="7" weight="0.26933426840647645" />
-      <edge source="Смоки Мо" target="Рем Дигга" id="8" weight="0.28148653320668915" />
-      <edge source="Смоки Мо" target="Centr" id="9" weight="0.26030889262755436" />
-      <edge source="Смоки Мо" target="НОМ" id="10" weight="0.20243653603863498" />
-      <edge source="Смоки Мо" target="Скриптонит" id="11" weight="0.26204804891552075" />
-      <edge source="Смоки Мо" target="Тимати" id="12" weight="0.2698648510421549" />
-      <edge source="Смоки Мо" target="Markul" id="13" weight="0.2577272647163925" />
-      <edge source="Смоки Мо" target="PHARAOH" id="14" weight="0.2415784000552927" />
-      <edge source="Смоки Мо" target="Thomas Mraz" id="15" weight="0.23356686701152515" />
-      <edge source="Смоки Мо" target="Децл" id="16" weight="0.2234184348993877" />
-      <edge source="Смоки Мо" target="Chemodan" id="17" weight="0.26233690338762816" />
-      <edge source="Смоки Мо" target="Miyagi" id="18" weight="0.24148492751205472" />
-      <edge source="Смоки Мо" target="ЛСП" id="19" weight="0.22160172904274839" />
-      <edge source="Смоки Мо" target="ОУ74" id="20" weight="0.27046382612726866" />
-      <edge source="Смоки Мо" target="gone.Fludd" id="21" weight="0.24332077144786401" />
-      <edge source="Смоки Мо" target="Ассаи" id="22" weight="0.263295321554557" />
-      <edge source="Смоки Мо" target="Словетский" id="23" weight="0.22324388533897224" />
-      <edge source="Смоки Мо" target="Каратель" id="24" weight="0.2213626916566915" />
-      <edge source="Смоки Мо" target="Вообще" id="25" weight="0.2047031094946593" />
-      <edge source="Смоки Мо" target="Лигалайз" id="26" weight="0.25065641935842614" />
-      <edge source="Смоки Мо" target="Andy Panda" id="27" weight="0.20642173962558105" />
-      <edge source="Смоки Мо" target="L'One" id="28" weight="0.23141480446887505" />
-      <edge source="Смоки Мо" target="T-Fest" id="29" weight="0.2132361317738536" />
-      <edge source="Смоки Мо" target="Хоми" id="30" weight="0.20349203642493605" />
-      <edge source="Смоки Мо" target="Песочные Люди" id="31" weight="0.2514711834824484" />
-      <edge source="Каста" target="Гуф" id="32" weight="0.3237516795126659" />
-      <edge source="Каста" target="Баста" id="33" weight="0.3002234792732423" />
-      <edge source="Каста" target="Птаха" id="34" weight="0.29255076239646666" />
-      <edge source="Каста" target="Триада" id="35" weight="0.28948673133369174" />
-      <edge source="Каста" target="Вульгарный Тонн" id="36" weight="0.28845425554605497" />
-      <edge source="Каста" target="Король и Шут" id="37" weight="0.21480823461140713" />
-      <edge source="Каста" target="Johnyboy" id="38" weight="0.2673498435528413" />
-      <edge source="Каста" target="Сява" id="39" weight="0.21620855190797628" />
-      <edge source="Каста" target="Словетский" id="40" weight="0.20928186182761507" />
-      <edge source="Каста" target="Нигатив" id="41" weight="0.23610802361647537" />
-      <edge source="Каста" target="Монеточка" id="42" weight="0.23028099794981494" />
-      <edge source="Каста" target="Баста / Гуф" id="43" weight="0.22652259386792092" />
-      <edge source="Мот" target="Ассаи" id="44" weight="0.20314473188585347" />
-      <edge source="Мот" target="Птаха" id="45" weight="0.202682937495327" />
-      <edge source="Мот" target="Триада" id="46" weight="0.20089377254691926" />
-      <edge source="Баста" target="Баста / Гуф" id="47" weight="0.5307344612469462" />
-      <edge source="Баста" target="Гуф" id="48" weight="0.4030669673474312" />
-      <edge source="Баста" target="Баста, Смоки Мо" id="49" weight="0.3240811846905178" />
-      <edge source="Баста" target="Баста и Смоки Мо" id="50" weight="0.30795833350140217" />
-      <edge source="Баста" target="Птаха" id="51" weight="0.3033565353377847" />
-      <edge source="Баста" target="Вульгарный Тонн" id="52" weight="0.2978031524972697" />
-      <edge source="Баста" target="Рем Дигга" id="53" weight="0.3012152968409713" />
-      <edge source="Баста" target="Centr" id="54" weight="0.26693327535817585" />
-      <edge source="Баста" target="Эльбрус Джанмирзоев" id="55" weight="0.21589184709275266" />
-      <edge source="Баста" target="НОМ" id="56" weight="0.21815096247252813" />
-      <edge source="Баста" target="Скриптонит" id="57" weight="0.2549900239649314" />
-      <edge source="Баста" target="Тимати" id="58" weight="0.2783420920797614" />
-      <edge source="Баста" target="Триада" id="59" weight="0.2860548869132768" />
-      <edge source="Баста" target="Markul" id="60" weight="0.24383865648132239" />
-      <edge source="Баста" target="Slim" id="61" weight="0.21891816722706886" />
-      <edge source="Баста" target="Thomas Mraz" id="62" weight="0.2280395295231586" />
-      <edge source="Баста" target="Miyagi" id="63" weight="0.24995742247430894" />
-      <edge source="Баста" target="Восточный округ" id="64" weight="0.25936889396401464" />
-      <edge source="Баста" target="Krec" id="65" weight="0.2983295983617895" />
-      <edge source="Баста" target="Корж" id="66" weight="0.23991530276098827" />
-      <edge source="Баста" target="Dino MC47" id="67" weight="0.24681858913934993" />
-      <edge source="Баста" target="Feduk" id="68" weight="0.28302481896894305" />
-      <edge source="Баста" target="ОУ74" id="69" weight="0.27930231363466335" />
-      <edge source="Баста" target="gone.Fludd" id="70" weight="0.21747359203182198" />
-      <edge source="Баста" target="Ассаи" id="71" weight="0.26999515095230003" />
-      <edge source="Баста" target="Словетский" id="72" weight="0.21935200437158117" />
-      <edge source="Баста" target="Каратель" id="73" weight="0.21597563353570953" />
-      <edge source="Баста" target="Нигатив" id="74" weight="0.24802897497007587" />
-      <edge source="Баста" target="Джиз" id="75" weight="0.2258041089727341" />
-      <edge source="Баста" target="ИСН" id="76" weight="0.2093938187223924" />
-      <edge source="Баста" target="Andy Panda" id="77" weight="0.20215144261823148" />
-      <edge source="Баста" target="L'One" id="78" weight="0.2304198094286218" />
-      <edge source="Баста" target="Домино" id="79" weight="0.21940570613451726" />
-      <edge source="Баста" target="Узелок" id="80" weight="0.2065958311610086" />
-      <edge source="Баста" target="Хром" id="81" weight="0.21990491267198603" />
-      <edge source="Гуф" target="Птаха" id="82" weight="0.40008754554914494" />
-      <edge source="Гуф" target="ОУ74" id="83" weight="0.38172235425178513" />
-      <edge source="Гуф" target="Баста / Гуф" id="84" weight="0.3810455826786862" />
-      <edge source="Гуф" target="Centr" id="85" weight="0.34498480864585435" />
-      <edge source="Гуф" target="Oxxxymiron" id="86" weight="0.2689615107371903" />
-      <edge source="Гуф" target="Johnyboy" id="87" weight="0.276215795124959" />
-      <edge source="Гуф" target="Сява" id="88" weight="0.24077722701859552" />
-      <edge source="Гуф" target="Вульгарный Тонн" id="89" weight="0.31025481184746106" />
-      <edge source="Гуф" target="Truwer" id="90" weight="0.2304566718713272" />
-      <edge source="Гуф" target="Тимати" id="91" weight="0.28357698884088994" />
-      <edge source="Гуф" target="Slim" id="92" weight="0.2669227121880114" />
-      <edge source="Гуф" target="Восточный округ" id="93" weight="0.25745267601641114" />
-      <edge source="Гуф" target="Dino MC47" id="94" weight="0.24704980296760745" />
-      <edge source="Гуф" target="Нойз MC" id="95" weight="0.231641159414573" />
-      <edge source="Oxxxymiron" target="Porchy" id="96" weight="0.30320866923540885" />
-      <edge source="Oxxxymiron" target="Markul" id="97" weight="0.2927199587315318" />
-      <edge source="Oxxxymiron" target="Вульгарный Тонн" id="98" weight="0.2790782038104597" />
-      <edge source="Oxxxymiron" target="Нойз MC" id="99" weight="0.22265893346985347" />
-      <edge source="Oxxxymiron" target="Витоса" id="100" weight="0.20262818351642198" />
-      <edge source="Король и Шут" target="Птаха" id="101" weight="0.21264714211751318" />
-      <edge source="Король и Шут" target="Рем Дигга" id="102" weight="0.21180808443313368" />
-      <edge source="Король и Шут" target="Krec" id="103" weight="0.2082586540336027" />
-      <edge source="Кровосток" target="ИСН" id="104" weight="0.3172653639355596" />
-      <edge source="Кровосток" target="Злой дух" id="105" weight="0.2566622937888527" />
-      <edge source="Кровосток" target="Птаха" id="106" weight="0.2495504850922332" />
-      <edge source="Кровосток" target="Злой Дух ( няшка ^^ )" id="107" weight="0.24216049514804114" />
-      <edge source="Кровосток" target="Круть" id="108" weight="0.24216049514804114" />
-      <edge source="ТГК" target="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" id="109" weight="0.5186697002878987" />
-      <edge source="ТГК" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="110" weight="0.5186697002878987" />
-      <edge source="ТГК" target="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" id="111" weight="0.5186697002878987" />
-      <edge source="ТГК" target="The Chemodan" id="112" weight="0.5186697002878987" />
-      <edge source="ТГК" target="Триагутрика" id="113" weight="0.4957004897123377" />
-      <edge source="ТГК" target="Slim" id="114" weight="0.34602152521299695" />
-      <edge source="ТГК" target="ОУ74" id="115" weight="0.2685245755521316" />
-      <edge source="ТГК" target="Триагрутрика" id="116" weight="0.46927798714766156" />
-      <edge source="ТГК" target="Eminem" id="117" weight="0.3013064632153145" />
-      <edge source="Johnyboy" target="Вульгарный Тонн" id="118" weight="0.29011210766454076" />
-      <edge source="Johnyboy" target="Птаха" id="119" weight="0.2751175106009292" />
-      <edge source="Johnyboy" target="Yanix" id="120" weight="0.23278866745861074" />
-      <edge source="Johnyboy" target="Big Baby Tape" id="121" weight="0.20918050336233507" />
-      <edge source="Johnyboy" target="Instasamka" id="122" weight="0.20200255771527517" />
-      <edge source="Johnyboy" target="T-Fest" id="123" weight="0.2105076477735335" />
-      <edge source="Johnyboy" target="Гречка" id="124" weight="0.20008316092912135" />
-      <edge source="Johnyboy" target="Домино" id="125" weight="0.21411428006530545" />
-      <edge source="Johnyboy" target="Lil'Stop" id="126" weight="0.2530521061524122" />
-      <edge source="Johnyboy" target="Для доты именно для Васи Бояркина" id="127" weight="0.2530521061524122" />
-      <edge source="Птаха" target="Centr" id="128" weight="0.4032003568908654" />
-      <edge source="Птаха" target="Тимати" id="129" weight="0.278607209959794" />
-      <edge source="Птаха" target="Сява" id="130" weight="0.23518616713199297" />
-      <edge source="Птаха" target="Рем Дигга" id="131" weight="0.2751757632194026" />
-      <edge source="Птаха" target="Markul" id="132" weight="0.24419707752842215" />
-      <edge source="Птаха" target="Slim" id="133" weight="0.27557652373012514" />
-      <edge source="Птаха" target="Thomas Mraz" id="134" weight="0.22646697036449487" />
-      <edge source="Птаха" target="Децл" id="135" weight="0.23712943272969791" />
-      <edge source="Птаха" target="Восточный округ" id="136" weight="0.2565875223880071" />
-      <edge source="Птаха" target="Корж" id="137" weight="0.24341515235691175" />
-      <edge source="Птаха" target="Dino MC47" id="138" weight="0.23965835203854954" />
-      <edge source="Птаха" target="ЛСП" id="139" weight="0.21656846533885601" />
-      <edge source="Птаха" target="Каратель" id="140" weight="0.22019441602168047" />
-      <edge source="Птаха" target="Вообще" id="141" weight="0.20643567280780695" />
-      <edge source="Птаха" target="Джиз" id="142" weight="0.21465201660570726" />
-      <edge source="Птаха" target="L'One" id="143" weight="0.2282284928072875" />
-      <edge source="Птаха" target="Батарея" id="144" weight="0.21118250823268028" />
-      <edge source="Птаха" target="Нойз MC" id="145" weight="0.2231678348567031" />
-      <edge source="Птаха" target="Баста / Гуф" id="146" weight="0.2462148821187509" />
-      <edge source="Сява" target="Триагрутрика" id="147" weight="0.2328774940481496" />
-      <edge source="Сява" target="Восточный округ" id="148" weight="0.21451712612598603" />
-      <edge source="Вульгарный Тонн" target="Вульгарный тон" id="149" weight="0.41008815841897023" />
-      <edge source="Вульгарный Тонн" target="Вульгарный ТоН" id="150" weight="0.33760392754255636" />
-      <edge source="Вульгарный Тонн" target="Truwer" id="151" weight="0.2375612283229501" />
-      <edge source="Вульгарный Тонн" target="Децл" id="152" weight="0.23165211363616664" />
-      <edge source="Вульгарный Тонн" target="Yanix" id="153" weight="0.23095691950030103" />
-      <edge source="Вульгарный Тонн" target="Каратель" id="154" weight="0.21921361683073795" />
-      <edge source="Вульгарный Тонн" target="Вообще" id="155" weight="0.20261491440734733" />
-      <edge source="Вульгарный Тонн" target="Лигалайз" id="156" weight="0.2562983419226762" />
-      <edge source="Вульгарный Тонн" target="T-Fest" id="157" weight="0.21410149090071484" />
-      <edge source="Вульгарный Тонн" target="Нойз MC" id="158" weight="0.21973886174665613" />
-      <edge source="Вульгарный Тонн" target="Баста / Гуф" id="159" weight="0.22319707926555976" />
-      <edge source="Рем Дигга" target="Триада" id="160" weight="0.3196509679075265" />
-      <edge source="Рем Дигга" target="Krec" id="161" weight="0.2730604805823924" />
-      <edge source="Рем Дигга" target="Словетский" id="162" weight="0.22190047219025708" />
-      <edge source="Centr" target="◘ Легенды Про" id="163" weight="0.5902962709114801" />
-      <edge source="Truwer" target="Скриптонит" id="164" weight="0.5457436392950067" />
-      <edge source="Truwer" target="Скриптон" id="165" weight="0.4793272342902363" />
-      <edge source="Truwer" target="JILLZAY - ТВОY НОМЕР (Origin) Six O!" id="166" weight="0.3090314435567548" />
-      <edge source="Эльбрус Джанмирзоев" target="Ассаи" id="167" weight="0.2494725227658926" />
-      <edge source="Эльбрус Джанмирзоев" target="Тимати" id="168" weight="0.23456353144569067" />
-      <edge source="Эльбрус Джанмирзоев" target="Krec" id="169" weight="0.22937968039134676" />
-      <edge source="Эльбрус Джанмирзоев" target="Триада" id="170" weight="0.20992087209541782" />
-      <edge source="Boulevard Depo" target="DOPECLVB" id="171" weight="0.43788690159412574" />
-      <edge source="Boulevard Depo" target="i61" id="172" weight="0.4366300296057573" />
-      <edge source="Boulevard Depo" target="IKBN - IRAQ" id="173" weight="0.42325037859862163" />
-      <edge source="Boulevard Depo" target="Thomas Mraz" id="174" weight="0.2752759432126729" />
-      <edge source="Boulevard Depo" target="PANDAworld" id="175" weight="0.25570681586882305" />
-      <edge source="Boulevard Depo" target="PHARAOH" id="176" weight="0.24652866053385064" />
-      <edge source="Boulevard Depo" target="gone.Fludd" id="177" weight="0.2177525913887095" />
-      <edge source="Boulevard Depo" target="Каратель" id="178" weight="0.21719354103706737" />
-      <edge source="НОМ" target="Тимати" id="179" weight="0.20979639406051143" />
-      <edge source="Скриптонит" target="Скриптон" id="180" weight="0.4695060889048617" />
-      <edge source="Скриптонит" target="JILLZAY - ТВОY НОМЕР (Origin) Six O!" id="181" weight="0.2596365809413351" />
-      <edge source="Скриптонит" target="100 music" id="182" weight="0.22094282934148562" />
-      <edge source="Скриптонит" target="Donnie Brasco" id="183" weight="0.22462932940102384" />
-      <edge source="Тимати" target="Krec" id="184" weight="0.2616033733034549" />
-      <edge source="Тимати" target="Markul" id="185" weight="0.2478791767958408" />
-      <edge source="Тимати" target="Децл" id="186" weight="0.2407130195155551" />
-      <edge source="Тимати" target="Miyagi" id="187" weight="0.24483864436687675" />
-      <edge source="Тимати" target="Корж" id="188" weight="0.23867433890351963" />
-      <edge source="Тимати" target="ЛСП" id="189" weight="0.222686946396729" />
-      <edge source="Тимати" target="Лигалайз" id="190" weight="0.24758254494552517" />
-      <edge source="Тимати" target="Andy Panda" id="191" weight="0.20691300943207766" />
-      <edge source="Тимати" target="Big Baby Tape" id="192" weight="0.20948184624664443" />
-      <edge source="Тимати" target="Instasamka" id="193" weight="0.2086546306481602" />
-      <edge source="Тимати" target="T-Fest" id="194" weight="0.2167093337479089" />
-      <edge source="Тимати" target="Гречка" id="195" weight="0.207039983232594" />
-      <edge source="Тимати" target="Хром" id="196" weight="0.2123934536486492" />
-      <edge source="Триада" target="Krec" id="197" weight="0.32946099566766474" />
-      <edge source="Триада" target="Ассаи" id="198" weight="0.29712250982782346" />
-      <edge source="Триада" target="Dino MC47" id="199" weight="0.2359628331987014" />
-      <edge source="Триада" target="Нигатив" id="200" weight="0.2568240900698857" />
-      <edge source="Триада" target="Хром" id="201" weight="0.21374715389226498" />
-      <edge source="Триада" target="ღ Крек" id="202" weight="0.25168792093281167" />
-      <edge source="PHARAOH" target="Basta" id="203" weight="0.42547295824319553" />
-      <edge source="PHARAOH" target="Thomas Mraz" id="204" weight="0.3000339967299505" />
-      <edge source="PHARAOH" target="Krec" id="205" weight="0.23804872448165226" />
-      <edge source="PHARAOH" target="gone.Fludd" id="206" weight="0.21674293443646156" />
-      <edge source="Slim" target="Eminem" id="207" weight="0.6423422639989356" />
-      <edge source="Thomas Mraz" target="Basta" id="208" weight="0.2136667947180203" />
-      <edge source="Децл" target="Странник Стк" id="209" weight="0.5446550136658866" />
-      <edge source="Децл" target="Йорш" id="210" weight="0.21299401550507582" />
-      <edge source="Chemodan" target="Восточный Округ (УРМК)" id="211" weight="0.3836129787276261" />
-      <edge source="Chemodan" target="Восточный Округ" id="212" weight="0.3796206825120682" />
-      <edge source="Chemodan" target="Чемодан" id="213" weight="0.2605430348418109" />
-      <edge source="Chemodan" target="ОУ74" id="214" weight="0.2536413696174251" />
-      <edge source="Miyagi" target="Vadim Tikot" id="215" weight="0.37758276131057106" />
-      <edge source="Miyagi" target="Krec" id="216" weight="0.2550621803481904" />
-      <edge source="Miyagi" target="Andy Panda" id="217" weight="0.2321156912546228" />
-      <edge source="Восточный округ" target="Rewake" id="218" weight="0.5007129310050169" />
-      <edge source="Восточный округ" target="Юрий Хованский" id="219" weight="0.4851897243947651" />
-      <edge source="Элджей" target="Элджей (Я|Так) похож на птицу." id="220" weight="0.5362102552284266" />
-      <edge source="Элджей" target="(AlljЭлджей)" id="221" weight="0.5181877832391597" />
-      <edge source="Элджей" target="ND Production" id="222" weight="0.512918294467687" />
-      <edge source="Элджей" target="Feduk" id="223" weight="0.27727710754643636" />
-      <edge source="Krec" target="Ассаи" id="224" weight="0.4022797604973149" />
-      <edge source="Krec" target="ღ Крек" id="225" weight="0.3174729352239414" />
-      <edge source="Krec" target="Любовь и нежность" id="226" weight="0.3072284872196076" />
-      <edge source="Krec" target="gone.Fludd" id="227" weight="0.22883355715341352" />
-      <edge source="Krec" target="Нигатив" id="228" weight="0.2523223546926243" />
-      <edge source="Krec" target="Джиз" id="229" weight="0.2274054273335782" />
-      <edge source="Krec" target="Лигалайз" id="230" weight="0.24838519419080407" />
-      <edge source="Krec" target="Andy Panda" id="231" weight="0.20525140725991728" />
-      <edge source="Krec" target="L'One" id="232" weight="0.23868529811245792" />
-      <edge source="Krec" target="Окси" id="233" weight="0.20520077089613412" />
-      <edge source="Krec" target="Узелок" id="234" weight="0.20330366986664514" />
-      <edge source="Krec" target="Хоми" id="235" weight="0.2025272816302061" />
-      <edge source="Krec" target="Хром" id="236" weight="0.23450834936507872" />
-      <edge source="Корж" target="Макс" id="237" weight="0.45144741743765104" />
-      <edge source="Корж" target="Вэ" id="238" weight="0.4508067548489979" />
-      <edge source="Корж" target="T-Fest" id="239" weight="0.21607070021840316" />
-      <edge source="Dino MC47" target="Dino MC 47" id="240" weight="0.4344012487744999" />
-      <edge source="Feduk" target="Элджей (Я|Так) похож на птицу." id="241" weight="0.2837424499875017" />
-      <edge source="Feduk" target="ND Production" id="242" weight="0.278047274695072" />
-      <edge source="Feduk" target="(AlljЭлджей)" id="243" weight="0.2695664134270279" />
-      <edge source="Feduk" target="Yanix" id="244" weight="0.2343784929476728" />
-      <edge source="Feduk" target="Вообще" id="245" weight="0.20720256653298638" />
-      <edge source="Feduk" target="Big Baby Tape" id="246" weight="0.22401848381000408" />
-      <edge source="Feduk" target="Музыкальная жизнь™" id="247" weight="0.20659760090687748" />
-      <edge source="Feduk" target="†.чЁ за трЕк.†" id="248" weight="0.21603206876706796" />
-      <edge source="Грибы" target="Гриби" id="249" weight="0.5538504538806586" />
-      <edge source="Грибы" target="Ми типа гриби" id="250" weight="0.5360434936193006" />
-      <edge source="Грибы" target="Алла Пугачева" id="251" weight="0.3219785822172489" />
-      <edge source="Паук" target="Коля RotoFF" id="252" weight="0.4634719984643306" />
-      <edge source="Паук" target="TROLLFACE" id="253" weight="0.42662460396801644" />
-      <edge source="Паук" target="трол фейс" id="254" weight="0.42662460396801644" />
-      <edge source="Паук" target="ROTOFF" id="255" weight="0.4246467935222608" />
-      <edge source="Паук" target="Неизвестный исполнитель" id="256" weight="0.23978884986694943" />
-      <edge source="Yanix" target="Big Baby Tape" id="257" weight="0.27366654711584887" />
-      <edge source="Yanix" target="Lil Morty" id="258" weight="0.2413388184961214" />
-      <edge source="Yanix" target="Instasamka" id="259" weight="0.21670106740537726" />
-      <edge source="Yanix" target="Гекто" id="260" weight="0.2141926236270336" />
-      <edge source="ЛСП" target="Максим Демах" id="261" weight="0.3421221036065171" />
-      <edge source="ЛСП" target="Instasamka" id="262" weight="0.21779571895766217" />
-      <edge source="ОУ74" target="Триагрутрика" id="263" weight="0.26885103163388036" />
-      <edge source="Триагрутрика" target="TRIAGRUTRIKA" id="264" weight="0.5097888142194655" />
-      <edge source="Триагрутрика" target="ТРИАГРУТРИКА (Т.Г.К.липсис)" id="265" weight="0.5007137711238638" />
-      <edge source="Триагрутрика" target="Триагрутрика (ТГК) - Т.Г.К.липсис" id="266" weight="0.3736652596168188" />
-      <edge source="Триагрутрика" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="267" weight="0.36187565712609604" />
-      <edge source="Lil Morty" target="Big Baby Tape" id="268" weight="0.2700622434666244" />
-      <edge source="Ассаи" target="ღ Крек" id="269" weight="0.3855916519265801" />
-      <edge source="Ассаи" target="Нигатив" id="270" weight="0.24875650262469245" />
-      <edge source="Ассаи" target="Джиз" id="271" weight="0.25539787622601323" />
-      <edge source="Ассаи" target="ИСН" id="272" weight="0.21640042695364936" />
-      <edge source="Ассаи" target="Хаски" id="273" weight="0.2086428022957716" />
-      <edge source="Ассаи" target="L'One" id="274" weight="0.23341224460876764" />
-      <edge source="Ассаи" target="Гекто" id="275" weight="0.20222143424110664" />
-      <edge source="Ассаи" target="Домино" id="276" weight="0.22009468436081916" />
-      <edge source="Ассаи" target="Узелок" id="277" weight="0.21330812156357848" />
-      <edge source="Ассаи" target="Хоми" id="278" weight="0.21626924820064986" />
-      <edge source="Ассаи" target="Хром" id="279" weight="0.22644055215294662" />
-      <edge source="Словетский" target="Dj Nik One" id="280" weight="0.37643318586379915" />
-      <edge source="Русский" target="Патриотические. Русские народные военные песни." id="281" weight="0.3607164775779485" />
-      <edge source="Джиз" target="L'One" id="282" weight="0.21472343892967463" />
-      <edge source="Джиз" target="Узелок" id="283" weight="0.20186699022536836" />
-      <edge source="Лигалайз" target="Bad Balance" id="284" weight="0.3854835881856253" />
-      <edge source="Big Baby Tape" target="Instasamka" id="285" weight="0.20815135374184346" />
-      <edge source="Батарея" target="Полюса" id="286" weight="0.2703979063497857" />
-      <edge source="Батарея" target="ПОЛЮСА [26/08 клуб Грибоедов]" id="287" weight="0.23965959882613425" />
-      <edge source="Домино" target="Анимал джаз" id="288" weight="0.29567872524915767" />
-      <edge source="Домино" target="Animal Jazz" id="289" weight="0.29567872524915767" />
-      <edge source="Монеточка" target="абстрактный бомж" id="290" weight="0.33080351643045103" />
-      <edge source="Монеточка" target="zgheilmyfrr x mironoffdmitry" id="291" weight="0.3306754103780207" />
-      <edge source="Нойз MC" target="Noize MC" id="292" weight="0.33548973452718905" />
-      <edge source="Тараканы!" target="Четыре таракана" id="293" weight="0.44663581035006045" />
-      <edge source="Тараканы!" target="Тараканы" id="294" weight="0.4425478352109542" />
-      <edge source="EK-Playaz" target="Mrs. DvaTree" id="295" weight="0.6875944821868311" />
-      <edge source="EK-Playaz" target="ака47 ek playaz" id="296" weight="0.5160543405442117" />
-      <edge source="EK-Playaz" target="Ek Playaz" id="297" weight="0.38656917575407956" />
-      <edge source="Onyx" target="Песочные Люди" id="298" weight="0.6689756795609196" />
-      <edge source="Noize MC" target="Нойз МС" id="299" weight="0.5049034909101835" />
-      <edge source="i61" target="IKBN - IRAQ" id="300" weight="0.4249575995682634" />
-      <edge source="i61" target="DOPECLVB" id="301" weight="0.4195698850691185" />
-      <edge source="Восточный Округ" target="Восточный Округ (УРМК)" id="302" weight="0.9807094566584277" />
-      <edge source="Красная шапочка" target="к/ф Красная Шапочка" id="303" weight="0.9963571677901636" />
-      <edge source="Красная шапочка" target="Детские песни" id="304" weight="0.9703826900952465" />
-      <edge source="Красная шапочка" target="Песня Красной Шапочки (рок-версия)" id="305" weight="0.9575593991294575" />
-      <edge source="Красная шапочка" target="Красная Шапочка" id="306" weight="0.9575593991294575" />
-      <edge source="Красная шапочка" target="про Красную Шапочку" id="307" weight="0.9542092414467055" />
-      <edge source="Красная шапочка" target=":))" id="308" weight="0.9218113717052085" />
-      <edge source="Красная шапочка" target="DJ Little Red Riding Hood" id="309" weight="0.857770970890724" />
-      <edge source="Красная шапочка" target="˜”*°•.☆ааааааааа!!!" id="310" weight="0.9180860934565228" />
-      <edge source="Красная шапочка" target="Красная шапка" id="311" weight="0.9542092414467055" />
-      <edge source="Красная шапочка" target="Песни из детских фильмов" id="312" weight="0.914098818280913" />
-      <edge source="Красная шапочка" target="из к/ф" id="313" weight="0.9542092414467055" />
-      <edge source="Сокира Перуна" target="Нежеголь" id="314" weight="0.48396005772035816" />
-      <edge source="Сокира Перуна" target="9 ВАЛ" id="315" weight="0.2970187476159812" />
-      <edge source="Сокира Перуна" target="Антонина Матвиенко" id="316" weight="0.2588256472268079" />
-      <edge source="Neiz" target="Stas Neiz" id="317" weight="0.986012408255402" />
-      <edge source="Neiz" target="Lasha MC" id="318" weight="0.28172053145814835" />
-      <edge source="Алена Апина" target="Алёна Апина" id="319" weight="0.8401127302228175" />
-      <edge source="Алена Апина" target="Апина" id="320" weight="0.8281982203643669" />
-      <edge source="Алена Апина" target="Владимир Трошин" id="321" weight="0.32406459072178295" />
-      <edge source="Алые паруса" target="Алые Паруса." id="322" weight="0.938632655292564" />
-      <edge source="Алые паруса" target="Барды" id="323" weight="0.5856089996929331" />
-      <edge source="Алые паруса" target="Алые паруса (минус)" id="324" weight="0.5778774519898233" />
-      <edge source="Алые паруса" target="Песни орлятского круга" id="325" weight="0.5179014421005254" />
-      <edge source="Алые паруса" target="Валерия Лесовская" id="326" weight="0.3057980287294982" />
-      <edge source="Барды" target="Барды." id="327" weight="0.7696368410590003" />
-      <edge source="Барды" target="Алые Паруса." id="328" weight="0.6199285692998667" />
-      <edge source="Барды" target="Алые паруса (минус)" id="329" weight="0.2164733611000007" />
-      <edge source="Барды" target="Песни орлятского круга" id="330" weight="0.20717359051560752" />
-      <edge source="Баста, Смоки Мо" target="Баста и Смоки Мо" id="331" weight="0.691677710381745" />
-      <edge source="Ваня Воробей" target="ЗОЖ" id="332" weight="0.9583678513861521" />
-      <edge source="Ваня Воробей" target="Воробей" id="333" weight="0.9544569108763125" />
-      <edge source="Неизвестен" target="LOUIS PASTEUR" id="334" weight="0.7115520641371315" />
-      <edge source="Неизвестен" target="Louis Pasteur" id="335" weight="0.6502667299143964" />
-      <edge source="Неизвестен" target="трол фейс" id="336" weight="0.38745604776022985" />
-      <edge source="Неизвестен" target="TROLLFACE" id="337" weight="0.38745604776022985" />
-      <edge source="Неизвестен" target="ROTOFF" id="338" weight="0.351224333524473" />
-      <edge source="Неизвестный исполнитель" target="ЧиСтО боМ боММ" id="339" weight="0.676626521629848" />
-      <edge source="Неизвестный исполнитель" target="это девка словно пуля" id="340" weight="0.676626521629848" />
-      <edge source="Неизвестный исполнитель" target="Песьня." id="341" weight="0.5777818779015663" />
-      <edge source="Неизвестный исполнитель" target="детская песенка" id="342" weight="0.5777818779015663" />
-      <edge source="Неизвестный исполнитель" target="Детская" id="343" weight="0.5777818779015663" />
-      <edge source="Неизвестный исполнитель" target="TROLLFACE" id="344" weight="0.4484522113101243" />
-      <edge source="Неизвестный исполнитель" target="Коля RotoFF" id="345" weight="0.3995633254648272" />
-      <edge source="Неизвестный исполнитель" target="трол фейс" id="346" weight="0.4484522113101243" />
-      <edge source="Полюса" target="ПОЛЮСА [26/08 клуб Грибоедов]" id="347" weight="0.9515605174278572" />
-      <edge source="DOPECLVB" target="IKBN - IRAQ" id="348" weight="0.7472997052629446" />
-      <edge source="T.A. Yanix" target="#SWAGGAЖОПС" id="349" weight="0.9977405165955209" />
-      <edge source="TRIAGRUTRIKA" target="ТРИАГРУТРИКА (Т.Г.К.липсис)" id="350" weight="0.9778695488376153" />
-      <edge source="TRIAGRUTRIKA" target="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" id="351" weight="0.7314470112611772" />
-      <edge source="TRIAGRUTRIKA" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="352" weight="0.7314470112611772" />
-      <edge source="TRIAGRUTRIKA" target="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" id="353" weight="0.7314470112611772" />
-      <edge source="TRIAGRUTRIKA" target="The Chemodan" id="354" weight="0.7314470112611772" />
-      <edge source="TRIAGRUTRIKA" target="Триагрутрика (ТГК) - Т.Г.К.липсис" id="355" weight="0.7063528722450001" />
-      <edge source="TRIAGRUTRIKA" target="Триагутрика" id="356" weight="0.6992499660307977" />
-      <edge source="dom!No" target="не ну это пиздец песня" id="357" weight="0.5003892697608405" />
-      <edge source="Аля Кудряшева" target="Аля Кудряшова" id="358" weight="0.9810949050054741" />
-      <edge source="Аля Кудряшева" target="Игорь Белый (на стихи Али Кудряшёвой)" id="359" weight="0.9810949050054741" />
-      <edge source="Аля Кудряшева" target="Игорь Белый" id="360" weight="0.9810949050054741" />
-      <edge source="Алёна Апина" target="Апина" id="361" weight="0.9921408418815242" />
-      <edge source="Алёна Апина" target="Владимир Трошин" id="362" weight="0.3858177444338778" />
-      <edge source="Армия брат" target="Армейская" id="363" weight="0.9962119143738861" />
-      <edge source="Бьянка" target="БьЯНК@" id="364" weight="0.5661639955319048" />
-      <edge source="Вадим Мулерман" target="Песни нашего века" id="365" weight="0.9316366236607865" />
-      <edge source="Вадим Мулерман" target="Квартет физфака пу Сергея Никитина" id="366" weight="0.904422578606627" />
-      <edge source="Вадим Сажин" target="ВАДИМ САЖИН" id="367" weight="0.9677434960689025" />
-      <edge source="Витоса" target="Rigos" id="368" weight="0.5549276560024315" />
-      <edge source="Гагарина Полина" target="Полина Гагарина" id="369" weight="0.9918792211728612" />
-      <edge source="Гриби" target="Ми типа гриби" id="370" weight="0.921953848368536" />
-      <edge source="Детские Песни" target="Шишков Сергей" id="371" weight="0.9899514106754238" />
-      <edge source="Детские Песни" target="Вокальный Квартет &quot;Аккорд&quot;" id="372" weight="0.9899514106754238" />
-      <edge source="Детские Песни" target="Анатолий Александрович" id="373" weight="0.9899514106754238" />
-      <edge source="Детские Песни" target="♨♨♨Детская песня♨♨♨" id="374" weight="0.941505557286453" />
-      <edge source="Детские Песни" target="Детская" id="375" weight="0.9202798702516777" />
-      <edge source="Детские песни" target="Песня Красной Шапочки (рок-версия)" id="376" weight="0.9942778763244547" />
-      <edge source="Детские песни" target="Красная Шапочка" id="377" weight="0.9942778763244547" />
-      <edge source="Детские песни" target=":))" id="378" weight="0.9570184151074638" />
-      <edge source="Детские песни" target="к/ф Красная Шапочка" id="379" weight="0.9552907894656089" />
-      <edge source="Детские песни" target="DJ Little Red Riding Hood" id="380" weight="0.875069864803011" />
-      <edge source="Детские песни" target="˜”*°•.☆ааааааааа!!!" id="381" weight="0.9521815373846336" />
-      <edge source="Звери" target="●" id="382" weight="0.9921486113928886" />
-      <edge source="Майя Кристалинская" target="Кристаллинская Майя" id="383" weight="0.8879571141241043" />
-      <edge source="От Вінта" target="От Винта" id="384" weight="0.9943277287518" />
-      <edge source="От Вінта" target="Ot vinta" id="385" weight="0.9911695634255561" />
-      <edge source="От Вінта" target="Ot Vinta!" id="386" weight="0.9911695634255561" />
-      <edge source="Регги" target="реги" id="387" weight="0.9864535924659165" />
-      <edge source="Регги" target="Доктор Айболит" id="388" weight="0.9864535924659165" />
-      <edge source="Сатана Печёт Блины" target="сатана печет блины" id="389" weight="0.6894380102822733" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="The Chemodan" id="390" weight="0.7111476493960991" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" id="391" weight="0.7111476493960991" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="392" weight="0.7111476493960991" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" id="393" weight="0.7111476493960991" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис)" target="Триагрутрика (ТГК) - Т.Г.К.липсис" id="394" weight="0.7090021985634659" />
-      <edge source="Чичерина" target="Чечерина" id="395" weight="0.9892824713685701" />
-      <edge source="к/ф Красная Шапочка" target="из к/ф" id="396" weight="0.9678989054190306" />
-      <edge source="к/ф Красная Шапочка" target="про Красную Шапочку" id="397" weight="0.9678989054190306" />
-      <edge source="к/ф Красная Шапочка" target="Красная шапка" id="398" weight="0.9678989054190306" />
-      <edge source="к/ф Красная Шапочка" target="Песни из детских фильмов" id="399" weight="0.9272130338179506" />
-      <edge source="&quot;Алые паруса&quot;" target="Валерия Лесовская" id="400" weight="0.29668692045069683" />
-      <edge source="&quot;Алые паруса&quot;" target="Алые паруса (минус)" id="401" weight="0.212414248723948" />
-      <edge source="(AlljЭлджей)" target="ND Production" id="402" weight="0.869676287961831" />
-      <edge source="(AlljЭлджей)" target="Элджей (Я|Так) похож на птицу." id="403" weight="0.8643961798181484" />
-      <edge source="1 klass" target="Domino-Прыгай в такт" id="404" weight="0.4133495726813311" />
-      <edge source="10. Сплин" target="Сплин" id="405" weight="0.9998715301458989" />
-      <edge source="100 music" target="Donnie Brasco" id="406" weight="0.9741298336816844" />
-      <edge source="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" target="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" id="407" weight="1.0000000000000004" />
-      <edge source="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="408" weight="1.0000000000000004" />
-      <edge source="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" target="The Chemodan" id="409" weight="1.0000000000000004" />
-      <edge source="12 ТРИАГРУТРИКА (Т.Г.К.липсис)" target="Триагутрика" id="410" weight="0.9497004672727961" />
-      <edge source="207. Soulkast" target="Soulkast" id="411" weight="1.0" />
-      <edge source="4SGM" target="Dav / 4SGM" id="412" weight="0.9933278439346533" />
-      <edge source="5'nizza" target="5'nizza - Белые рубашки" id="413" weight="0.8989505053912369" />
-      <edge source="5'nizza" target="Сергей Бабкин (5'nizza)" id="414" weight="0.7779270586736291" />
-      <edge source="5'nizza - Белые рубашки" target="Сергей Бабкин (5'nizza)" id="415" weight="0.7474636924026075" />
-      <edge source=":))" target="˜”*°•.☆ааааааааа!!!" id="416" weight="0.992399930785756" />
-      <edge source=":))" target="Красная Шапочка" id="417" weight="0.9649697602134324" />
-      <edge source=":))" target="Песня Красной Шапочки (рок-версия)" id="418" weight="0.9649697602134324" />
-      <edge source=":))" target="DJ Little Red Riding Hood" id="419" weight="0.8527183490318222" />
-      <edge source="Animal Jazz" target="Анимал джаз" id="420" weight="0.9999999999999994" />
-      <edge source="Barry Gibb" target="МЖ" id="421" weight="0.9999999999999997" />
-      <edge source="Bassnectar" target="Charlie Mole" id="422" weight="0.7984163418795011" />
-      <edge source="Chernikovskaya Hata" target="черниковская хата" id="423" weight="0.9999999999999998" />
-      <edge source="Chernikovskaya Hata" target="MEOW!" id="424" weight="0.9768532950085982" />
-      <edge source="D-Bosh" target="Курские соловьи" id="425" weight="0.21570367241715938" />
-      <edge source="DJ Little Red Riding Hood" target="Красная Шапочка" id="426" weight="0.8749881298843853" />
-      <edge source="DJ Little Red Riding Hood" target="Песня Красной Шапочки (рок-версия)" id="427" weight="0.8749881298843853" />
-      <edge source="Daily" target="ЗАПАС" id="428" weight="0.27858587367355186" />
-      <edge source="Daily" target="Lasha MC" id="429" weight="0.2592373875866647" />
-      <edge source="Daily" target="Elect" id="430" weight="0.24284592103577013" />
-      <edge source="Daily" target="KOt StYlE" id="431" weight="0.24284592103577013" />
-      <edge source="EK Playaz и Клоунеско" target="EK Playaz п.у. Клоунеско" id="432" weight="0.8284731577533292" />
-      <edge source="EK Playaz и Клоунеско" target="Клоунеско &amp; EK Playaz" id="433" weight="0.8212502111942658" />
-      <edge source="EK Playaz п.у. Клоунеско" target="Клоунеско &amp; EK Playaz" id="434" weight="0.9938413026403452" />
-      <edge source="Elect" target="KOt StYlE" id="435" weight="0.9999999999999999" />
-      <edge source="Elect" target="Lasha MC" id="436" weight="0.31586280586725546" />
-      <edge source="Elect" target="Jerry aka Нелегальный" id="437" weight="0.2676625930586687" />
-      <edge source="Flowdan vs Logan Sama" target="Redo" id="438" weight="0.9999999999999998" />
-      <edge source="Flowdan vs Logan Sama" target="Гнойный (a.k.a Соня Мармеладова)" id="439" weight="0.9593821743056283" />
-      <edge source="Flowdan vs Logan Sama" target="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)" id="440" weight="0.9593821743056283" />
-      <edge source="Flowdan vs Logan Sama" target="Соня Мармеладова (Гнойный)" id="441" weight="0.9593821743056283" />
-      <edge source="Google Тёлка" target="слушай экзорцист" id="442" weight="0.9999999999999997" />
-      <edge source="Jencarlos" target="NATALIA OREIRO" id="443" weight="0.6856545823934441" />
-      <edge source="Jerry aka Нелегальный" target="KOt StYlE" id="444" weight="0.2676625930586687" />
-      <edge source="Jerry aka Нелегальный" target="Lasha MC" id="445" weight="0.2509642406011017" />
-      <edge source="KOt StYlE" target="Lasha MC" id="446" weight="0.31586280586725546" />
-      <edge source="LOUIS PASTEUR" target="Louis Pasteur" id="447" weight="0.6507787266197015" />
-      <edge source="Lasha MC" target="Stas Neiz" id="448" weight="0.28850494831168166" />
-      <edge source="Lil'Stop" target="Для доты именно для Васи Бояркина" id="449" weight="1.0000000000000004" />
-      <edge source="Loc- Dog" target="[Loc-Dog" id="450" weight="0.9999999999999993" />
-      <edge source="MC NO LIMIT" target="No Limit" id="451" weight="1.000000000000001" />
-      <edge source="MEOW!" target="черниковская хата" id="452" weight="0.9768532950085982" />
-      <edge source="Mrs. DvaTree" target="ака47 ek playaz" id="453" weight="0.7762460611159134" />
-      <edge source="ND Production" target="Элджей (Я|Так) похож на птицу." id="454" weight="0.8966687909349553" />
-      <edge source="Nasty Nay" target="dom1No" id="455" weight="0.4970105480132846" />
-      <edge source="Ot Vinta!" target="Ot vinta" id="456" weight="0.9999999999999998" />
-      <edge source="Ot Vinta!" target="От Винта" id="457" weight="0.9905832570042318" />
-      <edge source="Ot vinta" target="От Винта" id="458" weight="0.9905832570042318" />
-      <edge source="ROTOFF" target="Коля RotoFF" id="459" weight="0.8359104143183216" />
-      <edge source="ROTOFF" target="TROLLFACE" id="460" weight="0.6411206694461057" />
-      <edge source="ROTOFF" target="трол фейс" id="461" weight="0.6411206694461057" />
-      <edge source="Redo" target="Гнойный (a.k.a Соня Мармеладова)" id="462" weight="0.9593821743056283" />
-      <edge source="Redo" target="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)" id="463" weight="0.9593821743056283" />
-      <edge source="Redo" target="Соня Мармеладова (Гнойный)" id="464" weight="0.9593821743056283" />
-      <edge source="Rewake" target="Юрий Хованский" id="465" weight="0.9543852003496323" />
-      <edge source="Ronan Keating" target="Билли Бро" id="466" weight="0.20043780735280012" />
-      <edge source="SD AND SCHOKK" target="✵ ​Бек✵" id="467" weight="0.9999999999999993" />
-      <edge source="Slot" target="✔Слот" id="468" weight="0.9999999999999996" />
-      <edge source="Slot" target="Пальчики" id="469" weight="0.9999999999999996" />
-      <edge source="TROLLFACE" target="трол фейс" id="470" weight="1.0000000000000002" />
-      <edge source="TROLLFACE" target="Коля RotoFF" id="471" weight="0.8633933145468214" />
-      <edge source="The Chemodan" target="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" id="472" weight="1.0000000000000004" />
-      <edge source="The Chemodan" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="473" weight="1.0000000000000004" />
-      <edge source="The Chemodan" target="Триагутрика" id="474" weight="0.9497004672727961" />
-      <edge source="zgheilmyfrr x mironoffdmitry" target="абстрактный бомж" id="475" weight="0.9928053899655408" />
-      <edge source="˜”*°•.☆ааааааааа!!!" target="Красная Шапочка" id="476" weight="0.9589643783309264" />
-      <edge source="˜”*°•.☆ааааааааа!!!" target="Песня Красной Шапочки (рок-версия)" id="477" weight="0.9589643783309264" />
-      <edge source="А. Грейчайник (ДМЦ)" target="Андрей Грейчайник (ДМЦ)" id="478" weight="0.9999999999999997" />
-      <edge source="Абубакирова Гульфарида" target="Гөлфәридә Әбүбәкерова" id="479" weight="1.0000000000000024" />
-      <edge source="Абубакирова Гульфарида" target="Алина Булатова" id="480" weight="0.9952373958022743" />
-      <edge source="Абубакирова Гульфарида" target="Гаяр Нуриманов" id="481" weight="0.9614363502028852" />
-      <edge source="Агата Кристи" target="Агата Кристи - Чудеса (1998)" id="482" weight="0.9947482095062055" />
-      <edge source="Айгуль Бариева" target="Лилия Биктимирова и Фадис Ганиев" id="483" weight="0.9999999999999994" />
-      <edge source="Айсылу Мухамадиева" target="Фархетдинова Зайнап" id="484" weight="0.2455595606710555" />
-      <edge source="Алина Булатова" target="Гөлфәридә Әбүбәкерова" id="485" weight="0.9952373958022743" />
-      <edge source="Алина Булатова" target="Гаяр Нуриманов" id="486" weight="0.9631732610940953" />
-      <edge source="Алые Паруса." target="Алые паруса (минус)" id="487" weight="0.33555346625196536" />
-      <edge source="Алые Паруса." target="Валерия Лесовская" id="488" weight="0.321473313593276" />
-      <edge source="Алые Паруса." target="Песни орлятского круга" id="489" weight="0.3209184461452188" />
-      <edge source="Алые паруса (минус)" target="Песни орлятского круга" id="490" weight="0.8785965335957295" />
-      <edge source="Алые паруса (минус)" target="Валерия Лесовская" id="491" weight="0.3566221840223268" />
-      <edge source="Аля Кудряшова" target="Игорь Белый (на стихи Али Кудряшёвой)" id="492" weight="1.0000000000000002" />
-      <edge source="Аля Кудряшова" target="Игорь Белый" id="493" weight="1.0000000000000002" />
-      <edge source="Анатолий Александрович" target="Вокальный Квартет &quot;Аккорд&quot;" id="494" weight="1.0000000000000002" />
-      <edge source="Анатолий Александрович" target="Шишков Сергей" id="495" weight="1.0000000000000002" />
-      <edge source="Анатолий Александрович" target="♨♨♨Детская песня♨♨♨" id="496" weight="0.9503491818964632" />
-      <edge source="Анатолий Александрович" target="Детская" id="497" weight="0.9325272387847319" />
-      <edge source="Анатолий Александрович" target="Песьня." id="498" weight="0.9325272387847319" />
-      <edge source="Анатолий Александрович" target="детская песенка" id="499" weight="0.9325272387847319" />
-      <edge source="Антонина Матвиенко" target="Скрябін, (1995 Птахи)" id="500" weight="0.2327853514016468" />
-      <edge source="Апина" target="Владимир Трошин" id="501" weight="0.40415011077775775" />
-      <edge source="Армейские Песни" target="Дворовые песни" id="502" weight="0.9308788749480564" />
-      <edge source="Артиллеия" target="РВиА" id="503" weight="1.0000000000000002" />
-      <edge source="БАРТО" target="Враги" id="504" weight="0.9076325952541798" />
-      <edge source="Барды." target="Юлия Самошкина" id="505" weight="0.24803935045552822" />
-      <edge source="ВИА Пламя" target="Курские соловьи" id="506" weight="0.21163755474980528" />
-      <edge source="Валерия Лесовская" target="Песни орлятского круга" id="507" weight="0.33691016283854414" />
-      <edge source="Валерия Лесовская" target="Сводный хор &quot;АП&quot;)" id="508" weight="0.21315838022913858" />
-      <edge source="Василий Лавров" target="Лавров Василий" id="509" weight="0.9165530467880492" />
-      <edge source="Владимир Трошин" target="Раиса Неменова" id="510" weight="0.230793500107154" />
-      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="Шишков Сергей" id="511" weight="1.0000000000000002" />
-      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="♨♨♨Детская песня♨♨♨" id="512" weight="0.9503491818964632" />
-      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="Детская" id="513" weight="0.9325272387847319" />
-      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="детская песенка" id="514" weight="0.9325272387847319" />
-      <edge source="Воробей" target="ЗОЖ" id="515" weight="0.8871705708413703" />
-      <edge source="Вэ" target="Макс" id="516" weight="0.9713430939631644" />
-      <edge source="Гаяр Нуриманов" target="Гөлфәридә Әбүбәкерова" id="517" weight="0.9614363502028852" />
-      <edge source="Гимн ВДВ" target="Голубые молнии" id="518" weight="0.9999999999999998" />
-      <edge source="Гимн ВДВ" target="Голубые Береты" id="519" weight="0.9539073550498759" />
-      <edge source="Гнойный (a.k.a Соня Мармеладова)" target="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)" id="520" weight="1.0000000000000029" />
-      <edge source="Гнойный (a.k.a Соня Мармеладова)" target="Соня Мармеладова (Гнойный)" id="521" weight="1.0000000000000029" />
-      <edge source="Голубые Береты" target="Голубые молнии" id="522" weight="0.9539073550498759" />
-      <edge source="Детская" target="Песьня." id="523" weight="1.0" />
-      <edge source="Детская" target="детская песенка" id="524" weight="1.0" />
-      <edge source="Детская" target="♨♨♨Детская песня♨♨♨" id="525" weight="0.9782558394762274" />
-      <edge source="Доктор Айболит" target="реги" id="526" weight="1.0000000000000007" />
-      <edge source="Злой Дух ( няшка ^^ )" target="Круть" id="527" weight="0.9999999999999988" />
-      <edge source="Злой Дух ( няшка ^^ )" target="Злой дух" id="528" weight="0.9344347780248554" />
-      <edge source="Злой дух" target="Круть" id="529" weight="0.9344347780248554" />
-      <edge source="Игорь Белый" target="Игорь Белый (на стихи Али Кудряшёвой)" id="530" weight="1.0000000000000002" />
-      <edge source="КОЈЕКУДА 2014-11-09 Radio Beograd 1" target="СИЛЕН Radio Beograd 2 - 2016-12-30" id="531" weight="0.4647373559077093" />
-      <edge source="Каспийский Груз" target="я дура миша" id="532" weight="0.9999999999999998" />
-      <edge source="Каспийский Груз" target="Миша Fint" id="533" weight="0.9186645946185268" />
-      <edge source="Квартет физфака пу Сергея Никитина" target="Песни нашего века" id="534" weight="0.9726445406131052" />
-      <edge source="Клоунеско" target="Клоунеско,Ek.playaz,Worna Brazass" id="535" weight="1.0000000000000007" />
-      <edge source="Коля RotoFF" target="трол фейс" id="536" weight="0.8633933145468214" />
-      <edge source="Красная Шапочка" target="Песня Красной Шапочки (рок-версия)" id="537" weight="0.9999999999999992" />
-      <edge source="Красная шапка" target="про Красную Шапочку" id="538" weight="1.0" />
-      <edge source="Красная шапка" target="из к/ф" id="539" weight="1.0" />
-      <edge source="Красная шапка" target="Песни из детских фильмов" id="540" weight="0.9579647508915554" />
-      <edge source="КрэФ" target="Эмир Камалиев" id="541" weight="0.4515318226924478" />
-      <edge source="Левон" target="➨ Levon" id="542" weight="1.0000000000000004" />
-      <edge source="Людмила Зыкина dnb mix" target="Хор" id="543" weight="0.21135469001812432" />
-      <edge source="М8Л8Tx / Нежеголь" target="Молотх" id="544" weight="0.9535845660426737" />
-      <edge source="Маркул" target="Хайд" id="545" weight="1.0000000000000002" />
-      <edge source="Маркул" target="Хайд &quot;Нерв&quot;" id="546" weight="0.9807511441560082" />
-      <edge source="Мастер &amp; Margenta" target="Мастер (По ту сторону сна) - 2006" id="547" weight="0.9999999999999994" />
-      <edge source="Миша Fint" target="я дура миша" id="548" weight="0.9186645946185268" />
-      <edge source="Музыкальная жизнь™" target="†.чЁ за трЕк.†" id="549" weight="0.9245593113133055" />
-      <edge source="Нежеголь" target="Скрябін, (1995 Птахи)" id="550" weight="0.23053416739930394" />
-      <edge source="О. Васильчак та С.Роговський" target="Скрябін, (1995 Птахи)" id="551" weight="0.30428812618634854" />
-      <edge source="Очередной MC" target="Очередной MC (Сега, Anacondaz)" id="552" weight="1.0000000000000004" />
-      <edge source="Пальчики" target="✔Слот" id="553" weight="0.9999999999999996" />
-      <edge source="Пацантрэ" target="ФИЗТЕХпесня" id="554" weight="0.21889669716432944" />
-      <edge source="Песни Фанатов ЦСКА" target="Фанаты ЦСКА" id="555" weight="1.0000000000000004" />
-      <edge source="Песни из детских фильмов" target="про Красную Шапочку" id="556" weight="0.9579647508915554" />
-      <edge source="Песни из детских фильмов" target="из к/ф" id="557" weight="0.9579647508915554" />
-      <edge source="Песьня." target="детская песенка" id="558" weight="1.0" />
-      <edge source="Песьня." target="♨♨♨Детская песня♨♨♨" id="559" weight="0.9782558394762274" />
-      <edge source="Песьня." target="Шишков Сергей" id="560" weight="0.9325272387847319" />
-      <edge source="Петя OST" target="Хатико" id="561" weight="1.0000000000000007" />
-      <edge source="Соня Мармеладова (ГНОЙНЫЙ SLOVO SPB)" target="Соня Мармеладова (Гнойный)" id="562" weight="1.0000000000000029" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" target="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" id="563" weight="1.0000000000000004" />
-      <edge source="ТРИАГРУТРИКА (Т.Г.К.липсис 2011)" target="Триагутрика" id="564" weight="0.9497004672727961" />
-      <edge source="ТРИАГРУТРИКА [Т.Г.К.липсис(2011)]" target="Триагутрика" id="565" weight="0.9497004672727961" />
-      <edge source="Тараканы" target="Четыре таракана" id="566" weight="0.9908471845643052" />
-      <edge source="Фархетдинова Зайнап" target="Эмир Камалиев" id="567" weight="0.20123183267283343" />
-      <edge source="Хайд" target="Хайд &quot;Нерв&quot;" id="568" weight="0.9807511441560082" />
-      <edge source="ЧиСтО боМ боММ" target="это девка словно пуля" id="569" weight="0.9999999999999996" />
-      <edge source="Шишков Сергей" target="♨♨♨Детская песня♨♨♨" id="570" weight="0.9503491818964632" />
-      <edge source="американские сайты с порнофильмами" target="порнофильм полиция маями" id="571" weight="0.4601800441216866" />
-      <edge source="американские сайты с порнофильмами" target="вудман" id="572" weight="0.4562532263116846" />
-      <edge source="американские сайты с порнофильмами" target="порнофильм - екатерина - императрица" id="573" weight="0.4152212315302595" />
-      <edge source="американские сайты с порнофильмами" target="секс on line веб камера" id="574" weight="0.41198676354490643" />
-      <edge source="американские сайты с порнофильмами" target="порнофильм приличный для мужа" id="575" weight="0.40767744894318647" />
-      <edge source="американские сайты с порнофильмами" target="снятся в порнофильме" id="576" weight="0.289172363756574" />
-      <edge source="вудман" target="порнофильм полиция маями" id="577" weight="0.5011626788082236" />
-      <edge source="вудман" target="секс on line веб камера" id="578" weight="0.4958447762240142" />
-      <edge source="вудман" target="порнофильм - екатерина - императрица" id="579" weight="0.4737885507606956" />
-      <edge source="вудман" target="порнофильм приличный для мужа" id="580" weight="0.35659041083597276" />
-      <edge source="вудман" target="длиные порно ролики" id="581" weight="0.3556801386133545" />
-      <edge source="детская песенка" target="♨♨♨Детская песня♨♨♨" id="582" weight="0.9782558394762274" />
-      <edge source="длиные порно ролики" target="секс on line веб камера" id="583" weight="0.48761733775651595" />
-      <edge source="длиные порно ролики" target="порнофильм - екатерина - императрица" id="584" weight="0.4136803388760355" />
-      <edge source="длиные порно ролики" target="порнофильм полиция маями" id="585" weight="0.41193017550473043" />
-      <edge source="длиные порно ролики" target="порнофильм приличный для мужа" id="586" weight="0.3810885498598854" />
-      <edge source="длиные порно ролики" target="снятся в порнофильме" id="587" weight="0.2681489837400045" />
-      <edge source="из к/ф" target="про Красную Шапочку" id="588" weight="1.0" />
-      <edge source="порнофильм - екатерина - императрица" target="порнофильм полиция маями" id="589" weight="0.5127816350204198" />
-      <edge source="порнофильм - екатерина - императрица" target="секс on line веб камера" id="590" weight="0.5057908653043354" />
-      <edge source="порнофильм - екатерина - императрица" target="порнофильм приличный для мужа" id="591" weight="0.4567811731209003" />
-      <edge source="порнофильм - екатерина - императрица" target="снятся в порнофильме" id="592" weight="0.2825862378803575" />
-      <edge source="порнофильм полиция маями" target="секс on line веб камера" id="593" weight="0.5126110866906182" />
-      <edge source="порнофильм полиция маями" target="порнофильм приличный для мужа" id="594" weight="0.4291189042757352" />
-      <edge source="порнофильм полиция маями" target="снятся в порнофильме" id="595" weight="0.2679298078797713" />
-      <edge source="порнофильм приличный для мужа" target="секс on line веб камера" id="596" weight="0.4404884904714395" />
-      <edge source="секс on line веб камера" target="снятся в порнофильме" id="597" weight="0.33451210741514237" />
+      <edge source="Многоточие" target="Баста" id="0" weight="0.37057984618434425" />
+      <edge source="Многоточие" target="Каста" id="1" weight="0.3465644145687135" />
+      <edge source="Многоточие" target="Птаха" id="2" weight="0.3457417884677097" />
+      <edge source="Многоточие" target="Смоки Мо" id="3" weight="0.338551783229349" />
+      <edge source="Многоточие" target="Гуф" id="4" weight="0.33543765698703704" />
+      <edge source="Многоточие" target="Oxxxymiron" id="5" weight="0.3058173474179242" />
+      <edge source="Многоточие" target="Король" id="6" weight="0.2543730447167604" />
+      <edge source="Многоточие" target="Кровосток" id="7" weight="0.26378503631195743" />
+      <edge source="Многоточие" target="Johnyboy" id="8" weight="0.29964728635375154" />
+      <edge source="Многоточие" target="Сява" id="9" weight="0.22924030712557664" />
+      <edge source="Многоточие" target="Noize MC" id="10" weight="0.2737996240730086" />
+      <edge source="Многоточие" target="Вульгарный Тонн" id="11" weight="0.32717679601418687" />
+      <edge source="Многоточие" target="Рем Дигга" id="12" weight="0.3015429425713253" />
+      <edge source="Многоточие" target="Centr" id="13" weight="0.2799259348031214" />
+      <edge source="Многоточие" target="Эльбрус Джанмирзоев" id="14" weight="0.24599450771624967" />
+      <edge source="Многоточие" target="Truwer" id="15" weight="0.24440834416782495" />
+      <edge source="Многоточие" target="Скриптонит" id="16" weight="0.2705964983213306" />
+      <edge source="Многоточие" target="Boulevard Depo" id="17" weight="0.2591622409024606" />
+      <edge source="Многоточие" target="НОМ" id="18" weight="0.22179871241509982" />
+      <edge source="Многоточие" target="Тимати" id="19" weight="0.2971164978117284" />
+      <edge source="Многоточие" target="Триада" id="20" weight="0.33370730269398885" />
+      <edge source="Многоточие" target="Markul" id="21" weight="0.2800530940825334" />
+      <edge source="Многоточие" target="PHARAOH" id="22" weight="0.2646410260438969" />
+      <edge source="Многоточие" target="Thomas Mraz" id="23" weight="0.23610677095702146" />
+      <edge source="Многоточие" target="Децл" id="24" weight="0.2402289479775531" />
+      <edge source="Многоточие" target="Miyagi" id="25" weight="0.2715136393313989" />
+      <edge source="Многоточие" target="Восточный округ" id="26" weight="0.2571849878578725" />
+      <edge source="Многоточие" target="Krec" id="27" weight="0.3281565360628394" />
+      <edge source="Многоточие" target="Корж" id="28" weight="0.26805106266313017" />
+      <edge source="Многоточие" target="Порнофильмы" id="29" weight="0.22135223948329855" />
+      <edge source="Многоточие" target="Dino MC47" id="30" weight="0.2947049548576281" />
+      <edge source="Многоточие" target="Feduk" id="31" weight="0.2533219442294949" />
+      <edge source="Многоточие" target="ЛСП" id="32" weight="0.23086696270627607" />
+      <edge source="Многоточие" target="ОУ74" id="33" weight="0.2899356386463662" />
+      <edge source="Многоточие" target="gone.Fludd" id="34" weight="0.2244991267490568" />
+      <edge source="Многоточие" target="Ассаи" id="35" weight="0.2849705346570701" />
+      <edge source="Многоточие" target="Каратель" id="36" weight="0.25350600128704975" />
+      <edge source="Многоточие" target="Нигатив" id="37" weight="0.27391829476038804" />
+      <edge source="Многоточие" target="Вообще" id="38" weight="0.2088566486473673" />
+      <edge source="Многоточие" target="Джиз" id="39" weight="0.21334035058925566" />
+      <edge source="Многоточие" target="Лигалайз" id="40" weight="0.29426149258692036" />
+      <edge source="Многоточие" target="Хаски" id="41" weight="0.2115989896743471" />
+      <edge source="Многоточие" target="Andy Panda" id="42" weight="0.21900237615161244" />
+      <edge source="Многоточие" target="L'One" id="43" weight="0.24537161576543073" />
+      <edge source="Многоточие" target="T-Fest" id="44" weight="0.21299505774768723" />
+      <edge source="Многоточие" target="Гекто" id="45" weight="0.21035920798419067" />
+      <edge source="Многоточие" target="Домино" id="46" weight="0.23079613893376255" />
+      <edge source="Многоточие" target="Монеточка" id="47" weight="0.20592977569765303" />
+      <edge source="Многоточие" target="Окси" id="48" weight="0.20437943068390269" />
+      <edge source="Многоточие" target="Узелок" id="49" weight="0.2106999435818371" />
+      <edge source="Многоточие" target="Хоми" id="50" weight="0.23079913859295478" />
+      <edge source="Многоточие" target="Хром" id="51" weight="0.2187386991246181" />
+      <edge source="Многоточие" target="Руставели (Многоточие)" id="52" weight="0.3191433190704719" />
+      <edge source="Многоточие" target="многоточие" id="53" weight="0.2645909326874675" />
+      <edge source="Многоточие" target="Третий Путь (Многоточие и M. Squad)" id="54" weight="0.26998763292564354" />
+      <edge source="Многоточие" target="Третий Путь (Многоточие и M.Squad)" id="55" weight="0.29631238159633067" />
+      <edge source="Многоточие" target="Зарина, Многоточие и Корни" id="56" weight="0.25518249822498557" />
+      <edge source="Многоточие" target="Многоточие (Третий Путь)" id="57" weight="0.22904103850038895" />
+      <edge source="Многоточие" target="Многоточие [Третий Путь]" id="58" weight="0.2414403925793084" />
+      <edge source="Многоточие" target="Многоточие( третий путь)" id="59" weight="0.22866802622462976" />
+      <edge source="АК-47" target="Ак-47" id="60" weight="0.4410201793965472" />
+      <edge source="АК-47" target="Витя АК-47" id="61" weight="0.42904037226013836" />
+      <edge source="АК-47" target="Триагрутрика" id="62" weight="0.39881164982745926" />
+      <edge source="АК-47" target="Гуф" id="63" weight="0.3310881018318245" />
+      <edge source="АК-47" target="Баста" id="64" weight="0.3249245430613339" />
+      <edge source="АК-47" target="Птаха" id="65" weight="0.29940415117598845" />
+      <edge source="АК-47" target="Сява" id="66" weight="0.2507361038161803" />
+      <edge source="АК-47" target="Noize MC" id="67" weight="0.2470797041040032" />
+      <edge source="АК-47" target="Восточный округ" id="68" weight="0.26706145508210805" />
+      <edge source="АК-47" target="Словетский" id="69" weight="0.22852354758927246" />
+      <edge source="АК-47" target="Big Baby Tape" id="70" weight="0.20781411331961214" />
+      <edge source="АК-47" target="ак-47" id="71" weight="0.28752052065127026" />
+      <edge source="АК-47" target="АК 47" id="72" weight="0.25203995793662465" />
+      <edge source="АК-47" target="Ак" id="73" weight="0.28518661748967644" />
+      <edge source="АК-47" target="Ак 47" id="74" weight="0.22654598299040304" />
+      <edge source="АК-47" target="[АК-47]" id="75" weight="0.23311806437320537" />
+      <edge source="АК-47" target="┴═╦╕АК-47" id="76" weight="0.21943775133781593" />
+      <edge source="АК-47" target="АК- 47" id="77" weight="0.2164357617910358" />
+      <edge source="АК-47" target="Витя Ака 47" id="78" weight="0.2306838189167272" />
+      <edge source="АК-47" target="ака 47" id="79" weight="0.2173054267376709" />
+      <edge source="АК-47" target="•АК-47" id="80" weight="0.22294824189634818" />
+      <edge source="АК-47" target="█ Ак-47" id="81" weight="0.2924913282344587" />
+      <edge source="АК-47" target="►АК-47" id="82" weight="0.22294824189634818" />
+      <edge source="Баста" target="Смоки Мо" id="83" weight="0.4484315718503822" />
+      <edge source="Баста" target="Гуф" id="84" weight="0.4333736035039689" />
+      <edge source="Баста" target="Птаха" id="85" weight="0.3218164956953498" />
+      <edge source="Баста" target="Каста" id="86" weight="0.31617195740764237" />
+      <edge source="Баста" target="Кровосток" id="87" weight="0.24537341720861486" />
+      <edge source="Баста" target="Johnyboy" id="88" weight="0.2777972416621963" />
+      <edge source="Баста" target="Сява" id="89" weight="0.22591544787216794" />
+      <edge source="Баста" target="Noize MC" id="90" weight="0.26305751280652806" />
+      <edge source="Баста" target="Вульгарный Тонн" id="91" weight="0.31059038204143624" />
+      <edge source="Баста" target="Рем Дигга" id="92" weight="0.30584147679597856" />
+      <edge source="Баста" target="Centr" id="93" weight="0.28111622591508434" />
+      <edge source="Баста" target="Truwer" id="94" weight="0.23738020203446086" />
+      <edge source="Баста" target="Скриптонит" id="95" weight="0.2656905742234573" />
+      <edge source="Баста" target="НОМ" id="96" weight="0.2144321964785155" />
+      <edge source="Баста" target="Тимати" id="97" weight="0.28181526576951943" />
+      <edge source="Баста" target="Триада" id="98" weight="0.2963201692547705" />
+      <edge source="Баста" target="Markul" id="99" weight="0.24605487247655744" />
+      <edge source="Баста" target="PHARAOH" id="100" weight="0.30692466120844814" />
+      <edge source="Баста" target="Slim" id="101" weight="0.2186964090010855" />
+      <edge source="Баста" target="Thomas Mraz" id="102" weight="0.24610748394153797" />
+      <edge source="Баста" target="Miyagi" id="103" weight="0.25221719207538895" />
+      <edge source="Баста" target="Восточный округ" id="104" weight="0.2698765385322393" />
+      <edge source="Баста" target="Dino MC47" id="105" weight="0.24465896590274158" />
+      <edge source="Баста" target="Feduk" id="106" weight="0.2710487906973268" />
+      <edge source="Баста" target="ОУ74" id="107" weight="0.28724264499056573" />
+      <edge source="Баста" target="gone.Fludd" id="108" weight="0.2209824715340616" />
+      <edge source="Баста" target="Словетский" id="109" weight="0.23584745529794973" />
+      <edge source="Баста" target="Каратель" id="110" weight="0.22563259968619256" />
+      <edge source="Баста" target="Нигатив" id="111" weight="0.23552406376556462" />
+      <edge source="Баста" target="Лигалайз" id="112" weight="0.2501430892314786" />
+      <edge source="Смоки Мо" target="Onyx" id="113" weight="0.34925348913787374" />
+      <edge source="Смоки Мо" target="Krec" id="114" weight="0.28367652667451143" />
+      <edge source="Смоки Мо" target="the Chemodan" id="115" weight="0.28202087060107134" />
+      <edge source="Смоки Мо" target="Король" id="116" weight="0.2076357087517241" />
+      <edge source="Смоки Мо" target="Рем Дигга" id="117" weight="0.2764315353492111" />
+      <edge source="Смоки Мо" target="Скриптонит" id="118" weight="0.2557127560965102" />
+      <edge source="Смоки Мо" target="Тимати" id="119" weight="0.26540292758571754" />
+      <edge source="Смоки Мо" target="Markul" id="120" weight="0.2538659772621892" />
+      <edge source="Смоки Мо" target="PHARAOH" id="121" weight="0.23836910439633463" />
+      <edge source="Смоки Мо" target="Thomas Mraz" id="122" weight="0.22941528494192" />
+      <edge source="Смоки Мо" target="ЛСП" id="123" weight="0.21713179379676362" />
+      <edge source="Смоки Мо" target="ОУ74" id="124" weight="0.2670495207053043" />
+      <edge source="Смоки Мо" target="gone.Fludd" id="125" weight="0.2398115295605308" />
+      <edge source="Смоки Мо" target="Ассаи" id="126" weight="0.2588440853381648" />
+      <edge source="Смоки Мо" target="Словетский" id="127" weight="0.2205374314555111" />
+      <edge source="Смоки Мо" target="Каратель" id="128" weight="0.2173628934352089" />
+      <edge source="Смоки Мо" target="Вообще" id="129" weight="0.20124309723128808" />
+      <edge source="Смоки Мо" target="Лигалайз" id="130" weight="0.24788508933773068" />
+      <edge source="Смоки Мо" target="Andy Panda" id="131" weight="0.20338505404280136" />
+      <edge source="Смоки Мо" target="L'One" id="132" weight="0.22630816658571853" />
+      <edge source="Смоки Мо" target="T-Fest" id="133" weight="0.20978671639164834" />
+      <edge source="Смоки Мо" target="Песочные Люди" id="134" weight="0.24882669015131045" />
+      <edge source="Гуф" target="Птаха" id="135" weight="0.39751052826415584" />
+      <edge source="Гуф" target="ОУ74" id="136" weight="0.3756703553239591" />
+      <edge source="Гуф" target="Centr" id="137" weight="0.34441737274053064" />
+      <edge source="Гуф" target="Каста" id="138" weight="0.3279409246019943" />
+      <edge source="Гуф" target="Oxxxymiron" id="139" weight="0.2675980130209387" />
+      <edge source="Гуф" target="Johnyboy" id="140" weight="0.2758603876134811" />
+      <edge source="Гуф" target="Сява" id="141" weight="0.23794368047911257" />
+      <edge source="Гуф" target="Noize MC" id="142" weight="0.25994757635685867" />
+      <edge source="Гуф" target="Вульгарный Тонн" id="143" weight="0.30719156582955176" />
+      <edge source="Гуф" target="Рем Дигга" id="144" weight="0.27221757624417625" />
+      <edge source="Гуф" target="Тимати" id="145" weight="0.2795094349879389" />
+      <edge source="Гуф" target="Slim" id="146" weight="0.264484163008636" />
+      <edge source="Гуф" target="Dino MC47" id="147" weight="0.24833997465599672" />
+      <edge source="Гуф" target="Витя АК-47" id="148" weight="0.2433620815249572" />
+      <edge source="Каста" target="Птаха" id="149" weight="0.288751448889871" />
+      <edge source="Каста" target="Триада" id="150" weight="0.2849847441674066" />
+      <edge source="Каста" target="Король" id="151" weight="0.2114237906042397" />
+      <edge source="Каста" target="Монеточка" id="152" weight="0.22726611695809812" />
+      <edge source="Oxxxymiron" target="Porchy" id="153" weight="0.30126497387253465" />
+      <edge source="Oxxxymiron" target="Markul" id="154" weight="0.28895401989003183" />
+      <edge source="Oxxxymiron" target="Вульгарный Тонн" id="155" weight="0.27300192066186063" />
+      <edge source="Oxxxymiron" target="Витоса" id="156" weight="0.20036701729778642" />
+      <edge source="Король" target="Птаха" id="157" weight="0.2087651440426033" />
+      <edge source="Король" target="Рем Дигга" id="158" weight="0.20807807410077492" />
+      <edge source="Кровосток" target="ИСН" id="159" weight="0.31244430413321955" />
+      <edge source="Кровосток" target="Злой дух" id="160" weight="0.25494733087844473" />
+      <edge source="Кровосток" target="Птаха" id="161" weight="0.24470481101106492" />
+      <edge source="Кровосток" target="Злой Дух" id="162" weight="0.24025868047112597" />
+      <edge source="Кровосток" target="Круть" id="163" weight="0.24025868047112597" />
+      <edge source="ТГК" target="12 ТРИАГРУТРИКА" id="164" weight="0.5227229292616576" />
+      <edge source="ТГК" target="ТРИАГРУТРИКА ]" id="165" weight="0.5227229292616576" />
+      <edge source="ТГК" target="ТРИАГРУТРИКА" id="166" weight="0.5095274335169904" />
+      <edge source="ТГК" target="Триагутрика" id="167" weight="0.49990150796877775" />
+      <edge source="ТГК" target="TRIAGRUTRIKA" id="168" weight="0.4629282125892021" />
+      <edge source="ТГК" target="the Chemodan" id="169" weight="0.34975786490531285" />
+      <edge source="ТГК" target="Slim" id="170" weight="0.34360238746186916" />
+      <edge source="ТГК" target="Триагрутрика" id="171" weight="0.44592142452109546" />
+      <edge source="ТГК" target="Eminem" id="172" weight="0.30121900850561567" />
+      <edge source="Johnyboy" target="Вульгарный Тонн" id="173" weight="0.284576485109722" />
+      <edge source="Johnyboy" target="Птаха" id="174" weight="0.2709853924257384" />
+      <edge source="Johnyboy" target="Instasamka" id="175" weight="0.20034208402941678" />
+      <edge source="Johnyboy" target="Домино" id="176" weight="0.2116702270794132" />
+      <edge source="Johnyboy" target="Lil'Stop" id="177" weight="0.25141063337044817" />
+      <edge source="Johnyboy" target="Для доты именно для Васи Бояркина" id="178" weight="0.25141063337044817" />
+      <edge source="Птаха" target="Centr" id="179" weight="0.4022600249911723" />
+      <edge source="Птаха" target="Сява" id="180" weight="0.23141329031304336" />
+      <edge source="Птаха" target="Noize MC" id="181" weight="0.24651310147124558" />
+      <edge source="Птаха" target="Тимати" id="182" weight="0.27471941648500625" />
+      <edge source="Птаха" target="Slim" id="183" weight="0.2715789706915094" />
+      <edge source="Птаха" target="Децл" id="184" weight="0.2337823152907001" />
+      <edge source="Птаха" target="Корж" id="185" weight="0.23891740708635714" />
+      <edge source="Птаха" target="Dino MC47" id="186" weight="0.2370415674628025" />
+      <edge source="Птаха" target="Каратель" id="187" weight="0.21691116528928253" />
+      <edge source="Птаха" target="Вообще" id="188" weight="0.203369603608201" />
+      <edge source="Птаха" target="Джиз" id="189" weight="0.21213728349370367" />
+      <edge source="Птаха" target="L'One" id="190" weight="0.2242044959486453" />
+      <edge source="Птаха" target="Батарея" id="191" weight="0.2089518208884689" />
+      <edge source="the Chemodan" target="ТРИАГРУТРИКА ]" id="192" weight="0.35301755996587486" />
+      <edge source="the Chemodan" target="12 ТРИАГРУТРИКА" id="193" weight="0.35301755996587486" />
+      <edge source="the Chemodan" target="ТРИАГРУТРИКА" id="194" weight="0.3493845121597384" />
+      <edge source="the Chemodan" target="Триагутрика" id="195" weight="0.3427769845410667" />
+      <edge source="the Chemodan" target="ОУ74" id="196" weight="0.269924304034379" />
+      <edge source="the Chemodan" target="Восточный Округ" id="197" weight="0.3325325902257316" />
+      <edge source="the Chemodan" target="Brick Bazuka – Это реп" id="198" weight="0.3372269328087862" />
+      <edge source="the Chemodan" target="Надо по делам" id="199" weight="0.3362528292029629" />
+      <edge source="Вульгарный Тонн" target="Вульгарный тон" id="200" weight="0.4069146124456911" />
+      <edge source="Вульгарный Тонн" target="Вульгарный ТоН" id="201" weight="0.3331491372703687" />
+      <edge source="Вульгарный Тонн" target="Truwer" id="202" weight="0.23345365432415463" />
+      <edge source="Вульгарный Тонн" target="Децл" id="203" weight="0.22802408090815188" />
+      <edge source="Вульгарный Тонн" target="Yanix" id="204" weight="0.23706769092598742" />
+      <edge source="Вульгарный Тонн" target="Каратель" id="205" weight="0.2154297875748123" />
+      <edge source="Вульгарный Тонн" target="Лигалайз" id="206" weight="0.25253235723453454" />
+      <edge source="Вульгарный Тонн" target="T-Fest" id="207" weight="0.21085767161404373" />
+      <edge source="Рем Дигга" target="Триада" id="208" weight="0.31475800745149346" />
+      <edge source="Рем Дигга" target="Словетский" id="209" weight="0.21911557994782357" />
+      <edge source="Centr" target="◘ Легенды Про" id="210" weight="0.5920687529500555" />
+      <edge source="Эльбрус Джанмирзоев" target="Ассаи" id="211" weight="0.2511838143923232" />
+      <edge source="Эльбрус Джанмирзоев" target="Тимати" id="212" weight="0.23356166449350743" />
+      <edge source="Эльбрус Джанмирзоев" target="Krec" id="213" weight="0.23102636408480542" />
+      <edge source="Эльбрус Джанмирзоев" target="Триада" id="214" weight="0.2120938011038996" />
+      <edge source="Truwer" target="Скриптонит" id="215" weight="0.5587586964743045" />
+      <edge source="Truwer" target="JILLZAY - ТВОY НОМЕР" id="216" weight="0.3076417201687875" />
+      <edge source="Скриптонит" target="JILLZAY - ТВОY НОМЕР" id="217" weight="0.2544665792341055" />
+      <edge source="Скриптонит" target="100 music" id="218" weight="0.21523482776640723" />
+      <edge source="Скриптонит" target="Donnie Brasco" id="219" weight="0.2186153925914438" />
+      <edge source="Boulevard Depo" target="DOPECLVB" id="220" weight="0.4374449094021353" />
+      <edge source="Boulevard Depo" target="i61" id="221" weight="0.4365238118326017" />
+      <edge source="Boulevard Depo" target="IKBN - IRAQ" id="222" weight="0.4214795322105868" />
+      <edge source="Boulevard Depo" target="Thomas Mraz" id="223" weight="0.27252853710250613" />
+      <edge source="Boulevard Depo" target="PHARAOH" id="224" weight="0.2445603644363887" />
+      <edge source="Boulevard Depo" target="gone.Fludd" id="225" weight="0.2157939146624736" />
+      <edge source="Boulevard Depo" target="PANDAworld" id="226" weight="0.25486049000831607" />
+      <edge source="НОМ" target="Тимати" id="227" weight="0.20571705155085598" />
+      <edge source="Тимати" target="Markul" id="228" weight="0.24636664812346032" />
+      <edge source="Тимати" target="Децл" id="229" weight="0.23772305344119465" />
+      <edge source="Тимати" target="Miyagi" id="230" weight="0.24111394264910607" />
+      <edge source="Тимати" target="Корж" id="231" weight="0.23474926225269557" />
+      <edge source="Тимати" target="Yanix" id="232" weight="0.2359402197641914" />
+      <edge source="Тимати" target="ЛСП" id="233" weight="0.2192616314700364" />
+      <edge source="Тимати" target="Andy Panda" id="234" weight="0.20495671841950464" />
+      <edge source="Тимати" target="Big Baby Tape" id="235" weight="0.20640896632257444" />
+      <edge source="Тимати" target="Instasamka" id="236" weight="0.20653319564747397" />
+      <edge source="Тимати" target="T-Fest" id="237" weight="0.2152649936656599" />
+      <edge source="Тимати" target="Гречка" id="238" weight="0.20436666820574237" />
+      <edge source="Тимати" target="Хром" id="239" weight="0.20884039130013674" />
+      <edge source="Триада" target="Krec" id="240" weight="0.32476970204931366" />
+      <edge source="Триада" target="Ассаи" id="241" weight="0.2928084284979195" />
+      <edge source="Триада" target="Нигатив" id="242" weight="0.25253737785629227" />
+      <edge source="Триада" target="Хром" id="243" weight="0.20964880954483947" />
+      <edge source="Триада" target="ღ Крек" id="244" weight="0.24956675252952135" />
+      <edge source="PHARAOH" target="Thomas Mraz" id="245" weight="0.29818064171323494" />
+      <edge source="Slim" target="Eminem" id="246" weight="0.6439993611916335" />
+      <edge source="Децл" target="Странник Стк" id="247" weight="0.5418171314561436" />
+      <edge source="Децл" target="Йорш" id="248" weight="0.21037931267040744" />
+      <edge source="Элджей" target="(AlljЭлджей)" id="249" weight="0.5433042653065275" />
+      <edge source="Элджей" target="ND Production" id="250" weight="0.5388222197493818" />
+      <edge source="Элджей" target="Feduk" id="251" weight="0.28578497774628786" />
+      <edge source="Miyagi" target="Vadim Tikot" id="252" weight="0.37546588915092677" />
+      <edge source="Miyagi" target="Krec" id="253" weight="0.25144625116434305" />
+      <edge source="Miyagi" target="Andy Panda" id="254" weight="0.229592157948113" />
+      <edge source="Восточный округ" target="Rewake" id="255" weight="0.49844028426405246" />
+      <edge source="Восточный округ" target="Юрий Хованский" id="256" weight="0.48283481814372536" />
+      <edge source="Krec" target="Ассаи" id="257" weight="0.39763827189527834" />
+      <edge source="Krec" target="ღ Крек" id="258" weight="0.31479340621471824" />
+      <edge source="Krec" target="Любовь" id="259" weight="0.30529661506968336" />
+      <edge source="Krec" target="gone.Fludd" id="260" weight="0.22610486166085345" />
+      <edge source="Krec" target="Нигатив" id="261" weight="0.24801275231918146" />
+      <edge source="Krec" target="Джиз" id="262" weight="0.22526936112214024" />
+      <edge source="Krec" target="Andy Panda" id="263" weight="0.20308317215941102" />
+      <edge source="Krec" target="L'One" id="264" weight="0.23444682122532637" />
+      <edge source="Krec" target="Окси" id="265" weight="0.20334165385603958" />
+      <edge source="Krec" target="Хоми" id="266" weight="0.20028501805889035" />
+      <edge source="Krec" target="Хром" id="267" weight="0.23030058061917386" />
+      <edge source="Корж" target="Макс" id="268" weight="0.4483594003870049" />
+      <edge source="Корж" target="Вэ" id="269" weight="0.44775671627572383" />
+      <edge source="Корж" target="T-Fest" id="270" weight="0.21419310448593037" />
+      <edge source="Dino MC47" target="Dino MC 47" id="271" weight="0.43367799750627245" />
+      <edge source="Feduk" target="ND Production" id="272" weight="0.2807038335811298" />
+      <edge source="Feduk" target="(AlljЭлджей)" id="273" weight="0.272889617175778" />
+      <edge source="Feduk" target="Yanix" id="274" weight="0.23855318091985606" />
+      <edge source="Feduk" target="Вообще" id="275" weight="0.20613481911245632" />
+      <edge source="Feduk" target="Big Baby Tape" id="276" weight="0.22251378353584172" />
+      <edge source="Feduk" target="Музыкальная жизнь™" id="277" weight="0.20857919999188967" />
+      <edge source="Feduk" target="†.чЁ за трЕк.†" id="278" weight="0.21764480460057664" />
+      <edge source="Yanix" target="Big Baby Tape" id="279" weight="0.2742309424955535" />
+      <edge source="Yanix" target="Lil Morty" id="280" weight="0.23695616900299124" />
+      <edge source="Yanix" target="Instasamka" id="281" weight="0.2163967798500868" />
+      <edge source="Yanix" target="Гекто" id="282" weight="0.22120556075961495" />
+      <edge source="Грибы" target="Гриби" id="283" weight="0.5519893750356218" />
+      <edge source="Грибы" target="Ми типа гриби" id="284" weight="0.5343801871502624" />
+      <edge source="Грибы" target="Алла Пугачева" id="285" weight="0.3230310636755228" />
+      <edge source="Паук" target="Коля RotoFF" id="286" weight="0.46180139122553393" />
+      <edge source="Паук" target="трол фейс" id="287" weight="0.42580304985304845" />
+      <edge source="Паук" target="TROLLFACE" id="288" weight="0.42580304985304845" />
+      <edge source="Паук" target="ROTOFF" id="289" weight="0.4225272265110199" />
+      <edge source="Паук" target="Неизвестный исполнитель" id="290" weight="0.2386870586941377" />
+      <edge source="Триагрутрика" target="TRIAGRUTRIKA" id="291" weight="0.5795077872581668" />
+      <edge source="Триагрутрика" target="ТРИАГРУТРИКА" id="292" weight="0.5328453036454611" />
+      <edge source="Триагрутрика" target="ТРИАГРУТРИКА ]" id="293" weight="0.34205756242602336" />
+      <edge source="ЛСП" target="Максим Демах" id="294" weight="0.34086087830420414" />
+      <edge source="ЛСП" target="Instasamka" id="295" weight="0.21471611603835594" />
+      <edge source="Lil Morty" target="Big Baby Tape" id="296" weight="0.2681985638351993" />
+      <edge source="Ак-47" target="Клоунеско" id="297" weight="0.3783844317248981" />
+      <edge source="Ак-47" target="Ака 47" id="298" weight="0.32797199091068235" />
+      <edge source="Ак-47" target="ак-47" id="299" weight="0.2916125027975267" />
+      <edge source="Ак-47" target="АК 47" id="300" weight="0.28515290679684613" />
+      <edge source="Ассаи" target="ღ Крек" id="301" weight="0.3817075596262364" />
+      <edge source="Ассаи" target="Нигатив" id="302" weight="0.24477731955585288" />
+      <edge source="Ассаи" target="Джиз" id="303" weight="0.2531264675265367" />
+      <edge source="Ассаи" target="ИСН" id="304" weight="0.21421677664229263" />
+      <edge source="Ассаи" target="Хаски" id="305" weight="0.2048278129244115" />
+      <edge source="Ассаи" target="L'One" id="306" weight="0.23008522635489387" />
+      <edge source="Ассаи" target="Гекто" id="307" weight="0.20050769483858122" />
+      <edge source="Ассаи" target="Домино" id="308" weight="0.21900997439786296" />
+      <edge source="Ассаи" target="Узелок" id="309" weight="0.20997251162240957" />
+      <edge source="Ассаи" target="Хоми" id="310" weight="0.21434340284840225" />
+      <edge source="Ассаи" target="Хром" id="311" weight="0.22198532298741222" />
+      <edge source="Словетский" target="Dj Nik One" id="312" weight="0.3757892002537654" />
+      <edge source="Русский" target="Патриотические. Русские народные военные песни." id="313" weight="0.35201483090344593" />
+      <edge source="Витя АК-47" target="█ Ак-47" id="314" weight="0.5096212665036081" />
+      <edge source="Витя АК-47" target="ак-47" id="315" weight="0.2611478637686638" />
+      <edge source="Витя АК-47" target="•АК-47" id="316" weight="0.23992057604129507" />
+      <edge source="Витя АК-47" target="►АК-47" id="317" weight="0.23992057604129507" />
+      <edge source="Джиз" target="L'One" id="318" weight="0.21239161364779718" />
+      <edge source="Лигалайз" target="Bad Balance" id="319" weight="0.38343430019464103" />
+      <edge source="Big Baby Tape" target="Instasamka" id="320" weight="0.2056936199384354" />
+      <edge source="Батарея" target="Полюса" id="321" weight="0.2711989188403667" />
+      <edge source="Батарея" target="ПОЛЮСА" id="322" weight="0.2401529379127945" />
+      <edge source="Домино" target="Animal Jazz" id="323" weight="0.2954856848201254" />
+      <edge source="Домино" target="Анимал джаз" id="324" weight="0.2954856848201254" />
+      <edge source="Монеточка" target="абстрактный бомж" id="325" weight="0.3292899536721251" />
+      <edge source="Монеточка" target="zgheilmyfrr" id="326" weight="0.3291040256485081" />
+      <edge source="Тараканы!" target="Четыре таракана" id="327" weight="0.44455231047292243" />
+      <edge source="Тараканы!" target="Тараканы" id="328" weight="0.4406624847670547" />
+      <edge source="EK-Playaz" target="Mrs. DvaTree" id="329" weight="0.6859241283572565" />
+      <edge source="EK-Playaz" target="ака47 ek playaz" id="330" weight="0.5141971962907935" />
+      <edge source="EK-Playaz" target="Ek Playaz" id="331" weight="0.3842728898336341" />
+      <edge source="Onyx" target="Песочные Люди" id="332" weight="0.6612272632063724" />
+      <edge source="i61" target="IKBN - IRAQ" id="333" weight="0.4248339064222644" />
+      <edge source="i61" target="DOPECLVB" id="334" weight="0.42101434949492134" />
+      <edge source="Алые паруса" target="Алые Паруса." id="335" weight="0.8953981472345706" />
+      <edge source="Алые паруса" target="Песни орлятского круга" id="336" weight="0.5778209088505337" />
+      <edge source="Алые паруса" target="Барды" id="337" weight="0.5621765870152385" />
+      <edge source="Алые паруса" target="Валерия Лесовская" id="338" weight="0.3022918919864026" />
+      <edge source="Восточный Округ" target="Надо по делам" id="339" weight="0.980041133348663" />
+      <edge source="Восточный Округ" target="Brick Bazuka – Это реп" id="340" weight="0.9786361264156743" />
+      <edge source="Руставели (Многоточие)" target="♫ Многоточие" id="341" weight="0.5697163708729001" />
+      <edge source="ак-47" target="АК- 47" id="342" weight="0.5038644130095812" />
+      <edge source="ак-47" target="┴═╦╕АК-47" id="343" weight="0.4129592011609119" />
+      <edge source="Виктория Дайнеко и Корни" target="Вика Дайнеко и Корни" id="344" weight="0.9970036183519845" />
+      <edge source="Красная шапочка" target="к/ф Красная Шапочка" id="345" weight="0.9964388320582523" />
+      <edge source="Красная шапочка" target="Детские песни" id="346" weight="0.9713352779007725" />
+      <edge source="Красная шапочка" target="Песня Красной Шапочки" id="347" weight="0.9586922962874525" />
+      <edge source="Красная шапочка" target="Красная Шапочка" id="348" weight="0.9586922962874525" />
+      <edge source="Красная шапочка" target="из к/ф" id="349" weight="0.9552593010543977" />
+      <edge source="Красная шапочка" target=":))" id="350" weight="0.9224040823521223" />
+      <edge source="Красная шапочка" target="DJ Little Red Riding Hood" id="351" weight="0.833386312543211" />
+      <edge source="Красная шапочка" target="˜”*°•.☆ааааааааа!!!" id="352" weight="0.9184908155939037" />
+      <edge source="Красная шапочка" target="Красная шапка" id="353" weight="0.9552593010543977" />
+      <edge source="Красная шапочка" target="Песни из детских фильмов" id="354" weight="0.9146229762980117" />
+      <edge source="Красная шапочка" target="про Красную Шапочку" id="355" weight="0.9552593010543977" />
+      <edge source="Сокира Перуна" target="Нежеголь" id="356" weight="0.48629530008610244" />
+      <edge source="Сокира Перуна" target="9 ВАЛ" id="357" weight="0.2986119814521137" />
+      <edge source="Сокира Перуна" target="Антонина Матвиенко" id="358" weight="0.2594215162060212" />
+      <edge source="Neiz" target="Stas Neiz" id="359" weight="0.9859591476052111" />
+      <edge source="Neiz" target="Lasha MC" id="360" weight="0.28491748191176197" />
+      <edge source="АК 47" target="Ак" id="361" weight="0.44925532021470255" />
+      <edge source="Алена Апина" target="Алёна Апина" id="362" weight="0.8327435296954014" />
+      <edge source="Алена Апина" target="Апина" id="363" weight="0.8209555949604825" />
+      <edge source="Алена Апина" target="Владимир Трошин" id="364" weight="0.33055750334181266" />
+      <edge source="Барды" target="Барды." id="365" weight="0.7677518242585404" />
+      <edge source="Барды" target="Алые Паруса." id="366" weight="0.6218866145843088" />
+      <edge source="Барды" target="Валерия Лесовская" id="367" weight="0.21594361788686126" />
+      <edge source="Барды" target="Песни орлятского круга" id="368" weight="0.2142065504582067" />
+      <edge source="Ваня Воробей" target="ЗОЖ" id="369" weight="0.9577476451913899" />
+      <edge source="Ваня Воробей" target="Воробей" id="370" weight="0.9533540183814218" />
+      <edge source="Клоунеско" target="EK Playaz п.у. Клоунеско" id="371" weight="0.5117055247240933" />
+      <edge source="Клоунеско" target="EK Playaz" id="372" weight="0.42450161408060705" />
+      <edge source="Неизвестен" target="LOUIS PASTEUR" id="373" weight="0.6963935493409028" />
+      <edge source="Неизвестен" target="Louis Pasteur" id="374" weight="0.6471476517646114" />
+      <edge source="Неизвестен" target="трол фейс" id="375" weight="0.38691490650758975" />
+      <edge source="Неизвестен" target="TROLLFACE" id="376" weight="0.38691490650758975" />
+      <edge source="Неизвестен" target="ROTOFF" id="377" weight="0.3518179827677332" />
+      <edge source="Неизвестный исполнитель" target="это девка словно пуля" id="378" weight="0.6742734507887729" />
+      <edge source="Неизвестный исполнитель" target="ЧиСтО боМ боММ" id="379" weight="0.6742734507887729" />
+      <edge source="Неизвестный исполнитель" target="детская песенка" id="380" weight="0.5802293258820618" />
+      <edge source="Неизвестный исполнитель" target="Детская" id="381" weight="0.5802293258820618" />
+      <edge source="Неизвестный исполнитель" target="Песьня." id="382" weight="0.5802293258820618" />
+      <edge source="Неизвестный исполнитель" target="TROLLFACE" id="383" weight="0.44891613545745296" />
+      <edge source="Неизвестный исполнитель" target="Коля RotoFF" id="384" weight="0.40033843499305044" />
+      <edge source="Неизвестный исполнитель" target="трол фейс" id="385" weight="0.44891613545745296" />
+      <edge source="Полюса" target="ПОЛЮСА" id="386" weight="0.9510576813413755" />
+      <edge source="ТРИАГРУТРИКА" target="TRIAGRUTRIKA" id="387" weight="0.9617043207243393" />
+      <edge source="ТРИАГРУТРИКА" target="12 ТРИАГРУТРИКА" id="388" weight="0.8550537962645712" />
+      <edge source="ТРИАГРУТРИКА" target="ТРИАГРУТРИКА ]" id="389" weight="0.8550537962645712" />
+      <edge source="ТРИАГРУТРИКА" target="Триагутрика" id="390" weight="0.8152127610607545" />
+      <edge source="многоточие" target="[I love [Music ❤ ]" id="391" weight="0.7618159765918872" />
+      <edge source="многоточие" target="Зарина, Многоточие и Корни" id="392" weight="0.5661201708469794" />
+      <edge source="DOPECLVB" target="IKBN - IRAQ" id="393" weight="0.745958143182882" />
+      <edge source="T.A. Yanix" target="#SWAGGAЖОПС" id="394" weight="0.9977188758931596" />
+      <edge source="TRIAGRUTRIKA" target="12 ТРИАГРУТРИКА" id="395" weight="0.7333754260139492" />
+      <edge source="TRIAGRUTRIKA" target="ТРИАГРУТРИКА ]" id="396" weight="0.7333754260139492" />
+      <edge source="TRIAGRUTRIKA" target="Триагутрика" id="397" weight="0.7014943295264755" />
+      <edge source="dom!No" target="не ну это пиздец песня" id="398" weight="0.49845965768676437" />
+      <edge source="Аля Кудряшева" target="Игорь Белый" id="399" weight="0.9852224382203292" />
+      <edge source="Аля Кудряшева" target="Аля Кудряшова" id="400" weight="0.981768566186273" />
+      <edge source="Алёна Апина" target="Апина" id="401" weight="0.9920717709037112" />
+      <edge source="Алёна Апина" target="Владимир Трошин" id="402" weight="0.3971703398106691" />
+      <edge source="Армия брат" target="Армейская" id="403" weight="0.996225322354413" />
+      <edge source="Бьянка" target="БьЯНК@" id="404" weight="0.5613735421348625" />
+      <edge source="Вадим Мулерман" target="8 Вадим Мулерман" id="405" weight="0.9230767213643517" />
+      <edge source="Вадим Мулерман" target="Песни нашего века" id="406" weight="0.7775500341848828" />
+      <edge source="Вадим Мулерман" target="Квартет физфака пу Сергея Никитина" id="407" weight="0.7559296910301431" />
+      <edge source="Вадим Сажин" target="ВАДИМ САЖИН" id="408" weight="0.9690187269202993" />
+      <edge source="Вадим Сажин" target="Праздничный хор" id="409" weight="0.5422722774839768" />
+      <edge source="Вадим Сажин" target="Хор Минского Свято-Елисаветинского монастыря. )" id="410" weight="0.5422722774839768" />
+      <edge source="Витоса" target="Rigos" id="411" weight="0.5548912941284228" />
+      <edge source="Гагарина Полина" target="Полина Гагарина" id="412" weight="0.9918540651753266" />
+      <edge source="Гриби" target="Ми типа гриби" id="413" weight="0.9219202737514289" />
+      <edge source="Детские Песни" target="Вокальный Квартет &quot;Аккорд&quot;" id="414" weight="0.9899608542349861" />
+      <edge source="Детские Песни" target="Шишков Сергей" id="415" weight="0.9899608542349861" />
+      <edge source="Детские Песни" target="Анатолий Александрович" id="416" weight="0.9899608542349861" />
+      <edge source="Детские Песни" target="♨♨♨Детская песня♨♨♨" id="417" weight="0.9421366828694915" />
+      <edge source="Детские Песни" target="Песьня." id="418" weight="0.9208390033624206" />
+      <edge source="Детские песни" target="Песня Красной Шапочки" id="419" weight="0.9943519706264793" />
+      <edge source="Детские песни" target="Красная Шапочка" id="420" weight="0.9943519706264793" />
+      <edge source="Детские песни" target="к/ф Красная Шапочка" id="421" weight="0.9567825858001233" />
+      <edge source="Детские песни" target=":))" id="422" weight="0.9565275520620395" />
+      <edge source="Детские песни" target="DJ Little Red Riding Hood" id="423" weight="0.8495465121138384" />
+      <edge source="Детские песни" target="˜”*°•.☆ааааааааа!!!" id="424" weight="0.9515340038454148" />
+      <edge source="Звери" target="●" id="425" weight="0.9921648834992307" />
+      <edge source="Игорь Белый" target="Аля Кудряшова" id="426" weight="0.9963883044173443" />
+      <edge source="Майя Кристалинская" target="Кристаллинская Майя" id="427" weight="0.8882516580659549" />
+      <edge source="От Вінта" target="От Винта" id="428" weight="0.9943272334639128" />
+      <edge source="От Вінта" target="Ot vinta" id="429" weight="0.9911477604745573" />
+      <edge source="От Вінта" target="Ot Vinta!" id="430" weight="0.9911477604745573" />
+      <edge source="Регги" target="реги" id="431" weight="0.9863172782669376" />
+      <edge source="Регги" target="Доктор Айболит" id="432" weight="0.9863172782669376" />
+      <edge source="Сатана Печёт Блины" target="сатана печет блины" id="433" weight="0.6884738501004012" />
+      <edge source="Соня Мармеладова" target="Гнойный" id="434" weight="0.9960801226859626" />
+      <edge source="Соня Мармеладова" target="Redo" id="435" weight="0.950926422187814" />
+      <edge source="Соня Мармеладова" target="Flowdan" id="436" weight="0.950926422187814" />
+      <edge source="Чичерина" target="Чечерина" id="437" weight="0.9892855637350016" />
+      <edge source="к/ф Красная Шапочка" target="Красная шапка" id="438" weight="0.9686190188966793" />
+      <edge source="к/ф Красная Шапочка" target="из к/ф" id="439" weight="0.9686190188966793" />
+      <edge source="к/ф Красная Шапочка" target="про Красную Шапочку" id="440" weight="0.9686190188966793" />
+      <edge source="к/ф Красная Шапочка" target="Песни из детских фильмов" id="441" weight="0.9274143774201178" />
+      <edge source="┴═╦╕АК-47" target="АК- 47" id="442" weight="0.7305393934847603" />
+      <edge source="&quot;Алые паруса&quot;" target="Валерия Лесовская" id="443" weight="0.3105236402071158" />
+      <edge source="&quot;Алые паруса&quot;" target="Песни орлятского круга" id="444" weight="0.20180574996443415" />
+      <edge source="(AlljЭлджей)" target="ND Production" id="445" weight="0.8697896409569131" />
+      <edge source="1 klass" target="Domino-Прыгай в такт" id="446" weight="0.4120340057671158" />
+      <edge source="10. Сплин" target="Сплин" id="447" weight="0.9998671990911793" />
+      <edge source="100 music" target="Donnie Brasco" id="448" weight="0.9754768518683699" />
+      <edge source="12 ТРИАГРУТРИКА" target="ТРИАГРУТРИКА ]" id="449" weight="0.9999999999999998" />
+      <edge source="12 ТРИАГРУТРИКА" target="Триагутрика" id="450" weight="0.9503650438546911" />
+      <edge source="207. Soulkast" target="Soulkast" id="451" weight="1.0000000000000002" />
+      <edge source="4SGM" target="Dav" id="452" weight="0.993248621623588" />
+      <edge source="5'nizza" target="5'nizza - Белые рубашки" id="453" weight="0.9013850624168621" />
+      <edge source="5'nizza" target="Сергей Бабкин" id="454" weight="0.7822634271709086" />
+      <edge source="5'nizza - Белые рубашки" target="Сергей Бабкин" id="455" weight="0.752286957229534" />
+      <edge source="8 Вадим Мулерман" target="Песни нашего века" id="456" weight="0.7973640775578168" />
+      <edge source="8 Вадим Мулерман" target="Квартет физфака пу Сергея Никитина" id="457" weight="0.7762686240916475" />
+      <edge source=":))" target="˜”*°•.☆ааааааааа!!!" id="458" weight="0.9922468688937244" />
+      <edge source=":))" target="Песня Красной Шапочки" id="459" weight="0.9643955379049621" />
+      <edge source=":))" target="Красная Шапочка" id="460" weight="0.9643955379049621" />
+      <edge source=":))" target="DJ Little Red Riding Hood" id="461" weight="0.8277906707361151" />
+      <edge source="Animal Jazz" target="Анимал джаз" id="462" weight="1.0000000000000002" />
+      <edge source="Barry Gibb" target="МЖ" id="463" weight="0.9999999999999997" />
+      <edge source="Bassnectar" target="Charlie Mole" id="464" weight="0.7952660744217045" />
+      <edge source="Brick Bazuka – Это реп" target="Надо по делам" id="465" weight="0.9971114299865956" />
+      <edge source="Chernikovskaya Hata" target="черниковская хата" id="466" weight="1.0000000000000002" />
+      <edge source="Chernikovskaya Hata" target="MEOW!" id="467" weight="0.9766362734700478" />
+      <edge source="D-Bosh" target="Курские соловьи" id="468" weight="0.2247684050205396" />
+      <edge source="DJ Little Red Riding Hood" target="Песня Красной Шапочки" id="469" weight="0.849641336526237" />
+      <edge source="DJ Little Red Riding Hood" target="Красная Шапочка" id="470" weight="0.849641336526237" />
+      <edge source="Daily" target="ЗАПАС" id="471" weight="0.2778845758723366" />
+      <edge source="Daily" target="Lasha MC" id="472" weight="0.25627530656807834" />
+      <edge source="Daily" target="Elect" id="473" weight="0.2406445700431977" />
+      <edge source="Daily" target="KOt StYlE" id="474" weight="0.2406445700431977" />
+      <edge source="EK Playaz" target="EK Playaz п.у. Клоунеско" id="475" weight="0.826968782009162" />
+      <edge source="Elect" target="KOt StYlE" id="476" weight="1.0000000000000002" />
+      <edge source="Elect" target="Lasha MC" id="477" weight="0.3137298851104241" />
+      <edge source="Elect" target="Jerry aka Нелегальный" id="478" weight="0.26596727637235157" />
+      <edge source="Flowdan" target="Redo" id="479" weight="1.0" />
+      <edge source="Flowdan" target="Гнойный" id="480" weight="0.9581737905705408" />
+      <edge source="Google Тёлка" target="слушай экзорцист" id="481" weight="0.9999999999999998" />
+      <edge source="Jencarlos" target="NATALIA OREIRO" id="482" weight="0.6760920318252888" />
+      <edge source="Jerry aka Нелегальный" target="KOt StYlE" id="483" weight="0.26596727637235157" />
+      <edge source="Jerry aka Нелегальный" target="Lasha MC" id="484" weight="0.24678453698573938" />
+      <edge source="KOt StYlE" target="Lasha MC" id="485" weight="0.3137298851104241" />
+      <edge source="LOUIS PASTEUR" target="Louis Pasteur" id="486" weight="0.6348464768966079" />
+      <edge source="Lasha MC" target="Stas Neiz" id="487" weight="0.2921726489886947" />
+      <edge source="Lil'Stop" target="Для доты именно для Васи Бояркина" id="488" weight="0.9999999999999993" />
+      <edge source="Loc- Dog" target="[Loc-Dog" id="489" weight="1.0000000000000004" />
+      <edge source="MC NO LIMIT" target="No Limit" id="490" weight="0.9999999999999989" />
+      <edge source="MEOW!" target="черниковская хата" id="491" weight="0.9766362734700478" />
+      <edge source="Mrs. DvaTree" target="ака47 ek playaz" id="492" weight="0.7757912728094072" />
+      <edge source="Nasty Nay" target="dom1No" id="493" weight="0.49366745570513204" />
+      <edge source="Ot Vinta!" target="Ot vinta" id="494" weight="0.9999999999999999" />
+      <edge source="Ot Vinta!" target="От Винта" id="495" weight="0.9905361187131086" />
+      <edge source="Ot vinta" target="От Винта" id="496" weight="0.9905361187131086" />
+      <edge source="ROTOFF" target="Коля RotoFF" id="497" weight="0.8335325724956759" />
+      <edge source="ROTOFF" target="трол фейс" id="498" weight="0.6385289499316958" />
+      <edge source="ROTOFF" target="TROLLFACE" id="499" weight="0.6385289499316958" />
+      <edge source="Redo" target="Гнойный" id="500" weight="0.9581737905705408" />
+      <edge source="Rewake" target="Юрий Хованский" id="501" weight="0.9543130150724343" />
+      <edge source="SD AND SCHOKK" target="✵ Бек✵" id="502" weight="0.9999999999999998" />
+      <edge source="Slot" target="Пальчики" id="503" weight="0.9999999999999994" />
+      <edge source="Slot" target="Слот" id="504" weight="0.9999999999999994" />
+      <edge source="TROLLFACE" target="трол фейс" id="505" weight="1.0" />
+      <edge source="TROLLFACE" target="Коля RotoFF" id="506" weight="0.8638951478485218" />
+      <edge source="White Hot Ice feat. Многоточие" target="White hot ice feat Многоточие" id="507" weight="0.7742971213131643" />
+      <edge source="zgheilmyfrr" target="абстрактный бомж" id="508" weight="0.9926681685278858" />
+      <edge source="˜”*°•.☆ааааааааа!!!" target="Песня Красной Шапочки" id="509" weight="0.9582543381833454" />
+      <edge source="˜”*°•.☆ааааааааа!!!" target="Красная Шапочка" id="510" weight="0.9582543381833454" />
+      <edge source="А. Грейчайник" target="Андрей Грейчайник" id="511" weight="0.9999999999999999" />
+      <edge source="Абубакирова Гульфарида" target="Гөлфәридә Әбүбәкерова" id="512" weight="1.0000000000000033" />
+      <edge source="Абубакирова Гульфарида" target="Алина Булатова" id="513" weight="0.9952429405543736" />
+      <edge source="Абубакирова Гульфарида" target="Гаяр Нуриманов" id="514" weight="0.9615305395211645" />
+      <edge source="Агата Кристи" target="Агата Кристи - Чудеса" id="515" weight="0.9947034165550476" />
+      <edge source="Айгуль Бариева" target="Лилия Биктимирова" id="516" weight="0.9999999999999999" />
+      <edge source="Айсылу Мухамадиева" target="Фархетдинова Зайнап" id="517" weight="0.24701864012965843" />
+      <edge source="Алина Булатова" target="Гөлфәридә Әбүбәкерова" id="518" weight="0.9952429405543736" />
+      <edge source="Алина Булатова" target="Гаяр Нуриманов" id="519" weight="0.9632645427115646" />
+      <edge source="Алые Паруса." target="Валерия Лесовская" id="520" weight="0.33522511307995223" />
+      <edge source="Алые Паруса." target="Песни орлятского круга" id="521" weight="0.33115504179156435" />
+      <edge source="Анатолий Александрович" target="Вокальный Квартет &quot;Аккорд&quot;" id="522" weight="0.9999999999999994" />
+      <edge source="Анатолий Александрович" target="Шишков Сергей" id="523" weight="0.9999999999999994" />
+      <edge source="Анатолий Александрович" target="♨♨♨Детская песня♨♨♨" id="524" weight="0.9509204587284512" />
+      <edge source="Анатолий Александрович" target="детская песенка" id="525" weight="0.9330925228219953" />
+      <edge source="Анатолий Александрович" target="Детская" id="526" weight="0.9330925228219953" />
+      <edge source="Антонина Матвиенко" target="Скрябін" id="527" weight="0.23134954121518006" />
+      <edge source="Апина" target="Владимир Трошин" id="528" weight="0.41578493671741773" />
+      <edge source="Армейские Песни" target="Дворовые песни" id="529" weight="0.9218661758350957" />
+      <edge source="Артиллеия" target="РВиА" id="530" weight="1.0" />
+      <edge source="БАРТО" target="Враги" id="531" weight="0.9076712007604912" />
+      <edge source="Барды." target="Юлия Самошкина" id="532" weight="0.25681827856098927" />
+      <edge source="ВАДИМ САЖИН" target="Праздничный хор" id="533" weight="0.37276322485308133" />
+      <edge source="ВАДИМ САЖИН" target="Хор Минского Свято-Елисаветинского монастыря. )" id="534" weight="0.37276322485308133" />
+      <edge source="ВИА Пламя" target="Курские соловьи" id="535" weight="0.22223322476578464" />
+      <edge source="Валерия Лесовская" target="Песни орлятского круга" id="536" weight="0.3501396558159098" />
+      <edge source="Василий Лавров" target="Лавров Василий" id="537" weight="0.9163849392671882" />
+      <edge source="Владимир Трошин" target="Раиса Неменова" id="538" weight="0.23186032108365506" />
+      <edge source="Владимир Трошин" target="Перевалов Геннадий" id="539" weight="0.20467612131379476" />
+      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="Шишков Сергей" id="540" weight="0.9999999999999994" />
+      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="♨♨♨Детская песня♨♨♨" id="541" weight="0.9509204587284512" />
+      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="Детская" id="542" weight="0.9330925228219953" />
+      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="Песьня." id="543" weight="0.9330925228219953" />
+      <edge source="Вокальный Квартет &quot;Аккорд&quot;" target="детская песенка" id="544" weight="0.9330925228219953" />
+      <edge source="Воробей" target="ЗОЖ" id="545" weight="0.8847098420879568" />
+      <edge source="Вэ" target="Макс" id="546" weight="0.9707563866093638" />
+      <edge source="Гаяр Нуриманов" target="Гөлфәридә Әбүбәкерова" id="547" weight="0.9615305395211645" />
+      <edge source="Гимн ВДВ" target="Голубые молнии" id="548" weight="1.0000000000000004" />
+      <edge source="Гимн ВДВ" target="Голубые Береты" id="549" weight="0.9542744660281295" />
+      <edge source="Голубые Береты" target="Голубые молнии" id="550" weight="0.9542744660281295" />
+      <edge source="Детская" target="детская песенка" id="551" weight="0.9999999999999999" />
+      <edge source="Детская" target="Песьня." id="552" weight="0.9999999999999999" />
+      <edge source="Детская" target="♨♨♨Детская песня♨♨♨" id="553" weight="0.978225743384569" />
+      <edge source="Доктор Айболит" target="реги" id="554" weight="0.9999999999999987" />
+      <edge source="Злой Дух" target="Круть" id="555" weight="0.999999999999998" />
+      <edge source="Злой Дух" target="Злой дух" id="556" weight="0.9335782303673081" />
+      <edge source="Злой дух" target="Круть" id="557" weight="0.9335782303673081" />
+      <edge source="КОЈЕКУДА" target="СИЛЕН Radio Beograd 2 -" id="558" weight="0.4669533004920421" />
+      <edge source="Каспийский Груз" target="я дура миша" id="559" weight="1.0000000000000007" />
+      <edge source="Каспийский Груз" target="Миша Fint" id="560" weight="0.917431710610542" />
+      <edge source="Квартет физфака пу Сергея Никитина" target="Песни нашего века" id="561" weight="0.9738856737851875" />
+      <edge source="Коля RotoFF" target="трол фейс" id="562" weight="0.8638951478485218" />
+      <edge source="Красная Шапочка" target="Песня Красной Шапочки" id="563" weight="1.0" />
+      <edge source="Красная шапка" target="про Красную Шапочку" id="564" weight="0.9999999999999998" />
+      <edge source="Красная шапка" target="из к/ф" id="565" weight="0.9999999999999998" />
+      <edge source="Красная шапка" target="Песни из детских фильмов" id="566" weight="0.9574604249217641" />
+      <edge source="КрэФ" target="Эмир Камалиев" id="567" weight="0.45159744788285205" />
+      <edge source="Курские соловьи" target="Оксана Почепа" id="568" weight="0.2016269718862658" />
+      <edge source="Левон" target="➨ Levon" id="569" weight="1.0" />
+      <edge source="Людмила Зыкина dnb mix" target="Хор" id="570" weight="0.2124896724724586" />
+      <edge source="М8Л8Tx" target="Молотх" id="571" weight="0.9520068230850431" />
+      <edge source="Маркул" target="Хайд" id="572" weight="1.0" />
+      <edge source="Маркул" target="Хайд &quot;Нерв&quot;" id="573" weight="0.9804809018966941" />
+      <edge source="Миша Fint" target="я дура миша" id="574" weight="0.917431710610542" />
+      <edge source="Музыкальная жизнь™" target="†.чЁ за трЕк.†" id="575" weight="0.9235029628075179" />
+      <edge source="Не Предел feat. Многоточие" target="✿Не Предел feat. Многоточие" id="576" weight="0.9760496585878725" />
+      <edge source="Нежеголь" target="Скрябін" id="577" weight="0.23053402146899948" />
+      <edge source="О. Васильчак та С.Роговський" target="Скрябін" id="578" weight="0.30038169696829703" />
+      <edge source="Пальчики" target="Слот" id="579" weight="0.9999999999999994" />
+      <edge source="Пацантрэ" target="ФИЗТЕХпесня" id="580" weight="0.21988471315879804" />
+      <edge source="Песни Фанатов ЦСКА" target="Фанаты ЦСКА" id="581" weight="1.0" />
+      <edge source="Песни из детских фильмов" target="про Красную Шапочку" id="582" weight="0.9574604249217641" />
+      <edge source="Песни из детских фильмов" target="из к/ф" id="583" weight="0.9574604249217641" />
+      <edge source="Песьня." target="детская песенка" id="584" weight="0.9999999999999999" />
+      <edge source="Песьня." target="♨♨♨Детская песня♨♨♨" id="585" weight="0.978225743384569" />
+      <edge source="Песьня." target="Шишков Сергей" id="586" weight="0.9330925228219953" />
+      <edge source="Петя OST" target="Хатико" id="587" weight="1.0" />
+      <edge source="Праздничный хор" target="Хор Минского Свято-Елисаветинского монастыря. )" id="588" weight="1.0000000000000002" />
+      <edge source="ТРИАГРУТРИКА ]" target="Триагутрика" id="589" weight="0.9503650438546911" />
+      <edge source="Тараканы" target="Четыре таракана" id="590" weight="0.991250015770406" />
+      <edge source="Фархетдинова Зайнап" target="Эмир Камалиев" id="591" weight="0.20184242401019084" />
+      <edge source="Хайд" target="Хайд &quot;Нерв&quot;" id="592" weight="0.9804809018966941" />
+      <edge source="ЧиСтО боМ боММ" target="это девка словно пуля" id="593" weight="1.0" />
+      <edge source="Шишков Сергей" target="♨♨♨Детская песня♨♨♨" id="594" weight="0.9509204587284512" />
+      <edge source="Шишков Сергей" target="детская песенка" id="595" weight="0.9330925228219953" />
+      <edge source="американские сайты с порнофильмами" target="порнофильм полиция маями" id="596" weight="0.45865775461425123" />
+      <edge source="американские сайты с порнофильмами" target="вудман" id="597" weight="0.4535708425011712" />
+      <edge source="американские сайты с порнофильмами" target="порнофильм - екатерина - императрица" id="598" weight="0.41120154456770086" />
+      <edge source="американские сайты с порнофильмами" target="секс on line веб камера" id="599" weight="0.41105523635524893" />
+      <edge source="американские сайты с порнофильмами" target="порнофильм приличный для мужа" id="600" weight="0.3941843384415812" />
+      <edge source="американские сайты с порнофильмами" target="длиные порно ролики" id="601" weight="0.3525386007223563" />
+      <edge source="американские сайты с порнофильмами" target="снятся в порнофильме" id="602" weight="0.28261600494529654" />
+      <edge source="вудман" target="порнофильм полиция маями" id="603" weight="0.4992441963120348" />
+      <edge source="вудман" target="секс on line веб камера" id="604" weight="0.49528070911002353" />
+      <edge source="вудман" target="порнофильм - екатерина - императрица" id="605" weight="0.46993627583484393" />
+      <edge source="вудман" target="длиные порно ролики" id="606" weight="0.3506311042375137" />
+      <edge source="детская песенка" target="♨♨♨Детская песня♨♨♨" id="607" weight="0.978225743384569" />
+      <edge source="длиные порно ролики" target="секс on line веб камера" id="608" weight="0.48532870130110034" />
+      <edge source="длиные порно ролики" target="порнофильм - екатерина - императрица" id="609" weight="0.4089702039061482" />
+      <edge source="длиные порно ролики" target="порнофильм полиция маями" id="610" weight="0.40607828895031245" />
+      <edge source="длиные порно ролики" target="порнофильм приличный для мужа" id="611" weight="0.3661603422594926" />
+      <edge source="длиные порно ролики" target="снятся в порнофильме" id="612" weight="0.2591739871854292" />
+      <edge source="из к/ф" target="про Красную Шапочку" id="613" weight="0.9999999999999998" />
+      <edge source="порнофильм - екатерина - императрица" target="порнофильм полиция маями" id="614" weight="0.5099703122145762" />
+      <edge source="порнофильм - екатерина - императрица" target="секс on line веб камера" id="615" weight="0.5034873093875138" />
+      <edge source="порнофильм - екатерина - императрица" target="порнофильм приличный для мужа" id="616" weight="0.4388695259221233" />
+      <edge source="порнофильм - екатерина - императрица" target="снятся в порнофильме" id="617" weight="0.27541916138976374" />
+      <edge source="порнофильм полиция маями" target="секс on line веб камера" id="618" weight="0.5122332141881702" />
+      <edge source="порнофильм полиция маями" target="порнофильм приличный для мужа" id="619" weight="0.41242069875165743" />
+      <edge source="порнофильм полиция маями" target="снятся в порнофильме" id="620" weight="0.2620017327036299" />
+      <edge source="порнофильм приличный для мужа" target="секс on line веб камера" id="621" weight="0.4245882741451774" />
+      <edge source="секс on line веб камера" target="снятся в порнофильме" id="622" weight="0.32752994428958826" />
+      <edge source="•АК-47" target="►АК-47" id="623" weight="1.0000000000000009" />
     </edges>
   </graph>
 </gexf>
